@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>05.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>42895492</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>e1055842-0a33-4ad9-87b2-be612795180e</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "БУДКОМ АЛЬЯНС"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>61072, м. Харків , ПРОСПЕКТ НАУКИ  буд. 31-А</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>205027</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>2750165.99</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>550033.2</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>550033.2</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>3300199.19</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432671713047</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>05.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№205027</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>205027</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>205027</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>Тканина вибивна, текстильна, полотняно
+го переплетення, виготовлена з синтетич
+них штапельних поліефірних волокон (50.5
+0-81.00)%, та волокон бавовни (49.50-19.
+00)%,просочення, дублювання та покриття
+пластмасами, що спостерігається
+неозброєним оком відсутні з надруковани
+м малюнком, у рулонах, завширшки 220+/-
+5см, поверхнева щільність 115(+/-10%)г/м
+2 , арт.КРІ-52/48-PRINT,235782,60 м2
+-27115,00 кг;
+      </VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>27115</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>101.426</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>5513410000</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>2750165.99</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>550033.198</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>07.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>42895492</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>30039c28-e4c1-4347-b937-d1d243905f56</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "БУДКОМ АЛЬЯНС"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>61072, м. Харків , ПРОСПЕКТ НАУКИ  буд. 31-А</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>205151</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>2721747.21</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>544349.44</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>544349.44</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>3266096.65</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432671713047</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>07.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№205151</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>205151</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>205151</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>Тканина вибивна , саржевого переплете
+ння чотирьох ниток, виготовлена з синтет
+ичних штапельних волокон з поліефіру - 7
+9,5+/-0,5% та бавовни - 20,5 +/-0,5%.Пр
+осочення, дублювання та покриття пластма
+сами що спостерігаються неозброєним око
+м відсутнє. Проба має максимальну і міні
+мальну ширину - 150см, максимальну і мін
+імальну ширину по фону( між пругами) - 1
+47см. Поверхнева щільність проби складає
+- 204 +/-1г/м2.136072м2
+      </VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>26806</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>101.535</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>5514420000</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>2721747.21</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>544349.442</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>10.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>42895492</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>a2f82210-687f-4c15-aa92-66578e89af2a</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "БУДКОМ АЛЬЯНС"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>61072, Харківськ.обл., м. Харків   пр-т. Науки, б.31-А, Україна</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>205225</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>2521151.68</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>504230.34</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>504230.34</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>3025382.01</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432671713047</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>10.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№205225</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>205225</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>205225</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>Тканина вибивна, текстильна, полотняно
+го переплетення, виготовлена з синтетичн
+их штапельних поліефірних волокон (50,5-
+81)% та волокон бавовни (49,5-19)%. Прос
+очення, дублювання й покриття пластмасам
+и, що спостерігаються неозброєним оком в
+ідсутні, з надрукованим малюнком, в руло
+нах завширшки 220+/-5см, поверхнева щіль
+ність 115(+/-10%)г/м2, арт. КРІ-52/48-PR
+INT - 25002,00кг, 217408,70м.кв.
+      </VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>25002</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>100.838</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>5513410000</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>2521151.68</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>504230.336</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>10.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>42895492</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>6061e130-bd4f-4802-bb3b-301f660d2bb4</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "БУДКОМ АЛЬЯНС"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>61072, м. Харків , ПРОСПЕКТ НАУКИ  буд. 31-А</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>205231</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>2800403.33</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>560080.67</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>560080.67</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>3360483.99</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432671713047</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>10.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№205231</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>205231</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>205231</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>Тканина вибивна, текстильна, полотнян
+ого переплетення, виготовлена з синтетич
+них штапельних поліефірних волокон (50,5
+-81)% та бавовняних волокон (49,5-19)%,
+просочення, дублювання та покриття пласт
+масами які спостерігаються неозброєним п
+оглядом відсутні, з надрукованим малюнко
+м, в рулонах, шириною 220 +/- 5см, повер
+хнева щільність 115 (+/-10%)г/м2. Артику
+л KPI-52/48-PRINT -216634,80м2, 24913,00
+кг.
+      </VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>24913</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>100.838</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>5513410000</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>2512177.09</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>502435.418</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="RECNO">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A1">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A13">
+          <VALUE>Тканина пофарбована, текстильна, полот
+няного переплетення, виготовлена з бавов
+няних волокон на 100%, просочення, дублю
+вання і покриття пластмасами які спостер
+ігаються неозброєним поглядом відсутні,
+в рулонах, завширшки 150(+/-5)см, поверх
+нева щільність 155(+/-10%)г/м2. Артикул
+C-150D - 15235,50м2. 2383,00кг.
+      </VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A15">
+          <VALUE>2383</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A16">
+          <VALUE>120.951</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A131">
+          <VALUE>5208329690</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A10">
+          <VALUE>288226.23</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A20">
+          <VALUE>57645.246</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>13.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>42895492</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>f8e23c2d-f3b7-4a8e-a555-7aca38b81a23</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "БУДКОМ АЛЬЯНС"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>Україна,61072,м.Харків,пр-т.Науки, буд.31А.</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>205278</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>3124126.59</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>624825.32</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>624825.32</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>3748951.91</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432671713047</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>13.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№205278</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>205278</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>205278</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>Тканина текстильна, полотняного переплетення, виготовлена з волокон бавовни на 100%, пофарбована, просочення, дублювання і покриття пластмасами які спостерігаються неозброєним поглядом відсутні, в рулонах шириною 226 (+/- 5) см, поверхнева щільність 127 (+/- 3) г / м2. Артикул D-COT220. 27933,60 м2. - 3554 кг.</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>3554</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>120.956</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>5208321900</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>429877.62</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>85975.524</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="RECNO">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A1">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A13">
+          <VALUE>Тканина текстильна, полотняного переплетення, виготовлена з волокон бавовни на 100%, вибивна з надрукованим малюнком, просочення, дублювання і покриття пластмасами які спостерігаються неозброєним поглядом відсутні, в рулонах шириною 220 (+/- 5) см, поверхнева щільність 136 (+/- 5) г / м2. Артикул P-COT220. 166320,00 м2. - 22054 кг.</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A15">
+          <VALUE>22054</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A16">
+          <VALUE>122.166</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A131">
+          <VALUE>5208520090</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A10">
+          <VALUE>2694248.96</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A20">
+          <VALUE>538849.792</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>14.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>42895492</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>f5ae3fb8-f276-436f-a305-d07f8beea7bb</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "БУДКОМ АЛЬЯНС"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>Україна, 61072,  м. Харків,        проспект Науки, буд. 31-А</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>205380</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>2647198.88</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>529439.78</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>529439.78</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>3176638.66</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432671713047</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>14.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№205380</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>205380</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>205380</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>Тканина, пофарбована в рожевий колір,
+полотняного переплетення. Просочення, ду
+блювання та покриття пластмасами, що спо
+стерігається неозброєним оком, відсутнє.
+З синтетичних комплексних текстурованих
+ниток з поліефіру - 100%. Загальна ширин
+а - 223 см; ширина по фону (між пругами)
+- 219 см; поверхнева щільність - 87+/-1
+г/м2. Артикул POLY/D. 195800,00 м2.
+      </VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>16749</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>98.365</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>5407520000</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>1647515.38</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>329503.076</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="RECNO">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A1">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A13">
+          <VALUE>Тканина вибивна, полотняного переплете
+ння. Просочення, дублювання та покриття
+пластмасами, що спостерігається неозброє
+ним оком, вудсутнє. З синтетичних компле
+ксних текстурованих ниток з поліефіру -
+100%. Загальна ширина - 222 см; ширина п
+о фону (між пругами) - 218 см; поверхнев
+а щільність - 86+/-1 г/м2. Артикул POLY/
+P. 118800,00 м2.
+      </VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A15">
+          <VALUE>10163</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A16">
+          <VALUE>98.365</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A131">
+          <VALUE>5407540000</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A10">
+          <VALUE>999683.5</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A20">
+          <VALUE>199936.7</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>14.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>42895492</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>46a9a945-1614-4d3e-8948-6c4ab4fc7ece</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "БУДКОМ АЛЬЯНС"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>Україна,61072,м.Харків,пр-т.Науки, буд.31А.</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>205381</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>1600693.76</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>320138.75</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>320138.75</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>1920832.51</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432671713047</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>14.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№205381</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>205381</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>205381</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>Трикотажне ворсове полотно з коротким розрізаним ворсом, з синтетичних поліефірних волокон на 100%, без просочення і покриття,шириною більше 30см. - 14769 кг;</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>14769</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>108.382</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>6001920000</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>1600693.76</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>320138.752</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
