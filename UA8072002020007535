@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>15.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>43233703</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>01a6f83f-768a-4a3d-9f55-e6cb76863627</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "ПРОФІСТАЛЬ ЛТД"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>61023, м. Харків, вул. Пушкінська, буд. 106. Україна</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>7535</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>1149903.03</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>229980.61</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>229980.61</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>1379883.64</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432337020313</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>15.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№7535</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>7535</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43233703</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>7535</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43233703</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>вироби з чорних металів для автомобілів: ланцюг АКПП (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>80</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>130.46</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>7315890000</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>10436.8</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>2087.36</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="RECNO">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A1">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A13">
+          <VALUE>насос масляний об'ємний ротаційний, шестерний, силовий гідравлічний для АКПП (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A15">
+          <VALUE>43</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A16">
+          <VALUE>229.916</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A131">
+          <VALUE>8413603100</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A10">
+          <VALUE>9886.39</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A20">
+          <VALUE>1977.278</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="RECNO">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A1">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A13">
+          <VALUE>клапани управління потоками гідравлічної рідини в АКПП (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A14">
+          <VALUE>набір</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A15">
+          <VALUE>100</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A16">
+          <VALUE>95.565</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A131">
+          <VALUE>8481805900</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A141">
+          <VALUE>2123</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A10">
+          <VALUE>9556.5</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A20">
+          <VALUE>1911.3</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="RECNO">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A1">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A13">
+          <VALUE>блок автоматичного управління автомобіля, на базі програмованого мікропроцесорного контролера з пам'яттю, на напругу 12В (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A15">
+          <VALUE>10</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A16">
+          <VALUE>637.1</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A131">
+          <VALUE>8537109100</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A10">
+          <VALUE>6371</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A20">
+          <VALUE>1274.2</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="RECNO">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A1">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A13">
+          <VALUE>коробка передач для моторних транспортних засобів (автомобілів) (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A15">
+          <VALUE>61</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A16">
+          <VALUE>7045.674</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708405098</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A10">
+          <VALUE>429786.11</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A20">
+          <VALUE>85957.222</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="RECNO">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A1">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A13">
+          <VALUE>роздавальна коробка для моторних транспортних засобів (автомобілів) (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A15">
+          <VALUE>52</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A16">
+          <VALUE>1863.703</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708405098</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A10">
+          <VALUE>96912.56</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A20">
+          <VALUE>19382.512</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="RECNO">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A1">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини коробок перемикання передач для автомобілів, не штамповані: комплект зч (шестерні, вали, планетарки) (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A14">
+          <VALUE>набір</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A15">
+          <VALUE>193</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A16">
+          <VALUE>1708.03</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708409998</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A141">
+          <VALUE>2123</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A10">
+          <VALUE>329649.79</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A20">
+          <VALUE>65929.958</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="RECNO">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A1">
+          <VALUE>8</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини коробок перемикання передач для автомобілів, не штамповані: диференціал з сателітами (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A14">
+          <VALUE>набір</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A16">
+          <VALUE>558.728</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708409998</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A141">
+          <VALUE>2123</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A10">
+          <VALUE>558.73</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A20">
+          <VALUE>111.746</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="RECNO">
+          <VALUE>8</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A1">
+          <VALUE>9</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини коробок перемикання передач для автомобілів, не штамповані: комплект зч (шестерні, вали, планетарки, гідроблок) (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A14">
+          <VALUE>набір</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A15">
+          <VALUE>28</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A16">
+          <VALUE>1616.321</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708409998</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A141">
+          <VALUE>2123</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A10">
+          <VALUE>45256.99</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A20">
+          <VALUE>9051.398</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="RECNO">
+          <VALUE>9</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A1">
+          <VALUE>10</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини коробок перемикання передач для автомобілів, не штамповані: вал АКПП (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A15">
+          <VALUE>55</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A16">
+          <VALUE>91.428</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708409998</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A10">
+          <VALUE>5028.54</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A20">
+          <VALUE>1005.708</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="RECNO">
+          <VALUE>10</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A1">
+          <VALUE>11</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини коробок перемикання передач для автомобілів, не штамповані: вихідний вал АКПП (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A15">
+          <VALUE>32</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A16">
+          <VALUE>139.682</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708409998</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A10">
+          <VALUE>4469.82</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A20">
+          <VALUE>893.964</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="RECNO">
+          <VALUE>11</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A1">
+          <VALUE>12</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини коробок перемикання передач для автомобілів, не штамповані: гідравлічний блок (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A15">
+          <VALUE>159</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A16">
+          <VALUE>323.289</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708409998</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A10">
+          <VALUE>51402.95</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A20">
+          <VALUE>10280.59</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="RECNO">
+          <VALUE>12</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A1">
+          <VALUE>13</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини коробок перемикання передач для автомобілів, не штамповані: гідротрансформатор (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A15">
+          <VALUE>157</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A16">
+          <VALUE>736.667</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708409998</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A10">
+          <VALUE>115656.72</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A20">
+          <VALUE>23131.344</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="RECNO">
+          <VALUE>13</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A1">
+          <VALUE>14</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини коробок перемикання передач для автомобілів, не штамповані: комплект шківів варіатора (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A14">
+          <VALUE>набір</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A15">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A16">
+          <VALUE>1210.578</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708409998</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A141">
+          <VALUE>2123</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A10">
+          <VALUE>7263.47</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A20">
+          <VALUE>1452.694</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="RECNO">
+          <VALUE>14</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A1">
+          <VALUE>15</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини зчеплення для автомобілів: барабан зчеплення (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A15">
+          <VALUE>69</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A16">
+          <VALUE>203.285</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708939098</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A10">
+          <VALUE>14026.66</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A20">
+          <VALUE>2805.332</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="RECNO">
+          <VALUE>15</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A1">
+          <VALUE>16</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини зчеплення для автомобілів: диски фрикційні (вживані)</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A15">
+          <VALUE>2000</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A16">
+          <VALUE>6.82</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708939098</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A10">
+          <VALUE>13640</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A20">
+          <VALUE>2728</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
