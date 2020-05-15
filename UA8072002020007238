@@ -1,0 +1,2749 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>10.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>43233703</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>7e8e39bf-c43d-4828-a233-42fcdb1173ab</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "ПРОФІСТАЛЬ ЛТД"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>61023,м. Харків, вул.ПУШКІНСЬКА,   будинок 106, Україна</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>7238</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>1572339.91</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>314467.98</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>314467.98</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>1886807.89</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432337020313</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>10.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№7238</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>7238</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43233703</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>7238</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43233703</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини двигуна внутрішнього згоряння з іскровим запалюванням для мотоцикла: блок циліндра</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>1200</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>53.111</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409910000</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>63733.2</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>12746.64</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="RECNO">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A1">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини двигуна внутрішнього згоряння з іскровим запалюванням для мотоцикла: комплект циліндра</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A15">
+          <VALUE>600</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A16">
+          <VALUE>141.629</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409910000</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A10">
+          <VALUE>84977.4</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A20">
+          <VALUE>16995.48</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="RECNO">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A1">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини двигуна внутрішнього згоряння з іскровим запалюванням для мотоцикла: комплект циліндра</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A15">
+          <VALUE>299</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A16">
+          <VALUE>93.858</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409910000</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A10">
+          <VALUE>28063.54</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A20">
+          <VALUE>5612.708</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="RECNO">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A1">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини двигуна внутрішнього згоряння з іскровим запалюванням для мотоцикла: карбюратор</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A16">
+          <VALUE>44.587</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409910000</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A10">
+          <VALUE>13376.1</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A20">
+          <VALUE>2675.22</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="RECNO">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A1">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини двигуна внутрішнього згоряння з іскровим запалюванням для мотоцикла: карбюратор</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A15">
+          <VALUE>500</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A16">
+          <VALUE>37.768</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409910000</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A10">
+          <VALUE>18884</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A20">
+          <VALUE>3776.8</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="RECNO">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A1">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини двигуна внутрішнього згоряння з іскровим запалюванням для мотоцикла: карбюратор</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A15">
+          <VALUE>700</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A16">
+          <VALUE>28.476</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409910000</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A10">
+          <VALUE>19933.2</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A20">
+          <VALUE>3986.64</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="RECNO">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A1">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини двигуна внутрішнього згоряння з іскровим запалюванням для мотоцикла: карбюратор</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A15">
+          <VALUE>600</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A16">
+          <VALUE>26.228</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409910000</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A10">
+          <VALUE>15736.8</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A20">
+          <VALUE>3147.36</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="RECNO">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A1">
+          <VALUE>8</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини двигуна внутрішнього згоряння з іскровим запалюванням для мотоцикла: карбюратор</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A16">
+          <VALUE>28.85</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409910000</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A10">
+          <VALUE>8655</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A20">
+          <VALUE>1731</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="RECNO">
+          <VALUE>8</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A1">
+          <VALUE>9</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини двигуна внутрішнього згоряння з іскровим запалюванням для мотоцикла: карбюратор</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A15">
+          <VALUE>200</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A16">
+          <VALUE>34.096</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409910000</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A10">
+          <VALUE>6819.2</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A20">
+          <VALUE>1363.84</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="RECNO">
+          <VALUE>9</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A1">
+          <VALUE>10</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини двигуна внутрішнього згоряння з іскровим запалюванням для мотоцикла: натягувач ланцюга ГРМ</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A14">
+          <VALUE>пар</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A15">
+          <VALUE>500</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A16">
+          <VALUE>3.672</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409910000</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A141">
+          <VALUE>1617</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A10">
+          <VALUE>1836</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A20">
+          <VALUE>367.2</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="RECNO">
+          <VALUE>10</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A1">
+          <VALUE>11</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A13">
+          <VALUE>елемент трансмісії: розподільний вал з чорного металу для мотоцикла</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A16">
+          <VALUE>15.553</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483109590</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A10">
+          <VALUE>4665.9</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A20">
+          <VALUE>933.18</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="RECNO">
+          <VALUE>11</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A1">
+          <VALUE>12</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A13">
+          <VALUE>елемент трансмісії: трос спідометра з чорного металу для мотоцикла</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A15">
+          <VALUE>2000</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A16">
+          <VALUE>9.881</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483109590</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A10">
+          <VALUE>19762</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A20">
+          <VALUE>3952.4</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="RECNO">
+          <VALUE>12</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A1">
+          <VALUE>13</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: обгону муфта</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A15">
+          <VALUE>500</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A16">
+          <VALUE>10.856</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A10">
+          <VALUE>5428</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A20">
+          <VALUE>1085.6</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="RECNO">
+          <VALUE>13</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A1">
+          <VALUE>14</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: пусковий вал</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A16">
+          <VALUE>31.252</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A10">
+          <VALUE>9375.6</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A20">
+          <VALUE>1875.12</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="RECNO">
+          <VALUE>14</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A1">
+          <VALUE>15</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: зірки трансмісії</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A15">
+          <VALUE>2000</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A16">
+          <VALUE>5.921</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A10">
+          <VALUE>11842</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A20">
+          <VALUE>2368.4</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="RECNO">
+          <VALUE>15</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A1">
+          <VALUE>16</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: зірки трансмісії</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A15">
+          <VALUE>1000</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A16">
+          <VALUE>9.376</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A10">
+          <VALUE>9376</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A20">
+          <VALUE>1875.2</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="RECNO">
+          <VALUE>16</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A1">
+          <VALUE>17</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: щока варіатора</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A15">
+          <VALUE>500</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A16">
+          <VALUE>8.882</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A10">
+          <VALUE>4441</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A20">
+          <VALUE>888.2</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="RECNO">
+          <VALUE>17</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A1">
+          <VALUE>18</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: амортизатор задній</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A16">
+          <VALUE>46.056</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A10">
+          <VALUE>13816.8</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A20">
+          <VALUE>2763.36</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="RECNO">
+          <VALUE>18</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A1">
+          <VALUE>19</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: амортизатор</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A16">
+          <VALUE>69.084</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A10">
+          <VALUE>20725.2</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A20">
+          <VALUE>4145.04</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="RECNO">
+          <VALUE>19</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A1">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: амортизатор</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A14">
+          <VALUE>пар</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A15">
+          <VALUE>200</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A16">
+          <VALUE>128.299</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A141">
+          <VALUE>1617</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A10">
+          <VALUE>25659.8</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A20">
+          <VALUE>5131.96</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="RECNO">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A1">
+          <VALUE>21</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: амортизатор</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A14">
+          <VALUE>пар</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A16">
+          <VALUE>129.944</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A141">
+          <VALUE>1617</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A10">
+          <VALUE>38983.2</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A20">
+          <VALUE>7796.64</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="RECNO">
+          <VALUE>21</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A1">
+          <VALUE>22</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: амортизатори передні</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A16">
+          <VALUE>115.14</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A10">
+          <VALUE>34542</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A20">
+          <VALUE>6908.4</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="RECNO">
+          <VALUE>22</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A1">
+          <VALUE>23</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: амортизатор задній</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A14">
+          <VALUE>пар</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A15">
+          <VALUE>301</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A16">
+          <VALUE>60.658</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A141">
+          <VALUE>1617</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A10">
+          <VALUE>18258.06</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A20">
+          <VALUE>3651.612</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="RECNO">
+          <VALUE>23</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A1">
+          <VALUE>24</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: амортизатор задній</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A14">
+          <VALUE>пар</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A15">
+          <VALUE>200</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A16">
+          <VALUE>49.346</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A141">
+          <VALUE>1617</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A10">
+          <VALUE>9869.2</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A20">
+          <VALUE>1973.84</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="RECNO">
+          <VALUE>24</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A1">
+          <VALUE>25</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: глушник</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A15">
+          <VALUE>200</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A16">
+          <VALUE>111.028</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A10">
+          <VALUE>22205.6</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A20">
+          <VALUE>4441.12</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="RECNO">
+          <VALUE>25</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A1">
+          <VALUE>26</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: колесо заднє</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A15">
+          <VALUE>100</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A16">
+          <VALUE>246.729</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A10">
+          <VALUE>24672.9</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A20">
+          <VALUE>4934.58</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="RECNO">
+          <VALUE>26</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A1">
+          <VALUE>27</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: колесо переднє</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A15">
+          <VALUE>30</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A16">
+          <VALUE>180.935</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A10">
+          <VALUE>5428.05</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A20">
+          <VALUE>1085.61</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="RECNO">
+          <VALUE>27</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A1">
+          <VALUE>28</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: колодки гальмівні</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A15">
+          <VALUE>1998</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A16">
+          <VALUE>8.397</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A10">
+          <VALUE>16777.21</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A20">
+          <VALUE>3355.442</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="RECNO">
+          <VALUE>28</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A1">
+          <VALUE>29</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: бак паливний</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A15">
+          <VALUE>200</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A16">
+          <VALUE>66.617</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A10">
+          <VALUE>13323.4</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A20">
+          <VALUE>2664.68</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="RECNO">
+          <VALUE>29</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A1">
+          <VALUE>30</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: обтічник фари</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A15">
+          <VALUE>500</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A16">
+          <VALUE>27.634</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A10">
+          <VALUE>13817</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A20">
+          <VALUE>2763.4</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="RECNO">
+          <VALUE>30</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A1">
+          <VALUE>31</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: обтічник фари</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A16">
+          <VALUE>27.963</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A10">
+          <VALUE>8388.9</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A20">
+          <VALUE>1677.78</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="RECNO">
+          <VALUE>31</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A1">
+          <VALUE>32</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: бак паливний</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A15">
+          <VALUE>1000</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A16">
+          <VALUE>5.921</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A10">
+          <VALUE>5921</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A20">
+          <VALUE>1184.2</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="RECNO">
+          <VALUE>32</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A1">
+          <VALUE>33</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: кришка варіатора</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A15">
+          <VALUE>500</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A16">
+          <VALUE>60.202</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A10">
+          <VALUE>30101</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A20">
+          <VALUE>6020.2</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="RECNO">
+          <VALUE>33</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A1">
+          <VALUE>34</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: кришка варіатора</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A16">
+          <VALUE>69.084</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A10">
+          <VALUE>20725.2</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A20">
+          <VALUE>4145.04</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="RECNO">
+          <VALUE>34</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A1">
+          <VALUE>35</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: зчеплення</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A15">
+          <VALUE>200</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A16">
+          <VALUE>49.346</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A10">
+          <VALUE>9869.2</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A20">
+          <VALUE>1973.84</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="RECNO">
+          <VALUE>35</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A1">
+          <VALUE>36</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: зчеплення</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A15">
+          <VALUE>400</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A16">
+          <VALUE>30.841</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A10">
+          <VALUE>12336.4</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A20">
+          <VALUE>2467.28</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="RECNO">
+          <VALUE>36</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A1">
+          <VALUE>37</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: крило переднє</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A16">
+          <VALUE>49.346</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A10">
+          <VALUE>14803.8</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A20">
+          <VALUE>2960.76</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="RECNO">
+          <VALUE>37</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A1">
+          <VALUE>38</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: крило заднє</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A15">
+          <VALUE>150</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A16">
+          <VALUE>69.084</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A10">
+          <VALUE>10362.6</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A20">
+          <VALUE>2072.52</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="RECNO">
+          <VALUE>38</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A1">
+          <VALUE>39</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: підніжка</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A16">
+          <VALUE>65.794</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A10">
+          <VALUE>19738.2</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A20">
+          <VALUE>3947.64</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="RECNO">
+          <VALUE>39</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A1">
+          <VALUE>40</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: підніжка</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A15">
+          <VALUE>200</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A16">
+          <VALUE>83.888</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A10">
+          <VALUE>16777.6</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A20">
+          <VALUE>3355.52</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="RECNO">
+          <VALUE>40</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A1">
+          <VALUE>41</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: сидіння</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A15">
+          <VALUE>500</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A16">
+          <VALUE>41.45</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A10">
+          <VALUE>20725</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A20">
+          <VALUE>4145</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="RECNO">
+          <VALUE>41</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A1">
+          <VALUE>42</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: трос газу</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A15">
+          <VALUE>2000</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A16">
+          <VALUE>5.428</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A10">
+          <VALUE>10856</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A20">
+          <VALUE>2171.2</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="RECNO">
+          <VALUE>42</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A1">
+          <VALUE>43</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: трос гальма</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A15">
+          <VALUE>1000</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A16">
+          <VALUE>11.35</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A10">
+          <VALUE>11350</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A20">
+          <VALUE>2270</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="RECNO">
+          <VALUE>43</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A1">
+          <VALUE>44</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини призначені та використовуються виключно з мотоциклами: храповик кік стартера</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A15">
+          <VALUE>500</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A16">
+          <VALUE>4.935</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A131">
+          <VALUE>8714100000</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A10">
+          <VALUE>2467.5</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A20">
+          <VALUE>493.5</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="RECNO">
+          <VALUE>44</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A1">
+          <VALUE>45</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини приладів для запуску двигунів внутрішнього згоряння мотоцикла: статор генератора</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A16">
+          <VALUE>85.72</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A131">
+          <VALUE>8511900090</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A10">
+          <VALUE>25716</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A20">
+          <VALUE>5143.2</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="RECNO">
+          <VALUE>45</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A1">
+          <VALUE>46</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини приладів для запуску двигунів внутрішнього згоряння мотоцикла: діодний міст генератора</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A16">
+          <VALUE>30.43</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A131">
+          <VALUE>8511900090</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A10">
+          <VALUE>9129</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A20">
+          <VALUE>1825.8</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="RECNO">
+          <VALUE>46</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A1">
+          <VALUE>47</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини приладів для запуску двигунів внутрішнього згоряння мотоцикла: діодний міст генератора</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A16">
+          <VALUE>26.716</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A131">
+          <VALUE>8511900090</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A10">
+          <VALUE>8014.8</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A20">
+          <VALUE>1602.96</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="RECNO">
+          <VALUE>47</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A1">
+          <VALUE>48</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A13">
+          <VALUE>обладнання для комутації або захисту електричного кола для напруги не більше 60В (сила струму понад 2А) для мотоцикла: реле</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A15">
+          <VALUE>1000</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A16">
+          <VALUE>5.143</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A131">
+          <VALUE>8536419090</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A10">
+          <VALUE>5143</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A20">
+          <VALUE>1028.6</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="RECNO">
+          <VALUE>48</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A1">
+          <VALUE>49</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A13">
+          <VALUE>обладнання для комутації або захисту електричного кола для напруги не більше 60В (сила струму понад 2А) для мотоцикла: реле</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A15">
+          <VALUE>1000</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A16">
+          <VALUE>4.204</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A131">
+          <VALUE>8536419090</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A10">
+          <VALUE>4204</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A20">
+          <VALUE>840.8</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="RECNO">
+          <VALUE>49</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A1">
+          <VALUE>50</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A13">
+          <VALUE>обладнання для комутації або захисту електричного кола для напруги не більше 60В (сила струму понад 2А) для мотоцикла: реле</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A15">
+          <VALUE>500</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A16">
+          <VALUE>6.081</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A131">
+          <VALUE>8536419090</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A10">
+          <VALUE>3040.5</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A20">
+          <VALUE>608.1</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="RECNO">
+          <VALUE>50</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A1">
+          <VALUE>51</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A13">
+          <VALUE>обладнання для комутації або захисту електричного кола для напруги не більше 60В (сила струму понад 2А) для мотоцикла: реле</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A15">
+          <VALUE>1000</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A16">
+          <VALUE>14.002</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A131">
+          <VALUE>8536419090</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A10">
+          <VALUE>14002</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A20">
+          <VALUE>2800.4</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="RECNO">
+          <VALUE>51</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A1">
+          <VALUE>52</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A13">
+          <VALUE>обладнання для комутації або захисту електричного кола для напруги не більше 60В (сила струму понад 2А) для мотоцикла: реле</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A15">
+          <VALUE>600</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A16">
+          <VALUE>18.644</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A131">
+          <VALUE>8536419090</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A10">
+          <VALUE>11186.4</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A20">
+          <VALUE>2237.28</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="RECNO">
+          <VALUE>52</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A1">
+          <VALUE>53</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A13">
+          <VALUE>прилади звукової сигналізації для мотоциклів: сигнал</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A15">
+          <VALUE>1000</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A16">
+          <VALUE>13.988</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A131">
+          <VALUE>8512309090</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A10">
+          <VALUE>13988</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A20">
+          <VALUE>2797.6</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="RECNO">
+          <VALUE>53</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A1">
+          <VALUE>54</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A13">
+          <VALUE>електрообладнання для пуску двигуна внутрішнього згоряння з іскровим запалюванням для мотоцикла: комутатор</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A15">
+          <VALUE>1500</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A16">
+          <VALUE>26.634</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A131">
+          <VALUE>8511800098</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A10">
+          <VALUE>39951</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A20">
+          <VALUE>7990.2</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="RECNO">
+          <VALUE>54</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A1">
+          <VALUE>55</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A13">
+          <VALUE>електрообладнання для пуску двигуна внутрішнього згоряння з іскровим запалюванням для мотоцикла: комутатор</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A15">
+          <VALUE>1000</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A16">
+          <VALUE>15.383</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A131">
+          <VALUE>8511800098</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A10">
+          <VALUE>15383</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A20">
+          <VALUE>3076.6</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="RECNO">
+          <VALUE>55</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A1">
+          <VALUE>56</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A13">
+          <VALUE>замки з недорогоцінних металів, які використовуються в мотоциклах: замок запалювання</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A16">
+          <VALUE>42.203</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A131">
+          <VALUE>8301200090</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A10">
+          <VALUE>12660.9</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A20">
+          <VALUE>2532.18</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="RECNO">
+          <VALUE>56</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A1">
+          <VALUE>57</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A13">
+          <VALUE>електрообладнання для пуску двигуна внутрішнього згоряння з іскровим запалюванням для мотоцикла: стартер</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A15">
+          <VALUE>50</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A16">
+          <VALUE>228.948</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A131">
+          <VALUE>8511400098</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A10">
+          <VALUE>11447.4</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A20">
+          <VALUE>2289.48</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="RECNO">
+          <VALUE>57</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A1">
+          <VALUE>58</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A13">
+          <VALUE>електрообладнання для пуску двигуна внутрішнього згоряння з іскровим запалюванням для мотоцикла: стартер</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A15">
+          <VALUE>500</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A16">
+          <VALUE>96.349</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A131">
+          <VALUE>8511400098</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A10">
+          <VALUE>48174.5</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A20">
+          <VALUE>9634.9</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="RECNO">
+          <VALUE>58</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A1">
+          <VALUE>59</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A13">
+          <VALUE>вироби з чорних металів, приводний роликовий ланцюг для мотоцикла</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A15">
+          <VALUE>1000</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A16">
+          <VALUE>48.151</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A131">
+          <VALUE>7315111000</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A10">
+          <VALUE>48151</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A20">
+          <VALUE>9630.2</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="RECNO">
+          <VALUE>59</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A1">
+          <VALUE>60</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A13">
+          <VALUE>дзеркало заднього огляду для мотоцикла</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A14">
+          <VALUE>пар</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A15">
+          <VALUE>3000</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A16">
+          <VALUE>44.262</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A131">
+          <VALUE>7009100090</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A141">
+          <VALUE>1617</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A10">
+          <VALUE>132786</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A20">
+          <VALUE>26557.2</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="RECNO">
+          <VALUE>60</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A1">
+          <VALUE>61</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A13">
+          <VALUE>дзеркало заднього огляду для мотоцикла</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A14">
+          <VALUE>пар</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A15">
+          <VALUE>2000</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A16">
+          <VALUE>45.192</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A131">
+          <VALUE>7009100090</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A141">
+          <VALUE>1617</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A10">
+          <VALUE>90384</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A20">
+          <VALUE>18076.8</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="RECNO">
+          <VALUE>61</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A1">
+          <VALUE>62</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A13">
+          <VALUE>арматура для контролювання потоку палива в мотоциклі: кран паливний</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A15">
+          <VALUE>2000</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A16">
+          <VALUE>5.648</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A131">
+          <VALUE>8481809900</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A10">
+          <VALUE>11296</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A20">
+          <VALUE>2259.2</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="RECNO">
+          <VALUE>62</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A1">
+          <VALUE>63</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A13">
+          <VALUE>вал трансмісійний (колінчастий вал) для мотоцикла, сталевий</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A15">
+          <VALUE>50</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A16">
+          <VALUE>203.307</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483102190</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A10">
+          <VALUE>10165.35</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A20">
+          <VALUE>2033.07</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="RECNO">
+          <VALUE>63</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A1">
+          <VALUE>64</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A13">
+          <VALUE>вал трансмісійний (колінчастий вал) для мотоцикла, сталевий</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A15">
+          <VALUE>50</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A16">
+          <VALUE>77.668</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483102190</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A10">
+          <VALUE>3883.4</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A20">
+          <VALUE>776.68</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="RECNO">
+          <VALUE>64</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A1">
+          <VALUE>65</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A13">
+          <VALUE>вал трансмісійний (колінчастий вал) для мотоцикла, сталевий</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A16">
+          <VALUE>129.065</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483102190</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A10">
+          <VALUE>38719.5</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A20">
+          <VALUE>7743.9</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="RECNO">
+          <VALUE>65</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A1">
+          <VALUE>66</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A13">
+          <VALUE>вал трансмісійний (колінчастий вал) для мотоцикла, сталевий</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A16">
+          <VALUE>125.258</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483102190</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A10">
+          <VALUE>37577.4</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A20">
+          <VALUE>7515.48</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="RECNO">
+          <VALUE>66</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A1">
+          <VALUE>67</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A13">
+          <VALUE>вал трансмісійний (колінчастий вал) для мотоцикла, сталевий</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A15">
+          <VALUE>300</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A16">
+          <VALUE>79.571</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483102190</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A10">
+          <VALUE>23871.3</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A20">
+          <VALUE>4774.26</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="RECNO">
+          <VALUE>67</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A1">
+          <VALUE>68</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A13">
+          <VALUE>частина спідометра мотоцикла: привід спідометра</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A15">
+          <VALUE>500</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A16">
+          <VALUE>11.859</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A131">
+          <VALUE>9029900090</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A10">
+          <VALUE>5929.5</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A20">
+          <VALUE>1185.9</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="RECNO">
+          <VALUE>68</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A1">
+          <VALUE>69</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A13">
+          <VALUE>набір прокладок ущільнювачів з різних матеріалів: набір прокладок двигуна</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A15">
+          <VALUE>2000</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A16">
+          <VALUE>3.099</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A131">
+          <VALUE>8484900090</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A10">
+          <VALUE>6198</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A20">
+          <VALUE>1239.6</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="RECNO">
+          <VALUE>69</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A1">
+          <VALUE>70</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A13">
+          <VALUE>набір прокладок ущільнювачів з різних матеріалів: набір прокладок двигуна</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A15">
+          <VALUE>500</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A16">
+          <VALUE>1.768</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A131">
+          <VALUE>8484900090</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A10">
+          <VALUE>884</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A20">
+          <VALUE>176.8</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="RECNO">
+          <VALUE>70</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A1">
+          <VALUE>71</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A13">
+          <VALUE>набір прокладок ущільнювачів з різних матеріалів: набір прокладок двигуна</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A15">
+          <VALUE>500</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A16">
+          <VALUE>1.768</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A131">
+          <VALUE>8484900090</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A10">
+          <VALUE>884</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A20">
+          <VALUE>176.8</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="RECNO">
+          <VALUE>71</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A1">
+          <VALUE>72</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A13">
+          <VALUE>акумулятор електричний, свинцевий, який використовується для запуску поршневих двигунів (двигунів мотоцикла) працює на рідкому електроліті 2) матеріал -свінець 3) призначення - запуск поршневих двигунів внутрішнього згоряння 4) маса 3,81 кг 5) ємність -18,0А /год</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A15">
+          <VALUE>200</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A16">
+          <VALUE>134.876</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A131">
+          <VALUE>8507102090</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A10">
+          <VALUE>26975.2</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A20">
+          <VALUE>5395.04</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="RECNO">
+          <VALUE>72</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A1">
+          <VALUE>73</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A13">
+          <VALUE>обладнання для комутації електричного кола для напруги не більше 60 Вт: блоки кнопок керма мотоцикла (з вижимним ручками)</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A15">
+          <VALUE>700</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A16">
+          <VALUE>95.135</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A131">
+          <VALUE>8536501990</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A10">
+          <VALUE>66594.5</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A20">
+          <VALUE>13318.9</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="RECNO">
+          <VALUE>73</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A1">
+          <VALUE>74</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A13">
+          <VALUE>обладнання для комутації електричного кола для напруги не більше 60 Вт: блоки кнопок керма мотоцикла (з вижимним ручками)</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A15">
+          <VALUE>700</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A16">
+          <VALUE>95.135</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A131">
+          <VALUE>8536501990</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A10">
+          <VALUE>66594.5</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A20">
+          <VALUE>13318.9</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
