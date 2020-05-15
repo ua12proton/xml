@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>15.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>43233703</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>0a448055-91a4-41aa-a32f-356bd042765e</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "ПРОФІСТАЛЬ ЛТД"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>61023,м. Харків, вул.              ПУШКІНСЬКА, буд. 106</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>7525</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>1955114.18</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>391022.84</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>391022.84</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>2346137.02</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432337020313</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>15.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№7525</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>7525</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43233703</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>7525</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43233703</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>Тканина текстильна синтетична пофарбована, виготовлена з комплексних синтетичних нетекстурованих поліефірних ниток на 100%, без просочення і покриття, товщиною не менше 30см. 110119,50 м2.</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>11076</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>98.326</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>5407613000</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>1089058.78</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>217811.756</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="RECNO">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A1">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A13">
+          <VALUE>Тканина текстильна синтетична з ниток різних кольорів виготовлена з комплексних синтетичних поліефірних текстурованих ниток на 100%, товщиною не менше 30см. 45457,20 м2.</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A15">
+          <VALUE>8808</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A16">
+          <VALUE>98.326</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A131">
+          <VALUE>5407530000</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A10">
+          <VALUE>866055.41</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A20">
+          <VALUE>173211.082</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
