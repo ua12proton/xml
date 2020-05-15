@@ -1,0 +1,2101 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>13.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>43233703</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>0c77efbe-b85e-47f4-995b-766071eed22f</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "ПРОФІСТАЛЬ ЛТД"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>61023,м. Харків, вул.              ПУШКІНСЬКА, буд. 106</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>7335</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>588005.69</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>117601.14</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>117601.14</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>705606.83</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432337020313</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>13.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№7335</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>7335</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43233703</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>7335</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43233703</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>Кругловязальна машина для виготовлення панчішно-шкарпеткових виробів, циліндр діаметром 3,75 "(95,25мм), кількість голок 132, живлення від мережі змінного струму напругою 220В, споживана потужність 1200Вт, нова 2020 року випуску.</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>18773.717</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>8447110000</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>56321.15</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>11264.23</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="RECNO">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A1">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A13">
+          <VALUE>Промислова неавтоматична оверлочная швейна машина.</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A16">
+          <VALUE>3504</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A131">
+          <VALUE>8452290000</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A10">
+          <VALUE>3504</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A20">
+          <VALUE>700.8</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="RECNO">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A1">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вентилятор відцентровий для промислового обладнання, з живленням від мережі змінного струму напругою 380 В, потужність двигуна 5500Вт, новий 2020 року випуску.</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A16">
+          <VALUE>6663.9</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414594090</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A10">
+          <VALUE>6663.9</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A20">
+          <VALUE>1332.78</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="RECNO">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A1">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A13">
+          <VALUE>Електрична апаратура для комутації та захисту електричних ланцюгів, реле для напруги 120 / 240В. Серії HF / HFD / HFKW / HFKC / 14-41F.</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A15">
+          <VALUE>249</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A16">
+          <VALUE>189.802</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A131">
+          <VALUE>8536490090</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A10">
+          <VALUE>47260.7</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A20">
+          <VALUE>9452.14</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="RECNO">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A1">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A13">
+          <VALUE>Перетворювач статичний, інвертор електричний, потужність 0,75-5,50кВхА, робоча частота 50 Гц, напруга 220В, призначений для використання в електроживленні стаціонарного і промислового устаткування, загальнопромислового призначення, серії NZ / NZS. Всього 17 штук.</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A15">
+          <VALUE>40</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A16">
+          <VALUE>80.727</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A131">
+          <VALUE>8504408400</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A10">
+          <VALUE>3229.08</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A20">
+          <VALUE>645.816</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="RECNO">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A1">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A13">
+          <VALUE>Дроселі для використання зі статичними частотними перетворювачами-випрямлячами електричного струму, використовуються для зниження гармонійних коливань струму харчування, монтуються в трубопровід частотного перетворювача-випрямляча струму і таким чином підвищує стабільність роботи системи, загальнопромислового призначення, серії RXLG. Всього 26 штук.</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A15">
+          <VALUE>37</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A16">
+          <VALUE>84.764</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A131">
+          <VALUE>8504509590</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A10">
+          <VALUE>3136.27</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A20">
+          <VALUE>627.254</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="RECNO">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A1">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A13">
+          <VALUE>Водоемульсійна фарба, є водним розчином акрилових полімерів з добавками, вміст летких речовин 74,6 +/- 0,1 мас%, вміст неорганічної складової 0,2 +/- 0,1 мас% (кальцій, сірка - основа; кремній, фосфор, залізо та інше - домішки), використовується в якості захисного шару під фарбу, різних кольорів. Фасовка: пластикові відра по 20,00 кг і по 25,00 кг</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A15">
+          <VALUE>1660</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A16">
+          <VALUE>46.557</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A131">
+          <VALUE>3209100000</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A10">
+          <VALUE>77284.62</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A20">
+          <VALUE>15456.924</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="RECNO">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A1">
+          <VALUE>8</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вал з недорогоцінного металу, прямолінійного дії загальнопромислового устаткування.</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A15">
+          <VALUE>205</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A16">
+          <VALUE>65.623</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483109590</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A10">
+          <VALUE>13452.72</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A20">
+          <VALUE>2690.544</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="RECNO">
+          <VALUE>8</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A1">
+          <VALUE>9</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вал кулачковий сталевий, розподільний вал головки блоку циліндрів, для використання в двигунах внутрішнього згоряння легкових автомобілях.</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A15">
+          <VALUE>41</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A16">
+          <VALUE>58.813</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483109590</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A10">
+          <VALUE>2411.33</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A20">
+          <VALUE>482.266</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="RECNO">
+          <VALUE>9</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A1">
+          <VALUE>10</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A13">
+          <VALUE>Ручний дозатор для косметичних засобів (Liotion Pump Head) в комплекті з флаконом ємністю 50мл і захисним ковпачком, поставляється в розібраному вигляді на час транспортування.</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A15">
+          <VALUE>17920</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A16">
+          <VALUE>1.684</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A131">
+          <VALUE>8413200000</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A10">
+          <VALUE>30177.28</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A20">
+          <VALUE>6035.456</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="RECNO">
+          <VALUE>10</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A1">
+          <VALUE>11</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A13">
+          <VALUE>Окуляри сонцезахисні з неоптичними пластиковими лінзами.</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A15">
+          <VALUE>295</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A16">
+          <VALUE>2.741</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A131">
+          <VALUE>9004109100</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A10">
+          <VALUE>808.6</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A20">
+          <VALUE>161.72</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="RECNO">
+          <VALUE>11</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A1">
+          <VALUE>12</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вакуумна насосна станція, серії SHZ загальнопромислового призначення, харчування від мережі змінного струму напругою 220В, споживана потужність 370Вт, вхідний вакуум 0,6-4,8 м3 / год.</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A16">
+          <VALUE>2735.6</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414108990</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A10">
+          <VALUE>2735.6</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A20">
+          <VALUE>547.12</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="RECNO">
+          <VALUE>12</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A1">
+          <VALUE>13</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вироби зі скла для лабораторних цілей, колба скляна для використання в лабораторному устаткуванні ємністю 20л і 50л.</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A15">
+          <VALUE>18</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A16">
+          <VALUE>61.953</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A131">
+          <VALUE>7017900000</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A10">
+          <VALUE>1115.15</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A20">
+          <VALUE>223.03</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="RECNO">
+          <VALUE>13</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A1">
+          <VALUE>14</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A13">
+          <VALUE>Дистилятор-випарник ротаційного типу для лабораторних цілей, серії RE, харчування від мережі змінного струму напругою 220-380В, загальна потужність 7,5 кВт, максимальна температура нагріву 200 градусів Цельсія, в частково розібраному вигляді на час транспортування.</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A16">
+          <VALUE>45507.5</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A131">
+          <VALUE>8419400000</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A10">
+          <VALUE>45507.5</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A20">
+          <VALUE>9101.5</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="RECNO">
+          <VALUE>14</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A1">
+          <VALUE>15</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A13">
+          <VALUE>Ущільнювальні вироби для використання в легкових автомобілях, виготовлені з м'якої вулканізованої непористої гуми, неармовані, що не комбіновані з іншими матеріалами (прокладка клапанної кришки; сальники).</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A15">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A16">
+          <VALUE>44.55</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A131">
+          <VALUE>4016930090</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A10">
+          <VALUE>178.2</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A20">
+          <VALUE>35.64</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="RECNO">
+          <VALUE>15</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A1">
+          <VALUE>16</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вироби з незатверділої вулканізованої гуми, з вмістом металу, для використання в наземних моторних транспортних засобах (подушки двигуна; опори стійки; салейнтблокі).</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A15">
+          <VALUE>71</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A16">
+          <VALUE>28.027</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A131">
+          <VALUE>4016995290</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A10">
+          <VALUE>1989.92</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A20">
+          <VALUE>397.984</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="RECNO">
+          <VALUE>16</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A1">
+          <VALUE>17</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вироби з незатверділої вулканізованої гуми, для використання в наземних моторних транспортних засобах (втулки стабілізатора; гофра).</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A15">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A16">
+          <VALUE>35.4</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A131">
+          <VALUE>4016995790</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A10">
+          <VALUE>106.2</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A20">
+          <VALUE>21.24</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="RECNO">
+          <VALUE>17</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A1">
+          <VALUE>18</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вироби ущільнювальні на основі азбесту для двигунів внутрішнього згоряння легкових автомобілів (прокладки впускного / випускного колектора; прокладка головки блоку циліндрів).</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A15">
+          <VALUE>19</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A16">
+          <VALUE>29.005</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A131">
+          <VALUE>6812999090</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A10">
+          <VALUE>551.1</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A20">
+          <VALUE>110.22</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="RECNO">
+          <VALUE>18</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A1">
+          <VALUE>19</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A13">
+          <VALUE>Дзеркала заднього виду для моторних транспортних засобів, дзеркала в зборі. Всього 20 штук.</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A15">
+          <VALUE>15</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A16">
+          <VALUE>92.633</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A131">
+          <VALUE>7009100090</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A10">
+          <VALUE>1389.5</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A20">
+          <VALUE>277.9</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="RECNO">
+          <VALUE>19</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A1">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A13">
+          <VALUE>Пружина підвіски легкового автомобіля, спіральна, стиснення, з недорогоцінного металу оброблена в холодному стані.</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A15">
+          <VALUE>58</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A16">
+          <VALUE>14.925</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A131">
+          <VALUE>7320208190</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A10">
+          <VALUE>865.65</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A20">
+          <VALUE>173.13</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="RECNO">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A1">
+          <VALUE>21</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A13">
+          <VALUE>Замки з недорогоцінного металу в комплекті з ключами для легкових автомобілів (замки запалювання; замки дверей)</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A15">
+          <VALUE>14</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A16">
+          <VALUE>120.071</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A131">
+          <VALUE>8301200090</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A10">
+          <VALUE>1680.99</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A20">
+          <VALUE>336.198</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="RECNO">
+          <VALUE>21</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A1">
+          <VALUE>22</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A13">
+          <VALUE>Секретний механізм замка з недорогоцінного металу в комплекті з ключами для легкових автомобілів.</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A15">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A16">
+          <VALUE>120.075</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A131">
+          <VALUE>8301600090</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A10">
+          <VALUE>480.3</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A20">
+          <VALUE>96.06</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="RECNO">
+          <VALUE>22</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A1">
+          <VALUE>23</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A13">
+          <VALUE>Фурнітура з недорогоцінного металу для моторних транспортних засобів (ролики).</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A15">
+          <VALUE>34</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A16">
+          <VALUE>120.072</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A131">
+          <VALUE>8302200090</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A10">
+          <VALUE>4082.45</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A20">
+          <VALUE>816.49</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="RECNO">
+          <VALUE>23</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A1">
+          <VALUE>24</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A13">
+          <VALUE>Фурнітура з недорогоцінного металу для моторних транспортних засобів (дверні ручки; тримач-фіксатор капота і кришки багажника; захисний кожух ременя; кронштейни кріплення навісного обладнання; привід відкривання дверей; притискні фіксатори головки).</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A15">
+          <VALUE>26</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A16">
+          <VALUE>120.071</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A131">
+          <VALUE>8302300090</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A10">
+          <VALUE>3121.85</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A20">
+          <VALUE>624.37</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="RECNO">
+          <VALUE>24</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A1">
+          <VALUE>25</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини бензинового двигуна внутрішнього згоряння з іскровим запалюванням моторних транспортних засобів з недорогоцінного металу (клапана впускні; клапана випускні; головки блоку циліндрів; поршні двигуна з пальцем; піддони картера; коромисла клапанів; направляючі клапанів; натажітелі ланцюга; вкладиші; поршневі кільця; осі коромисел клапанів ; рокери клапанів; регулятор фаз газорозподільного механізму; сепаратор картерних газів; шатуни; дросельні заслінки; комплект ГРМ).</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A15">
+          <VALUE>320</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A16">
+          <VALUE>56.589</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409910000</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A10">
+          <VALUE>18108.48</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A20">
+          <VALUE>3621.696</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="RECNO">
+          <VALUE>25</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A1">
+          <VALUE>26</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A13">
+          <VALUE>Насос для рідини, для використання в двигунах моторних транспортних засобів (насоси паливні - 2 штуки; насоси охолоджуючої рідини (помпи) - 10 штук; насос масляний - 4 штуки).</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A15">
+          <VALUE>19</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A16">
+          <VALUE>59.271</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A131">
+          <VALUE>8413308000</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A10">
+          <VALUE>1126.15</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A20">
+          <VALUE>225.23</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="RECNO">
+          <VALUE>26</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A1">
+          <VALUE>27</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A13">
+          <VALUE>Насос гідравлічного посилення рульового колеса легкового автомобіля шиберного типу.</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A15">
+          <VALUE>11</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A16">
+          <VALUE>134.709</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A131">
+          <VALUE>8413606900</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A10">
+          <VALUE>1481.8</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A20">
+          <VALUE>296.36</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="RECNO">
+          <VALUE>27</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A1">
+          <VALUE>28</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A13">
+          <VALUE>Компресори для використання в кліматичній системі обігріву та кондиціонування повітря в салонах легкових автомобілів, потужністю - 0,37 кВт.</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A16">
+          <VALUE>457.35</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414302090</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A10">
+          <VALUE>457.35</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A20">
+          <VALUE>91.47</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="RECNO">
+          <VALUE>28</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A1">
+          <VALUE>29</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вентилятор осьової в зборі, охолодження радіатора легкового автомобіля.</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A15">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A16">
+          <VALUE>247.518</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414592098</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A10">
+          <VALUE>4950.36</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A20">
+          <VALUE>990.072</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="RECNO">
+          <VALUE>29</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A1">
+          <VALUE>30</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частина системи кондиціонування повітря для установки в салоні легкового автомобіля, радіатор кондиціонера.</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A15">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A16">
+          <VALUE>172.279</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A131">
+          <VALUE>8418991000</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A10">
+          <VALUE>1205.95</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A20">
+          <VALUE>241.19</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="RECNO">
+          <VALUE>30</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A1">
+          <VALUE>31</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A13">
+          <VALUE>Устаткування для фільтрації та очищення повітря, фільтр очищення повітря салону легкового автомобіля.</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A15">
+          <VALUE>50</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A16">
+          <VALUE>34.372</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A131">
+          <VALUE>8421392000</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A10">
+          <VALUE>1718.6</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A20">
+          <VALUE>343.72</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="RECNO">
+          <VALUE>31</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A1">
+          <VALUE>32</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вал трансмісійний колінчастий сталевий, для використання в двигунах внутрішнього згоряння легкових автомобілях.</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A15">
+          <VALUE>76</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A16">
+          <VALUE>64.488</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483102190</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A10">
+          <VALUE>4901.09</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A20">
+          <VALUE>980.218</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="RECNO">
+          <VALUE>32</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A1">
+          <VALUE>33</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини електрообладнання для пуску двигуна легкового автомобіля, котушка запалювання.</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A15">
+          <VALUE>30</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A16">
+          <VALUE>201.63</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A131">
+          <VALUE>8511300098</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A10">
+          <VALUE>6048.9</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A20">
+          <VALUE>1209.78</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="RECNO">
+          <VALUE>33</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A1">
+          <VALUE>34</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A13">
+          <VALUE>Стартер електричний для пуску автомобільних двигунів внутрішнього згоряння, напруга 12В, потужність 1,8-2,0кВт. Новий. Встановлюється на двигун. Призначений для запуску двигуна за допомогою провороту маховика колінчастого вала.</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A15">
+          <VALUE>15</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A16">
+          <VALUE>539.743</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A131">
+          <VALUE>8511400098</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A10">
+          <VALUE>8096.14</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A20">
+          <VALUE>1619.228</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="RECNO">
+          <VALUE>34</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A1">
+          <VALUE>35</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A13">
+          <VALUE>Електрообладнання для генерування електричної енергії підзарядки акумуляторної батарей і для потреб бортової мережі, автомобілів з двигуном внутрішнього згоряння, напруга 12В.</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A15">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A16">
+          <VALUE>716.75</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A131">
+          <VALUE>8511500098</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A10">
+          <VALUE>1433.5</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A20">
+          <VALUE>286.7</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="RECNO">
+          <VALUE>35</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A1">
+          <VALUE>36</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A13">
+          <VALUE>Прилади освітлення і візуальної сигналізації для використання в моторних транспортних засобах (фари передні; фари протитуманні; повторювачі поворотів; ліхтарі задні).</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A15">
+          <VALUE>217</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A16">
+          <VALUE>114.702</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A131">
+          <VALUE>8512200090</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A10">
+          <VALUE>24890.33</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A20">
+          <VALUE>4978.066</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="RECNO">
+          <VALUE>36</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A1">
+          <VALUE>37</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A13">
+          <VALUE>Бампера легкового автомобіля.</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A15">
+          <VALUE>80</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A16">
+          <VALUE>156.991</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708109098</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A10">
+          <VALUE>12559.28</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A20">
+          <VALUE>2511.856</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="RECNO">
+          <VALUE>37</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A1">
+          <VALUE>38</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини легкового автомобіля, частини кузова (решітка радіатора).</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A15">
+          <VALUE>17</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A16">
+          <VALUE>108.418</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708299000</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A10">
+          <VALUE>1843.11</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A20">
+          <VALUE>368.622</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="RECNO">
+          <VALUE>38</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A1">
+          <VALUE>39</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини гальмівної системи дискових гальм легкових автомобілів з недорогоцінного металу (супорт гальмівний; циліндр гальмівний головний; колодки гальмівні; тросс стоянкового гальма).</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A15">
+          <VALUE>67</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A16">
+          <VALUE>147.803</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708309198</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A10">
+          <VALUE>9902.8</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A20">
+          <VALUE>1980.56</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="RECNO">
+          <VALUE>39</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A1">
+          <VALUE>40</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини легкового автомобіля, коробка передач в зборі.</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A15">
+          <VALUE>72</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A16">
+          <VALUE>177.304</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708405098</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A10">
+          <VALUE>12765.89</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A20">
+          <VALUE>2553.178</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="RECNO">
+          <VALUE>40</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A1">
+          <VALUE>41</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини легкового автомобіля, частини коробки передач (вал коробки передач; шестерні передач; корпус коробки передач; синхронізатори коробки передач; тросс перемикання передач).</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A15">
+          <VALUE>58</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A16">
+          <VALUE>173.469</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708409998</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A10">
+          <VALUE>10061.2</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A20">
+          <VALUE>2012.24</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="RECNO">
+          <VALUE>41</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A1">
+          <VALUE>42</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини мостів провідних моторних транспортних засобів зі сталі (диференціал в зборі; піввісь приводні; привід в зборі; зовнішні / внутрішні шарніри рівних кутових швидкостей;).</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A15">
+          <VALUE>200</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A16">
+          <VALUE>173.469</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708509998</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A10">
+          <VALUE>34693.8</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A20">
+          <VALUE>6938.76</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="RECNO">
+          <VALUE>42</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A1">
+          <VALUE>43</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини легкового автомобіля, частини коліс, маточини коліс.</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A15">
+          <VALUE>12</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A16">
+          <VALUE>173.471</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708709990</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A10">
+          <VALUE>2081.65</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A20">
+          <VALUE>416.33</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="RECNO">
+          <VALUE>43</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A1">
+          <VALUE>44</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини підвіски автомобілів з недорогоцінного металу, не для промислового складання моторних транспортних засобів (амортизатори; важіль передньої підвіски в зборі; стабілізатор передній; стійки стабілізатора; кульова опора).</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A15">
+          <VALUE>174</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A16">
+          <VALUE>173.469</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708803598</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A10">
+          <VALUE>30183.61</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A20">
+          <VALUE>6036.722</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="RECNO">
+          <VALUE>44</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A1">
+          <VALUE>45</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A13">
+          <VALUE>Радіатор з недорогоцінного металу двигуна моторних транспортних засобів (радіатори охолодження; радіатори опалювача).</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A15">
+          <VALUE>224</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A16">
+          <VALUE>248.081</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708913500</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A10">
+          <VALUE>55570.14</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A20">
+          <VALUE>11114.028</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="RECNO">
+          <VALUE>45</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A1">
+          <VALUE>46</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини системи зчеплення легкових автомобілів з недорогоцінного металу (циліндр зчеплення головний; циліндр зчеплення робочий; диск зчеплення, підшипник вижимний; корзина зчеплення; трос приводу зчеплення).</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A15">
+          <VALUE>110</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A16">
+          <VALUE>169.634</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708939098</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A10">
+          <VALUE>18659.74</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A20">
+          <VALUE>3731.948</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="RECNO">
+          <VALUE>46</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A1">
+          <VALUE>47</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини рульового механізму легкових автомобілів з недорогоцінного металу (кермові рейки; кермові тяги; наконечники рульових тяг).</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A15">
+          <VALUE>65</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A16">
+          <VALUE>173.469</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708949998</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A10">
+          <VALUE>11275.48</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A20">
+          <VALUE>2255.096</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="RECNO">
+          <VALUE>47</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A1">
+          <VALUE>48</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A13">
+          <VALUE>Комплекти ізольованих електричних проводів для свічок запалювання моторних транспортних засобів.</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A15">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A16">
+          <VALUE>91.1</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A131">
+          <VALUE>8544300098</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A10">
+          <VALUE>273.3</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A20">
+          <VALUE>54.66</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="RECNO">
+          <VALUE>48</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A1">
+          <VALUE>49</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A13">
+          <VALUE>Запасні частини легкових автомобілів (бачок розширювальний; бачок омивательной в зборі; кришки паливного бака; щуп масляний; бачок гідропідсилювача керма).</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A15">
+          <VALUE>25</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A16">
+          <VALUE>173.47</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708999798</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A10">
+          <VALUE>4336.75</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A20">
+          <VALUE>867.35</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="RECNO">
+          <VALUE>49</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A1">
+          <VALUE>50</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A13">
+          <VALUE>Електронний датчик вимірювання температури охолоджуючої рідини і включення вентилятора.</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A15">
+          <VALUE>10</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A16">
+          <VALUE>6.105</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A131">
+          <VALUE>9025192090</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A10">
+          <VALUE>61.05</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A20">
+          <VALUE>12.21</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="RECNO">
+          <VALUE>50</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A1">
+          <VALUE>51</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A13">
+          <VALUE>Датчик положення колінчастого вала, який застосовується для визначення кількості обертів колінчастого вала легкового автомобіля.</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A15">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A16">
+          <VALUE>197.125</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A131">
+          <VALUE>9029100090</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A10">
+          <VALUE>394.25</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A20">
+          <VALUE>78.85</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="RECNO">
+          <VALUE>51</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A1">
+          <VALUE>52</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини для легкового автомобіля, датчик ABS.</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A15">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A16">
+          <VALUE>53.637</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A131">
+          <VALUE>9031809800</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A10">
+          <VALUE>214.55</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A20">
+          <VALUE>42.91</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="RECNO">
+          <VALUE>52</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A1">
+          <VALUE>53</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A13">
+          <VALUE>Датчик швидкості для використання в моторних транспортних засобах.</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A16">
+          <VALUE>135.05</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A131">
+          <VALUE>9029203190</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A10">
+          <VALUE>135.05</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A20">
+          <VALUE>27.01</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="RECNO">
+          <VALUE>53</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A1">
+          <VALUE>54</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A13">
+          <VALUE>Термостат Неелектричний, біметалічний, механічної дії призначений для регулювання температури в системах охолодження двигуна легкового автомобіля. Всього 20 штук.</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A16">
+          <VALUE>42.1</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A131">
+          <VALUE>9032108900</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A10">
+          <VALUE>42.1</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A20">
+          <VALUE>8.42</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="RECNO">
+          <VALUE>54</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A1">
+          <VALUE>55</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A13">
+          <VALUE>Прилади й апаратура для автоматичного управління, для використання в легкових автомобілях, датчик холостого ходу.</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A16">
+          <VALUE>354</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A131">
+          <VALUE>9032890000</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A10">
+          <VALUE>354</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A20">
+          <VALUE>70.8</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="RECNO">
+          <VALUE>55</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A1">
+          <VALUE>56</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A13">
+          <VALUE>Прилади для вимірювання тиску газів і рідин, електронні: датчик абсолютного тиску, призначений для вимірювання абсолютного, надлишкового, вакуумметричного тиску для легкового автомобіля.</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A15">
+          <VALUE>40</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A16">
+          <VALUE>3.131</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A131">
+          <VALUE>9026202000</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A10">
+          <VALUE>125.24</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A20">
+          <VALUE>25.048</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
