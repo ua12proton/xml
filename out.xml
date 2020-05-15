@@ -1,175 +1,364 @@
-<?xml version="1.0" encoding="windows-1251"?>
-<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <TRANSPORT>
-    <VERSION>4.1</VERSION>
-    <CREATEDATE>14.05.2020</CREATEDATE>
-  </TRANSPORT>
-  <ORG>
-    <FIELDS>
-      <EDRPOU>42895492</EDRPOU>
-    </FIELDS>
-    <CARD>
-      <FIELDS>
-        <PERTYPE>0</PERTYPE>
-        <PERDATE>01.05.2020</PERDATE>
-        <DOCID>f5ae3fb8-f276-436f-a305-d07f8beea7bb</DOCID>
-        <CHARCODE>J1201010</CHARCODE>
-      </FIELDS>
-      <DOCUMENT>
-        <ROW LINE="0" TAB="0" NAME="REP_KS">
-          <VALUE>218355044</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
-          <VALUE>ТОВ "БУДКОМ АЛЬЯНС"</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
-          <VALUE>Україна, 61072,  м. Харків,        проспект Науки, буд. 31-А</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="N2_1">
-          <VALUE>205380</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="A5_7">
-          <VALUE>2647198.88</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="A6_7">
-          <VALUE>529439.78</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="A6_11">
-          <VALUE>529439.78</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="A7_11">
-          <VALUE>3176638.66</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
-          <VALUE>432671713047</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="N11">
-          <VALUE>14.05.2020</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="SN">
-          <VALUE>№205380</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="N2_1I">
-          <VALUE>205380</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
-          <VALUE>1</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
-          <VALUE>43363766</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="N2_11">
-          <VALUE>205380</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="N19">
-          <VALUE>1</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="IDORG">
-          <VALUE>785</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="N21">
-          <VALUE>0</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="VER">
-          <VALUE>1</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
-          <VALUE>Відсутній</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="0" NAME="EDRPOU">
-          <VALUE>43363766</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="1" NAME="RECNO">
-          <VALUE>0</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
-          <VALUE>1</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
-          <VALUE>Тканина, пофарбована в рожевий колір,
-полотняного переплетення. Просочення, ду
-блювання та покриття пластмасами, що спо
-стерігається неозброєним оком, відсутнє.
-З синтетичних комплексних текстурованих
-ниток з поліефіру - 100%. Загальна ширин
-а - 223 см; ширина по фону (між пругами)
-- 219 см; поверхнева щільність - 87+/-1
-г/м2. Артикул POLY/D. 195800,00 м2.
-      </VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
-          <VALUE>кг</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
-          <VALUE>16749</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
-          <VALUE>98.365</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
-          <VALUE>5407520000</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
-          <VALUE>0301</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
-          <VALUE>20</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
-          <VALUE>1647515.38</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
-          <VALUE>1</VALUE>
-        </ROW>
-        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
-          <VALUE>329503.076</VALUE>
-        </ROW>
-        <ROW LINE="1" TAB="1" NAME="RECNO">
-          <VALUE>1</VALUE>
-        </ROW>
-        <ROW LINE="1" TAB="1" NAME="TAB1_A1">
-          <VALUE>2</VALUE>
-        </ROW>
-        <ROW LINE="1" TAB="1" NAME="TAB1_A13">
-          <VALUE>Тканина вибивна, полотняного переплете
-ння. Просочення, дублювання та покриття
-пластмасами, що спостерігається неозброє
-ним оком, вудсутнє. З синтетичних компле
-ксних текстурованих ниток з поліефіру -
-100%. Загальна ширина - 222 см; ширина п
-о фону (між пругами) - 218 см; поверхнев
-а щільність - 86+/-1 г/м2. Артикул POLY/
-P. 118800,00 м2.
-      </VALUE>
-        </ROW>
-        <ROW LINE="1" TAB="1" NAME="TAB1_A14">
-          <VALUE>кг</VALUE>
-        </ROW>
-        <ROW LINE="1" TAB="1" NAME="TAB1_A15">
-          <VALUE>10163</VALUE>
-        </ROW>
-        <ROW LINE="1" TAB="1" NAME="TAB1_A16">
-          <VALUE>98.365</VALUE>
-        </ROW>
-        <ROW LINE="1" TAB="1" NAME="TAB1_A131">
-          <VALUE>5407540000</VALUE>
-        </ROW>
-        <ROW LINE="1" TAB="1" NAME="TAB1_A141">
-          <VALUE>0301</VALUE>
-        </ROW>
-        <ROW LINE="1" TAB="1" NAME="TAB1_A8">
-          <VALUE>20</VALUE>
-        </ROW>
-        <ROW LINE="1" TAB="1" NAME="TAB1_A10">
-          <VALUE>999683.5</VALUE>
-        </ROW>
-        <ROW LINE="1" TAB="1" NAME="TAB1_A132">
-          <VALUE>1</VALUE>
-        </ROW>
-        <ROW LINE="1" TAB="1" NAME="TAB1_A20">
-          <VALUE>199936.7</VALUE>
-        </ROW>
-      </DOCUMENT>
-    </CARD>
-  </ORG>
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+
+-<ZVIT xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+
+-<TRANSPORT>
+
+<VERSION>4.1</VERSION>
+
+<CREATEDATE>14.05.2020</CREATEDATE>
+
+</TRANSPORT>
+
+
+-<ORG>
+
+
+-<FIELDS>
+
+<EDRPOU>42895492</EDRPOU>
+
+</FIELDS>
+
+
+-<CARD>
+
+
+-<FIELDS>
+
+<PERTYPE>0</PERTYPE>
+
+<PERDATE>01.05.2020</PERDATE>
+
+<DOCID>f5ae3fb8-f276-436f-a305-d07f8beea7bb</DOCID>
+
+<CHARCODE>J1201010</CHARCODE>
+
+</FIELDS>
+
+
+-<DOCUMENT>
+
+
+-<ROW NAME="REP_KS" TAB="0" LINE="0">
+
+<VALUE>218355044</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="FIRM_NAME" TAB="0" LINE="0">
+
+<VALUE>РўРћР’ "Р‘РЈР”РљРћРњ РђР›Р¬РЇРќРЎ"</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="FIRM_ADR" TAB="0" LINE="0">
+
+<VALUE>РЈРєСЂР°С—РЅР°, 61072, Рј. РҐР°СЂРєС–РІ, РїСЂРѕСЃРїРµРєС‚ РќР°СѓРєРё, Р±СѓРґ. 31-Рђ</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="N2_1" TAB="0" LINE="0">
+
+<VALUE>205380</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="A5_7" TAB="0" LINE="0">
+
+<VALUE>2647198.88</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="A6_7" TAB="0" LINE="0">
+
+<VALUE>529439.78</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="A6_11" TAB="0" LINE="0">
+
+<VALUE>529439.78</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="A7_11" TAB="0" LINE="0">
+
+<VALUE>3176638.66</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="FIRM_INN" TAB="0" LINE="0">
+
+<VALUE>432671713047</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="N11" TAB="0" LINE="0">
+
+<VALUE>14.05.2020</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="SN" TAB="0" LINE="0">
+
+<VALUE>в„–205380</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="N2_1I" TAB="0" LINE="0">
+
+<VALUE>205380</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="NAKL_TYPE" TAB="0" LINE="0">
+
+<VALUE>1</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="FIRM_EDRPOU" TAB="0" LINE="0">
+
+<VALUE>43363766</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="N2_11" TAB="0" LINE="0">
+
+<VALUE>205380</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="N19" TAB="0" LINE="0">
+
+<VALUE>1</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="IDORG" TAB="0" LINE="0">
+
+<VALUE>785</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="N21" TAB="0" LINE="0">
+
+<VALUE>0</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="VER" TAB="0" LINE="0">
+
+<VALUE>1</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="SERVICEPRESENCE" TAB="0" LINE="0">
+
+<VALUE>Р’С–РґСЃСѓС‚РЅС–Р№</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="EDRPOU" TAB="0" LINE="0">
+
+<VALUE>43363766</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="RECNO" TAB="1" LINE="0">
+
+<VALUE>0</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A1" TAB="1" LINE="0">
+
+<VALUE>1</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A13" TAB="1" LINE="0">
+
+<VALUE>РўРєР°РЅРёРЅР°, РїРѕС„Р°СЂР±РѕРІР°РЅР° РІ СЂРѕР¶РµРІРёР№ РєРѕР»С–СЂ, РїРѕР»РѕС‚РЅСЏРЅРѕРіРѕ РїРµСЂРµРїР»РµС‚РµРЅРЅСЏ. РџСЂРѕСЃРѕС‡РµРЅРЅСЏ, РґСѓ Р±Р»СЋРІР°РЅРЅСЏ С‚Р° РїРѕРєСЂРёС‚С‚СЏ РїР»Р°СЃС‚РјР°СЃР°РјРё, С‰Рѕ СЃРїРѕ СЃС‚РµСЂС–РіР°С”С‚СЊСЃСЏ РЅРµРѕР·Р±СЂРѕС”РЅРёРј РѕРєРѕРј, РІС–РґСЃСѓС‚РЅС”. Р— СЃРёРЅС‚РµС‚РёС‡РЅРёС… РєРѕРјРїР»РµРєСЃРЅРёС… С‚РµРєСЃС‚СѓСЂРѕРІР°РЅРёС… РЅРёС‚РѕРє Р· РїРѕР»С–РµС„С–СЂСѓ - 100%. Р—Р°РіР°Р»СЊРЅР° С€РёСЂРёРЅ Р° - 223 СЃРј; С€РёСЂРёРЅР° РїРѕ С„РѕРЅСѓ (РјС–Р¶ РїСЂСѓРіР°РјРё) - 219 СЃРј; РїРѕРІРµСЂС…РЅРµРІР° С‰С–Р»СЊРЅС–СЃС‚СЊ - 87+/-1 Рі/Рј2. РђСЂС‚РёРєСѓР» POLY/D. 195800,00 Рј2. </VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A14" TAB="1" LINE="0">
+
+<VALUE>РєРі</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A15" TAB="1" LINE="0">
+
+<VALUE>16749</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A16" TAB="1" LINE="0">
+
+<VALUE>98.365</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A131" TAB="1" LINE="0">
+
+<VALUE>5407520000</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A141" TAB="1" LINE="0">
+
+<VALUE>0301</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A8" TAB="1" LINE="0">
+
+<VALUE>20</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A10" TAB="1" LINE="0">
+
+<VALUE>1647515.38</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A132" TAB="1" LINE="0">
+
+<VALUE>1</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A20" TAB="1" LINE="0">
+
+<VALUE>329503.076</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="RECNO" TAB="1" LINE="1">
+
+<VALUE>1</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A1" TAB="1" LINE="1">
+
+<VALUE>2</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A13" TAB="1" LINE="1">
+
+<VALUE>РўРєР°РЅРёРЅР° РІРёР±РёРІРЅР°, РїРѕР»РѕС‚РЅСЏРЅРѕРіРѕ РїРµСЂРµРїР»РµС‚Рµ РЅРЅСЏ. РџСЂРѕСЃРѕС‡РµРЅРЅСЏ, РґСѓР±Р»СЋРІР°РЅРЅСЏ С‚Р° РїРѕРєСЂРёС‚С‚СЏ РїР»Р°СЃС‚РјР°СЃР°РјРё, С‰Рѕ СЃРїРѕСЃС‚РµСЂС–РіР°С”С‚СЊСЃСЏ РЅРµРѕР·Р±СЂРѕС” РЅРёРј РѕРєРѕРј, РІСѓРґСЃСѓС‚РЅС”. Р— СЃРёРЅС‚РµС‚РёС‡РЅРёС… РєРѕРјРїР»Рµ РєСЃРЅРёС… С‚РµРєСЃС‚СѓСЂРѕРІР°РЅРёС… РЅРёС‚РѕРє Р· РїРѕР»С–РµС„С–СЂСѓ - 100%. Р—Р°РіР°Р»СЊРЅР° С€РёСЂРёРЅР° - 222 СЃРј; С€РёСЂРёРЅР° Рї Рѕ С„РѕРЅСѓ (РјС–Р¶ РїСЂСѓРіР°РјРё) - 218 СЃРј; РїРѕРІРµСЂС…РЅРµРІ Р° С‰С–Р»СЊРЅС–СЃС‚СЊ - 86+/-1 Рі/Рј2. РђСЂС‚РёРєСѓР» POLY/ P. 118800,00 Рј2. </VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A14" TAB="1" LINE="1">
+
+<VALUE>РєРі</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A15" TAB="1" LINE="1">
+
+<VALUE>10163</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A16" TAB="1" LINE="1">
+
+<VALUE>98.365</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A131" TAB="1" LINE="1">
+
+<VALUE>5407540000</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A141" TAB="1" LINE="1">
+
+<VALUE>0301</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A8" TAB="1" LINE="1">
+
+<VALUE>20</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A10" TAB="1" LINE="1">
+
+<VALUE>999683.5</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A132" TAB="1" LINE="1">
+
+<VALUE>1</VALUE>
+
+</ROW>
+
+
+-<ROW NAME="TAB1_A20" TAB="1" LINE="1">
+
+<VALUE>199936.7</VALUE>
+
+</ROW>
+
+</DOCUMENT>
+
+</CARD>
+
+</ORG>
+
 </ZVIT>
