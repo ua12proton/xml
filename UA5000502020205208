@@ -1,0 +1,1529 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>10.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>43233703</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>9bf3f2c4-a9db-4e2e-ada2-706d80748ba5</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "ПРОФІСТАЛЬ ЛТД"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>Україна,61023,м.Харків,вул.Пушкінсь ка,буд.106</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>205208</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>997830.33</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>199566.07</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>199566.07</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>1197396.4</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432337020313</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>10.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№205208</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>205208</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43233703</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>205208</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43233703</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини турбокомпресора: картридж - 5290 компл;</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>5290</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>95.717</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414900000</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>506342.93</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>101268.586</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="RECNO">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A1">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини турбокомпресора: ротор - 4946 компл;</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A15">
+          <VALUE>4946</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A16">
+          <VALUE>9.644</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414900000</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A10">
+          <VALUE>47699.22</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A20">
+          <VALUE>9539.844</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="RECNO">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A1">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини турбокомпресора: диск компресора - 350 компл;</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A15">
+          <VALUE>350</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A16">
+          <VALUE>27.257</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414900000</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A10">
+          <VALUE>9539.95</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A20">
+          <VALUE>1907.99</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="RECNO">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A1">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини турбокомпресора: колесо компресора - 6821 шт;</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A15">
+          <VALUE>6821</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A16">
+          <VALUE>6.993</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414900000</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A10">
+          <VALUE>47699.25</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A20">
+          <VALUE>9539.85</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="RECNO">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A1">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини турбокомпресора: корпус картриджа - 570 шт;</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A15">
+          <VALUE>570</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A16">
+          <VALUE>70.808</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414900000</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A10">
+          <VALUE>40360.56</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A20">
+          <VALUE>8072.112</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="RECNO">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A1">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини турбокомпресора: тепловий екран - 1054 шт;</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A15">
+          <VALUE>1054</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A16">
+          <VALUE>5.57</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414900000</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A10">
+          <VALUE>5870.78</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A20">
+          <VALUE>1174.156</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="RECNO">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A1">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини турбокомпресора: сопловий апарат - 1178 шт;</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A15">
+          <VALUE>1178</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A16">
+          <VALUE>25.541</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414900000</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A10">
+          <VALUE>30087.3</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A20">
+          <VALUE>6017.46</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="RECNO">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A1">
+          <VALUE>8</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини турбокомпресора: корзина соплового апарату - 123 шт;</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A15">
+          <VALUE>123</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A16">
+          <VALUE>35.797</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414900000</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A10">
+          <VALUE>4403.03</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A20">
+          <VALUE>880.606</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="RECNO">
+          <VALUE>8</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A1">
+          <VALUE>9</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини турбокомпресора: ремкомплект турбокомпресора - 1054 шт;</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A15">
+          <VALUE>1054</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A16">
+          <VALUE>9.051</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414900000</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A10">
+          <VALUE>9539.75</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A20">
+          <VALUE>1907.95</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="RECNO">
+          <VALUE>9</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A1">
+          <VALUE>10</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини турбокомпресора: деталі газомаслянні ущільнення - 3847 шт;</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A15">
+          <VALUE>3847</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A16">
+          <VALUE>1.145</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414900000</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A10">
+          <VALUE>4404.82</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A20">
+          <VALUE>880.964</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="RECNO">
+          <VALUE>10</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A1">
+          <VALUE>11</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини турбокомпресора: корпус турбіни - 133 шт;</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A15">
+          <VALUE>133</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A16">
+          <VALUE>204.149</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414900000</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A10">
+          <VALUE>27151.82</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A20">
+          <VALUE>5430.364</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="RECNO">
+          <VALUE>11</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A1">
+          <VALUE>12</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини турбокомпресора: втулка соплового апарату - 80 шт;</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A15">
+          <VALUE>80</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A16">
+          <VALUE>9.173</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414900000</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A10">
+          <VALUE>733.84</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A20">
+          <VALUE>146.768</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="RECNO">
+          <VALUE>12</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A1">
+          <VALUE>13</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини турбокомпресора: заслінка - 22 шт;</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A15">
+          <VALUE>22</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A16">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414900000</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A10">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A20">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="RECNO">
+          <VALUE>13</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A1">
+          <VALUE>14</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини турбокомпресора: масловідображувач - 60 шт;</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A15">
+          <VALUE>60</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A16">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414900000</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A10">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A20">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="RECNO">
+          <VALUE>14</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A1">
+          <VALUE>15</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A13">
+          <VALUE>клапани контролю за процесом в автомобілі: актуатор турбокомпресора - 634 компл;</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A15">
+          <VALUE>634</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A16">
+          <VALUE>45.858</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A131">
+          <VALUE>8481805900</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A10">
+          <VALUE>29073.97</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A20">
+          <VALUE>5814.794</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="RECNO">
+          <VALUE>15</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A1">
+          <VALUE>16</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A13">
+          <VALUE>клапани контролю за процесом в автомобілі: актуатор турбокомпресора електронний - 134 шт;</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A15">
+          <VALUE>134</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A16">
+          <VALUE>65.176</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A131">
+          <VALUE>8481805900</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A10">
+          <VALUE>8733.58</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A20">
+          <VALUE>1746.716</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="RECNO">
+          <VALUE>16</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A1">
+          <VALUE>17</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A13">
+          <VALUE>контрольно вимірювальні прилади неелектронні: датчик позиції актуатора - 10 шт;</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A15">
+          <VALUE>10</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A16">
+          <VALUE>13.41</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A131">
+          <VALUE>9031809800</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A10">
+          <VALUE>134.1</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A20">
+          <VALUE>26.82</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="RECNO">
+          <VALUE>17</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A1">
+          <VALUE>18</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A13">
+          <VALUE>підшипник кульковий з чорного металу зовнішнім діаметром не більше 30 мм, клас точності "0" (для моторних транспортних засобів) - 9 компл;</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A15">
+          <VALUE>9</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A16">
+          <VALUE>23.15</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A131">
+          <VALUE>8482101000</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A10">
+          <VALUE>208.35</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A20">
+          <VALUE>41.67</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="RECNO">
+          <VALUE>18</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A1">
+          <VALUE>19</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A13">
+          <VALUE>підшипники ковзання для валів до автомобілів: радільний підшипник турбокомпресора - 3468 шт;</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A15">
+          <VALUE>3468</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A16">
+          <VALUE>1.97</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483308090</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A10">
+          <VALUE>6831.96</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A20">
+          <VALUE>1366.392</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="RECNO">
+          <VALUE>19</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A1">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A13">
+          <VALUE>підшипники ковзання для валів до автомобілів: завзятий підшипник турбокомпресора - 3273 шт;</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A15">
+          <VALUE>3273</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A16">
+          <VALUE>1.972</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483308090</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A10">
+          <VALUE>6454.36</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A20">
+          <VALUE>1290.872</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="RECNO">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A1">
+          <VALUE>21</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A13">
+          <VALUE>підшипники ковзання для валів до автомобілів: розпірна втулка турбокомпресора - 110 пар;</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A14">
+          <VALUE>пар</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A15">
+          <VALUE>110</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A16">
+          <VALUE>6.223</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483308090</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A141">
+          <VALUE>1617</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A10">
+          <VALUE>684.53</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A20">
+          <VALUE>136.906</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="RECNO">
+          <VALUE>21</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A1">
+          <VALUE>22</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A13">
+          <VALUE>вироби з чорних металів, запасні частини до автомобілів: ущільнювач (кільце) турбокомпресора - 5808 шт;</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A15">
+          <VALUE>5808</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A16">
+          <VALUE>0.282</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A131">
+          <VALUE>7326909890</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A10">
+          <VALUE>1637.86</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A20">
+          <VALUE>327.572</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="RECNO">
+          <VALUE>22</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A1">
+          <VALUE>23</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A13">
+          <VALUE>вироби з чорних металів, запасні частини до автомобілів: хомут турбокомпресора - 81 шт;</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A15">
+          <VALUE>81</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A16">
+          <VALUE>1.685</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A131">
+          <VALUE>7326909890</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A10">
+          <VALUE>136.49</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A20">
+          <VALUE>27.298</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="RECNO">
+          <VALUE>23</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A1">
+          <VALUE>24</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A13">
+          <VALUE>турбокомпресор одноступінчатий для використання в автомобільних двигунах - 23 шт;</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A15">
+          <VALUE>23</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A16">
+          <VALUE>348.641</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A131">
+          <VALUE>8414801190</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A10">
+          <VALUE>8018.74</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A20">
+          <VALUE>1603.748</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="RECNO">
+          <VALUE>24</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A1">
+          <VALUE>25</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A13">
+          <VALUE>фітинги із чорних металів з нанесеною різьбою: штуцер - 60 шт;</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A15">
+          <VALUE>60</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A16">
+          <VALUE>2.252</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A131">
+          <VALUE>7307991090</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A10">
+          <VALUE>135.12</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A20">
+          <VALUE>27.024</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="RECNO">
+          <VALUE>25</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A1">
+          <VALUE>26</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A13">
+          <VALUE>електродвигун постійного струму потужністю не більше 37,5 Вт для автомобілів: привід актуатора турбокомпресора - 6 шт;</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A15">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A16">
+          <VALUE>66.2</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A131">
+          <VALUE>8501109990</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A10">
+          <VALUE>397.2</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A20">
+          <VALUE>79.44</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="RECNO">
+          <VALUE>26</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A1">
+          <VALUE>27</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A13">
+          <VALUE>набір інструментів для ремонту турбокомпресорів для роздрібної торгівлі - 8 шт;</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A15">
+          <VALUE>8</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A16">
+          <VALUE>25.369</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A131">
+          <VALUE>8206000000</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A10">
+          <VALUE>202.95</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A20">
+          <VALUE>40.59</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="RECNO">
+          <VALUE>27</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A1">
+          <VALUE>28</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A13">
+          <VALUE>шестерні сталеві представлені окремо: шестерня актуатора турбокомпресора - 50 шт;</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A15">
+          <VALUE>50</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A16">
+          <VALUE>6.705</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483908100</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A10">
+          <VALUE>335.25</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A20">
+          <VALUE>67.05</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="RECNO">
+          <VALUE>28</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A1">
+          <VALUE>29</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A13">
+          <VALUE>набір прокладок ущільнювачів з різних матеріалів: набір прокладок для турбокомпресора - 7625 шт;</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A15">
+          <VALUE>7625</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A16">
+          <VALUE>3.218</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A131">
+          <VALUE>8484900090</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A10">
+          <VALUE>24537.25</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A20">
+          <VALUE>4907.45</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="RECNO">
+          <VALUE>29</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A1">
+          <VALUE>30</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A13">
+          <VALUE>вироби з вулканізованої, не пористої, м'якої гуми для автомобіля: мембрана актуатора - 61 пар;</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A14">
+          <VALUE>пар</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A15">
+          <VALUE>61</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A16">
+          <VALUE>0.885</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A131">
+          <VALUE>4016995790</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A141">
+          <VALUE>1617</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A10">
+          <VALUE>53.98</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A20">
+          <VALUE>10.796</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="RECNO">
+          <VALUE>30</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A1">
+          <VALUE>31</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A13">
+          <VALUE>ущільнювачі з вулканізованої не пористої, м'якої гуми для моторних транспортних засобів (автомобілів): кільце гумове - 1594 компл;</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A15">
+          <VALUE>1594</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A16">
+          <VALUE>0.295</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A131">
+          <VALUE>4016930090</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A10">
+          <VALUE>470.23</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A20">
+          <VALUE>94.046</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="RECNO">
+          <VALUE>31</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A1">
+          <VALUE>32</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A13">
+          <VALUE>арматура кріплення з недорогоцінних металів для автотранспортних засобів: фіксатор - 542 пар;</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A14">
+          <VALUE>пар</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A15">
+          <VALUE>542</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A16">
+          <VALUE>0.59</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A131">
+          <VALUE>8302300090</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A141">
+          <VALUE>1617</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A10">
+          <VALUE>319.78</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A20">
+          <VALUE>63.956</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="RECNO">
+          <VALUE>32</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A1">
+          <VALUE>33</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини для моторних транспортних
+засобів (автомобілів),не штамповані:
+маслопідвідна трубка турбокомпресора -
+11 пар;
+      </VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A14">
+          <VALUE>пар</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A15">
+          <VALUE>11</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A16">
+          <VALUE>43.645</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708999798</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A141">
+          <VALUE>1617</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A10">
+          <VALUE>480.1</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A20">
+          <VALUE>96.02</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="RECNO">
+          <VALUE>33</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A1">
+          <VALUE>34</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A13">
+          <VALUE>датчик швидкості обертання валу турбокомпресора - 2 шт;</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A15">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A16">
+          <VALUE>60.25</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A131">
+          <VALUE>9029100090</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A10">
+          <VALUE>120.5</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A20">
+          <VALUE>24.1</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="RECNO">
+          <VALUE>34</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A1">
+          <VALUE>35</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини обладнання для фільтрування води з комбінованих матеріалів: мембрана фільтруюча - 600 компл;</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A15">
+          <VALUE>600</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A16">
+          <VALUE>54.727</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A131">
+          <VALUE>8421990000</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A10">
+          <VALUE>32836.2</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A20">
+          <VALUE>6567.24</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="RECNO">
+          <VALUE>35</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A1">
+          <VALUE>36</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини обладнання для фільтрування води з комбінованих матеріалів: мембрана фільтруюча - 500 шт;</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A15">
+          <VALUE>500</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A16">
+          <VALUE>54.66</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A131">
+          <VALUE>8421990000</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A10">
+          <VALUE>27330</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A20">
+          <VALUE>5466</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="RECNO">
+          <VALUE>36</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A1">
+          <VALUE>37</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A13">
+          <VALUE>частини обладнання для фільтрування води з комбінованих матеріалів: мембрана фільтруюча - 150 шт;</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A15">
+          <VALUE>150</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A16">
+          <VALUE>41.128</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A131">
+          <VALUE>8421990000</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A10">
+          <VALUE>6169.2</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A20">
+          <VALUE>1233.84</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="RECNO">
+          <VALUE>37</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A1">
+          <VALUE>38</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A13">
+          <VALUE>обладнання для фільтрації або очищення води: фільтр попереднього очищення води - 80 компл;</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A15">
+          <VALUE>80</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A16">
+          <VALUE>815.588</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A131">
+          <VALUE>8421210000</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A10">
+          <VALUE>65247.04</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A20">
+          <VALUE>13049.408</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="RECNO">
+          <VALUE>38</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A1">
+          <VALUE>39</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A13">
+          <VALUE>обладнання для фільтрації або очищення води: фільтр попереднього очищення води - 56 компл;</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A15">
+          <VALUE>56</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A16">
+          <VALUE>763.89</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A131">
+          <VALUE>8421210000</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A10">
+          <VALUE>42777.84</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A20">
+          <VALUE>8555.568</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="RECNO">
+          <VALUE>39</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A1">
+          <VALUE>40</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A13">
+          <VALUE>інструмент ручний пластиковий: ключ для фітингів - 500 шт;</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A15">
+          <VALUE>500</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A16">
+          <VALUE>1.341</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A131">
+          <VALUE>3926909790</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A10">
+          <VALUE>670.5</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A20">
+          <VALUE>134.1</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
