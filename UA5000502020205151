@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>07.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>42895492</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>30039c28-e4c1-4347-b937-d1d243905f56</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "БУДКОМ АЛЬЯНС"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>61072, м. Харків , ПРОСПЕКТ НАУКИ  буд. 31-А</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>205151</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>2721747.21</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>544349.44</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>544349.44</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>3266096.65</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432671713047</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>07.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№205151</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>205151</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>205151</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>Тканина вибивна , саржевого переплете
+ння чотирьох ниток, виготовлена з синтет
+ичних штапельних волокон з поліефіру - 7
+9,5+/-0,5% та бавовни - 20,5 +/-0,5%.Пр
+осочення, дублювання та покриття пластма
+сами що спостерігаються неозброєним око
+м відсутнє. Проба має максимальну і міні
+мальну ширину - 150см, максимальну і мін
+імальну ширину по фону( між пругами) - 1
+47см. Поверхнева щільність проби складає
+- 204 +/-1г/м2.136072м2
+      </VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>26806</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>101.535</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>5514420000</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>2721747.21</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>544349.442</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
