@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>14.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>42895492</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>46a9a945-1614-4d3e-8948-6c4ab4fc7ece</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "БУДКОМ АЛЬЯНС"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>Україна,61072,м.Харків,пр-т.Науки, буд.31А.</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>205381</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>1600693.76</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>320138.75</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>320138.75</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>1920832.51</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432671713047</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>14.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№205381</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>205381</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>205381</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43363766</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>Трикотажне ворсове полотно з коротким розрізаним ворсом, з синтетичних поліефірних волокон на 100%, без просочення і покриття,шириною більше 30см. - 14769 кг;</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>14769</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>108.382</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>6001920000</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>1600693.76</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>320138.752</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
