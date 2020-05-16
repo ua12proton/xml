@@ -1,0 +1,3469 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>16.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>43380671</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>b89c0ebf-879e-461c-89b7-bb3bc538704a</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "ШАЙНВЕРФЕР"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>79015, м. Львів, вул. Героїв УПА,  буд. 71. Україна</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>7545</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>293817.51</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>58763.5</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>58763.5</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>352581.02</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432337020313</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>16.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№7545</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>7545</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43233703</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>7545</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43233703</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>Шланг гнучкий пластиковий, не армований і не комбінований з іншими матеріалами, без фітингів</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>185</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>53.785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>3917320090</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>9950.22</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>1990.044</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="RECNO">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A1">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A13">
+          <VALUE>Посуд кухонний пластиковий: формочки для виготовлення шоколадних виробів</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A15">
+          <VALUE>110</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A16">
+          <VALUE>54.838</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A131">
+          <VALUE>3924100000</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A10">
+          <VALUE>6032.18</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A20">
+          <VALUE>1206.436</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="RECNO">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A1">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A13">
+          <VALUE>Фурнітура галантерейна пластикова: пряжка</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A15">
+          <VALUE>36</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A16">
+          <VALUE>40.286</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A131">
+          <VALUE>3926909790</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A10">
+          <VALUE>1450.3</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A20">
+          <VALUE>290.06</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="RECNO">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A1">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A13">
+          <VALUE>Шланг з вулканізованої непористої гуми, не армований і не комбінований з іншими матеріалами, без фітингів</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A15">
+          <VALUE>4.5</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A16">
+          <VALUE>35.222</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A131">
+          <VALUE>4009110000</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A10">
+          <VALUE>158.5</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A20">
+          <VALUE>31.7</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="RECNO">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A1">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A13">
+          <VALUE>Шланг з вулканізованої непористої гуми, армований металом, з фітингами</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A15">
+          <VALUE>1.8</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A16">
+          <VALUE>32.278</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A131">
+          <VALUE>4009220000</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A10">
+          <VALUE>58.1</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A20">
+          <VALUE>11.62</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="RECNO">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A1">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A13">
+          <VALUE>Ремінь привідний зубчастий, з вулканізованої непористої гуми, з довжиною зовнішнього кола більш 60см, менш 150см</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A16">
+          <VALUE>450.6</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A131">
+          <VALUE>4010350000</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A10">
+          <VALUE>450.6</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A20">
+          <VALUE>90.12</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="RECNO">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A1">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A13">
+          <VALUE>Ущільнювачі з вулканізованої непористої гуми, для установки в екскаваторах і навантажувачах: кільця</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A15">
+          <VALUE>7.5</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A16">
+          <VALUE>46.405</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A131">
+          <VALUE>4016930090</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A10">
+          <VALUE>348.04</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A20">
+          <VALUE>69.608</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="RECNO">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A1">
+          <VALUE>8</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A13">
+          <VALUE>Ущільнювачі з вулканізованої непористої гуми, для установки в екскаваторах і навантажувачах: кільця, сальники і ущільнення, в наборах і поштучно</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A15">
+          <VALUE>5.7</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A16">
+          <VALUE>46.334</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A131">
+          <VALUE>4016930090</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A10">
+          <VALUE>264.1</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="7" TAB="1" NAME="TAB1_A20">
+          <VALUE>52.82</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="RECNO">
+          <VALUE>8</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A1">
+          <VALUE>9</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A13">
+          <VALUE>Ущільнювачі з вулканізованої непористої гуми, для установки в екскаваторах і навантажувачах: прокладка, ущільнення, комплект прокладок, сальник</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A15">
+          <VALUE>13.5</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A16">
+          <VALUE>46.405</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A131">
+          <VALUE>4016930090</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A10">
+          <VALUE>626.47</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="8" TAB="1" NAME="TAB1_A20">
+          <VALUE>125.294</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="RECNO">
+          <VALUE>9</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A1">
+          <VALUE>10</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A13">
+          <VALUE>Ущільнювачі з вулканізованої непористої гуми, для установки в екскаваторах і навантажувачах: сальники, кільця</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A15">
+          <VALUE>8</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A16">
+          <VALUE>46.32</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A131">
+          <VALUE>4016930090</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A10">
+          <VALUE>370.56</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="9" TAB="1" NAME="TAB1_A20">
+          <VALUE>74.112</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="RECNO">
+          <VALUE>10</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A1">
+          <VALUE>11</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A13">
+          <VALUE>Ущільнювачі з вулканізованої непористої гуми для с / г техніки: прокладка клапанної кришки</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A15">
+          <VALUE>0.3</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A16">
+          <VALUE>61.419</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A131">
+          <VALUE>4016930090</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A10">
+          <VALUE>18.43</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="10" TAB="1" NAME="TAB1_A20">
+          <VALUE>3.686</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="RECNO">
+          <VALUE>11</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A1">
+          <VALUE>12</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A13">
+          <VALUE>Ущільнювачі з вулканізованої непористої гуми, для установки в екскаваторах і навантажувачах: прокладка</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A15">
+          <VALUE>0.2</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A16">
+          <VALUE>51.182</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A131">
+          <VALUE>4016930090</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A10">
+          <VALUE>10.24</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="11" TAB="1" NAME="TAB1_A20">
+          <VALUE>2.048</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="RECNO">
+          <VALUE>12</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A1">
+          <VALUE>13</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A13">
+          <VALUE>Ущільнювачі з вулканізованої непористої гуми для гідромолотів: набір прокладок, сальники</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A15">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A16">
+          <VALUE>46.405</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A131">
+          <VALUE>4016930090</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A10">
+          <VALUE>139.22</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="12" TAB="1" NAME="TAB1_A20">
+          <VALUE>27.844</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="RECNO">
+          <VALUE>13</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A1">
+          <VALUE>14</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A13">
+          <VALUE>Ущільнювачі з вулканізованої непористої гуми дискові, для комплектації держателя-переноски склопакетів</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A15">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A16">
+          <VALUE>31.051</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A131">
+          <VALUE>4016930090</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A10">
+          <VALUE>186.31</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="13" TAB="1" NAME="TAB1_A20">
+          <VALUE>37.262</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="RECNO">
+          <VALUE>14</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A1">
+          <VALUE>15</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A13">
+          <VALUE>Ущільнювачі з вулканізованої непористої гуми для установки в автомобільних двигунах: прокладка</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A15">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A16">
+          <VALUE>42.993</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A131">
+          <VALUE>4016930090</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A10">
+          <VALUE>85.99</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="14" TAB="1" NAME="TAB1_A20">
+          <VALUE>17.198</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="RECNO">
+          <VALUE>15</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A1">
+          <VALUE>16</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вироби гумометалеві для екскаваторів і навантажувачів: подушка амортизатора, подушка двигуна</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A15">
+          <VALUE>8.2</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A16">
+          <VALUE>70.14</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A131">
+          <VALUE>4016999100</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A10">
+          <VALUE>575.15</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="15" TAB="1" NAME="TAB1_A20">
+          <VALUE>115.03</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="RECNO">
+          <VALUE>16</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A1">
+          <VALUE>17</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A13">
+          <VALUE>Нитки швейні синтетичні 100% поліестер, різних кольорів, розфасовані для роздрібної торгівлі на шпулях, масою (включаючи масу шпулі) менше 1000 грамів, які пройшли завершальну обробку, призначена для використання на швейних машинках</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A15">
+          <VALUE>20.6</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A16">
+          <VALUE>40.82</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A131">
+          <VALUE>5401109000</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A10">
+          <VALUE>840.89</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="16" TAB="1" NAME="TAB1_A20">
+          <VALUE>168.178</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="RECNO">
+          <VALUE>17</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A1">
+          <VALUE>18</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вузька тканина, текстильна синтетична 100% поліефір, з тканої кромкою, шириною не більше 30см</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A15">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A16">
+          <VALUE>63.957</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A131">
+          <VALUE>5806321000</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A10">
+          <VALUE>447.7</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="17" TAB="1" NAME="TAB1_A20">
+          <VALUE>89.54</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="RECNO">
+          <VALUE>18</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A1">
+          <VALUE>19</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A13">
+          <VALUE>Полотно трикотажне в відрізках шириною більше 30см, з вмістом еластомірних ниток більше 5%</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A15">
+          <VALUE>8</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A16">
+          <VALUE>108.337</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A131">
+          <VALUE>6004100000</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A10">
+          <VALUE>866.7</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="18" TAB="1" NAME="TAB1_A20">
+          <VALUE>173.34</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="RECNO">
+          <VALUE>19</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A1">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A13">
+          <VALUE>Посуд столовий фарфоровий: тарілки, миски, соусники</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A15">
+          <VALUE>495</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A16">
+          <VALUE>92.15</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A131">
+          <VALUE>6911100000</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A10">
+          <VALUE>45614.25</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="19" TAB="1" NAME="TAB1_A20">
+          <VALUE>9122.85</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="RECNO">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A1">
+          <VALUE>21</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A13">
+          <VALUE>Фітинги сталеві для труб і трубок: заглушка різьбова</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A15">
+          <VALUE>0.1</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A16">
+          <VALUE>61</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A131">
+          <VALUE>7307991090</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A10">
+          <VALUE>6.1</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="20" TAB="1" NAME="TAB1_A20">
+          <VALUE>1.22</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="RECNO">
+          <VALUE>21</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A1">
+          <VALUE>22</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A13">
+          <VALUE>Ланцюг з чорних металів, плоскокільцьова, з розпірками (500м)</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A15">
+          <VALUE>58</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A16">
+          <VALUE>64.71</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A131">
+          <VALUE>7315810000</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A10">
+          <VALUE>3753.18</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="21" TAB="1" NAME="TAB1_A20">
+          <VALUE>750.636</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="RECNO">
+          <VALUE>22</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A1">
+          <VALUE>23</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A13">
+          <VALUE>Болт сталевий, з шестигранною головкою, з межею міцності на розтягування менш 800МПа</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A15">
+          <VALUE>0.2</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A16">
+          <VALUE>54.25</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A131">
+          <VALUE>7318158190</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A10">
+          <VALUE>10.85</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="22" TAB="1" NAME="TAB1_A20">
+          <VALUE>2.17</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="RECNO">
+          <VALUE>23</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A1">
+          <VALUE>24</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A13">
+          <VALUE>Гайка сталева самостопорна, діаметр більше 6 мм</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A15">
+          <VALUE>0.1</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A16">
+          <VALUE>54</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A131">
+          <VALUE>7318165090</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A10">
+          <VALUE>5.4</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="23" TAB="1" NAME="TAB1_A20">
+          <VALUE>1.08</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="RECNO">
+          <VALUE>24</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A1">
+          <VALUE>25</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A13">
+          <VALUE>Шайба стопорна сталева</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A15">
+          <VALUE>0.2</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A16">
+          <VALUE>54</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A131">
+          <VALUE>7318210090</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A10">
+          <VALUE>10.8</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="24" TAB="1" NAME="TAB1_A20">
+          <VALUE>2.16</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="RECNO">
+          <VALUE>25</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A1">
+          <VALUE>26</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A13">
+          <VALUE>Шайба сталева не самостопорна</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A15">
+          <VALUE>0.8</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A16">
+          <VALUE>54.344</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A131">
+          <VALUE>7318220090</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A10">
+          <VALUE>43.48</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="25" TAB="1" NAME="TAB1_A20">
+          <VALUE>8.696</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="RECNO">
+          <VALUE>26</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A1">
+          <VALUE>27</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A13">
+          <VALUE>Шайба сталева упорна не самостопорна</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A15">
+          <VALUE>0.6</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A16">
+          <VALUE>54.489</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A131">
+          <VALUE>7318220090</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A10">
+          <VALUE>32.69</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="26" TAB="1" NAME="TAB1_A20">
+          <VALUE>6.538</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="RECNO">
+          <VALUE>27</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A1">
+          <VALUE>28</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A13">
+          <VALUE>Шайба сталева упорна не самостопорна</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A15">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A16">
+          <VALUE>54.326</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A131">
+          <VALUE>7318220090</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A10">
+          <VALUE>271.63</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="27" TAB="1" NAME="TAB1_A20">
+          <VALUE>54.326</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="RECNO">
+          <VALUE>28</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A1">
+          <VALUE>29</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A13">
+          <VALUE>Штифт розрізний пружинний, з чорних металів, без різьблення</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A15">
+          <VALUE>0.1</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A16">
+          <VALUE>60.5</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A131">
+          <VALUE>7318240090</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A10">
+          <VALUE>6.05</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="28" TAB="1" NAME="TAB1_A20">
+          <VALUE>1.21</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="RECNO">
+          <VALUE>29</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A1">
+          <VALUE>30</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A13">
+          <VALUE>Пружини металеві на стиск, виготовлені в холодному вигляді</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A16">
+          <VALUE>9.4</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A131">
+          <VALUE>7320208190</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A10">
+          <VALUE>9.4</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="29" TAB="1" NAME="TAB1_A20">
+          <VALUE>1.88</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="RECNO">
+          <VALUE>30</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A1">
+          <VALUE>31</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A13">
+          <VALUE>Посуд кухонний з литого чавуну, не емальований: сковорода, миска</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A15">
+          <VALUE>128</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A16">
+          <VALUE>112.053</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A131">
+          <VALUE>7323910000</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A10">
+          <VALUE>14342.78</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="30" TAB="1" NAME="TAB1_A20">
+          <VALUE>2868.556</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="RECNO">
+          <VALUE>31</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A1">
+          <VALUE>32</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A13">
+          <VALUE>Посуд кухонний з литого чавуну, емальований: каструля</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A15">
+          <VALUE>45</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A16">
+          <VALUE>112.052</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A131">
+          <VALUE>7323920000</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A10">
+          <VALUE>5042.34</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="31" TAB="1" NAME="TAB1_A20">
+          <VALUE>1008.468</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="RECNO">
+          <VALUE>32</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A1">
+          <VALUE>33</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A13">
+          <VALUE>Посуд столовий та кухонний, з нержавіючої сталі: корзинка для подачі страв, сковорода, соусник, піднос, сільничка</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A15">
+          <VALUE>106</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A16">
+          <VALUE>108.131</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A131">
+          <VALUE>7323930000</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A10">
+          <VALUE>11461.89</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="32" TAB="1" NAME="TAB1_A20">
+          <VALUE>2292.378</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="RECNO">
+          <VALUE>33</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A1">
+          <VALUE>34</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A13">
+          <VALUE>Карабіни з чорних металів</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A15">
+          <VALUE>18</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A16">
+          <VALUE>36.417</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A131">
+          <VALUE>7326909890</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A10">
+          <VALUE>655.51</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="33" TAB="1" NAME="TAB1_A20">
+          <VALUE>131.102</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="RECNO">
+          <VALUE>34</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A1">
+          <VALUE>35</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A13">
+          <VALUE>Прес ручний, з недорогоцінних металів, для установки швейної фурнітури (10шт.)</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A15">
+          <VALUE>191.4</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A16">
+          <VALUE>78.085</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A131">
+          <VALUE>8205598090</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A10">
+          <VALUE>14945.47</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="34" TAB="1" NAME="TAB1_A20">
+          <VALUE>2989.094</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="RECNO">
+          <VALUE>35</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A1">
+          <VALUE>36</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A13">
+          <VALUE>Інструменти змінні з недорогоцінних металів, для робіт по бетону, каменю, цеглі: піка гідромолота</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A15">
+          <VALUE>89</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A16">
+          <VALUE>97.422</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A131">
+          <VALUE>8207909900</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A10">
+          <VALUE>8670.56</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="35" TAB="1" NAME="TAB1_A20">
+          <VALUE>1734.112</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="RECNO">
+          <VALUE>36</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A1">
+          <VALUE>37</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A13">
+          <VALUE>Ножі столові, з фіксованим лезом, з нержавіючої сталі</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A15">
+          <VALUE>48</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A16">
+          <VALUE>74.835</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A131">
+          <VALUE>8211910000</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A10">
+          <VALUE>3592.08</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="36" TAB="1" NAME="TAB1_A20">
+          <VALUE>718.416</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="RECNO">
+          <VALUE>37</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A1">
+          <VALUE>38</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вилки столові з нержавіючої сталі</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A15">
+          <VALUE>48</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A16">
+          <VALUE>73.368</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A131">
+          <VALUE>8215991000</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A10">
+          <VALUE>3521.66</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="37" TAB="1" NAME="TAB1_A20">
+          <VALUE>704.332</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="RECNO">
+          <VALUE>38</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A1">
+          <VALUE>39</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A13">
+          <VALUE>Замок запалювання в зборі, з недорогоцінних металів, для екскаваторів і навантажувачів</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A16">
+          <VALUE>23.9</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A131">
+          <VALUE>8301200090</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A10">
+          <VALUE>23.9</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="38" TAB="1" NAME="TAB1_A20">
+          <VALUE>4.78</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="RECNO">
+          <VALUE>39</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A1">
+          <VALUE>40</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A13">
+          <VALUE>Заготовки з недорогоцінного металу для ключів замків</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A15">
+          <VALUE>50</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A16">
+          <VALUE>119.443</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A131">
+          <VALUE>8301700000</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A10">
+          <VALUE>5972.15</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="39" TAB="1" NAME="TAB1_A20">
+          <VALUE>1194.43</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="RECNO">
+          <VALUE>40</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A1">
+          <VALUE>41</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A13">
+          <VALUE>Ручка сумочна з недорогоцінних металів</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A15">
+          <VALUE>116</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A16">
+          <VALUE>119.443</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A131">
+          <VALUE>8302490090</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A10">
+          <VALUE>13855.39</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="40" TAB="1" NAME="TAB1_A20">
+          <VALUE>2771.078</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="RECNO">
+          <VALUE>41</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A1">
+          <VALUE>42</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A13">
+          <VALUE>Фурнітура галантерейна з недорогоцінних металів: півкільце</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A15">
+          <VALUE>148</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A16">
+          <VALUE>65.455</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A131">
+          <VALUE>8308900000</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A10">
+          <VALUE>9687.34</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="41" TAB="1" NAME="TAB1_A20">
+          <VALUE>1937.468</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="RECNO">
+          <VALUE>42</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A1">
+          <VALUE>43</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A13">
+          <VALUE>Фурнітура галантерейна з недорогоцінних металів: півкільце, рамка, пряжка, хольнітени, заклепка плоска</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A15">
+          <VALUE>308</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A16">
+          <VALUE>51.535</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A131">
+          <VALUE>8308900000</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A10">
+          <VALUE>15872.78</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="42" TAB="1" NAME="TAB1_A20">
+          <VALUE>3174.556</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="RECNO">
+          <VALUE>43</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A1">
+          <VALUE>44</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини автомобільних поршневих двигунів з іскровим запалюванням: поршень</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A15">
+          <VALUE>37</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A16">
+          <VALUE>56.026</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409910000</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A10">
+          <VALUE>2072.96</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="43" TAB="1" NAME="TAB1_A20">
+          <VALUE>414.592</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="RECNO">
+          <VALUE>44</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A1">
+          <VALUE>45</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини дизельних двигунів екскаваторів та навантажувачів: натяжитель</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A15">
+          <VALUE>2.5</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A16">
+          <VALUE>44.116</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409990000</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A10">
+          <VALUE>110.29</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="44" TAB="1" NAME="TAB1_A20">
+          <VALUE>22.058</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="RECNO">
+          <VALUE>45</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A1">
+          <VALUE>46</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини дизельних двигунів екскаваторів та навантажувачів: паливна форсунка, гільза форсунки</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A15">
+          <VALUE>14.5</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A16">
+          <VALUE>43.873</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409990000</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A10">
+          <VALUE>636.16</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="45" TAB="1" NAME="TAB1_A20">
+          <VALUE>127.232</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="RECNO">
+          <VALUE>46</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A1">
+          <VALUE>47</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини дизельних двигунів с / г тракторів: гільза циліндрів</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A15">
+          <VALUE>7.6</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A16">
+          <VALUE>54.892</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409990000</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A10">
+          <VALUE>417.18</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="46" TAB="1" NAME="TAB1_A20">
+          <VALUE>83.436</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="RECNO">
+          <VALUE>47</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A1">
+          <VALUE>48</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини дизельних двигунів екскаваторів та навантажувачів: поршні в комплекті з кільцями</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A15">
+          <VALUE>8.5</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A16">
+          <VALUE>51.149</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A131">
+          <VALUE>8409990000</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A10">
+          <VALUE>434.77</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="47" TAB="1" NAME="TAB1_A20">
+          <VALUE>86.954</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="RECNO">
+          <VALUE>48</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A1">
+          <VALUE>49</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A13">
+          <VALUE>Циліндр гідравлічний лінійної дії, призначений для підняття рукоятки і ковша екскаватора</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A15">
+          <VALUE>8.7</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A16">
+          <VALUE>81.241</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A131">
+          <VALUE>8412218090</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A10">
+          <VALUE>706.8</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="48" TAB="1" NAME="TAB1_A20">
+          <VALUE>141.36</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="RECNO">
+          <VALUE>49</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A1">
+          <VALUE>50</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A13">
+          <VALUE>Газ-ліфт, представляє з себе пневматичний циліндр лінійної дії з кріпленням, і призначений для підйому капота і дверей автонавантажувачів та екскаваторів за рахунок сили, створюваної стисненим повітрям</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A15">
+          <VALUE>0.5</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A16">
+          <VALUE>43.394</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A131">
+          <VALUE>8412310098</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A10">
+          <VALUE>21.7</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="49" TAB="1" NAME="TAB1_A20">
+          <VALUE>4.34</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="RECNO">
+          <VALUE>50</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A1">
+          <VALUE>51</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A13">
+          <VALUE>Газ-ліфт, представляє з себе пневматичний циліндр лінійної дії з кріпленням, і призначений для підйому капота і дверей автонавантажувачів та екскаваторів за рахунок сили, створюваної стисненим повітрям</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A15">
+          <VALUE>1.2</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A16">
+          <VALUE>43.419</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A131">
+          <VALUE>8412310098</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A10">
+          <VALUE>52.1</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="50" TAB="1" NAME="TAB1_A20">
+          <VALUE>10.42</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="RECNO">
+          <VALUE>51</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A1">
+          <VALUE>52</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A13">
+          <VALUE>Насос водяний для поршневих двигунів внутрішнього згоряння навантажувачів</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A16">
+          <VALUE>592.049</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A131">
+          <VALUE>8413308000</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A10">
+          <VALUE>592.05</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="51" TAB="1" NAME="TAB1_A20">
+          <VALUE>118.41</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="RECNO">
+          <VALUE>52</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A1">
+          <VALUE>53</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A13">
+          <VALUE>Насос паливний для поршневих двигунів внутрішнього згоряння навантажувачів</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A16">
+          <VALUE>29.851</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A131">
+          <VALUE>8413308000</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A10">
+          <VALUE>29.85</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="52" TAB="1" NAME="TAB1_A20">
+          <VALUE>5.97</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="RECNO">
+          <VALUE>53</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A1">
+          <VALUE>54</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A13">
+          <VALUE>Насос гідравлічний силовий, не дозуючий, з кривошипно-шатунним механізмом, аксіально-поршневий, для екскаваторів і навантажувачів</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A16">
+          <VALUE>6969.4</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A131">
+          <VALUE>8413506100</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A10">
+          <VALUE>6969.4</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="53" TAB="1" NAME="TAB1_A20">
+          <VALUE>1393.88</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="RECNO">
+          <VALUE>54</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A1">
+          <VALUE>55</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини гідравлічних насосів екскаваторів і навантажувачів: насосний елемент (плунжер)</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A15">
+          <VALUE>13</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A16">
+          <VALUE>80.335</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A131">
+          <VALUE>8413910090</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A10">
+          <VALUE>1044.36</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="54" TAB="1" NAME="TAB1_A20">
+          <VALUE>208.872</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="RECNO">
+          <VALUE>55</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A1">
+          <VALUE>56</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини насосів екскаваторів і навантажувачів: штовхач паливного насоса</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A15">
+          <VALUE>2.3</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A16">
+          <VALUE>80.129</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A131">
+          <VALUE>8413910090</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A10">
+          <VALUE>184.3</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="55" TAB="1" NAME="TAB1_A20">
+          <VALUE>36.86</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="RECNO">
+          <VALUE>56</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A1">
+          <VALUE>57</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини екскаваторів і навантажувачів, сталеві: палець рукоятки ковша</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A15">
+          <VALUE>34</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A16">
+          <VALUE>63.336</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A131">
+          <VALUE>8431492000</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A10">
+          <VALUE>2153.42</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="56" TAB="1" NAME="TAB1_A20">
+          <VALUE>430.684</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="RECNO">
+          <VALUE>57</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A1">
+          <VALUE>58</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини екскаваторів і навантажувачів, сталеві: втулка ковша, палець ковша</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A15">
+          <VALUE>9.9</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A16">
+          <VALUE>62.896</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A131">
+          <VALUE>8431492000</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A10">
+          <VALUE>622.67</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="57" TAB="1" NAME="TAB1_A20">
+          <VALUE>124.534</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="RECNO">
+          <VALUE>58</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A1">
+          <VALUE>59</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини екскаваторів і навантажувачів, сталеві: палець рукоятки ковша, втулка рукоятки ковша</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A15">
+          <VALUE>120.6</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A16">
+          <VALUE>63.463</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A131">
+          <VALUE>8431492000</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A10">
+          <VALUE>7653.64</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="58" TAB="1" NAME="TAB1_A20">
+          <VALUE>1530.728</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="RECNO">
+          <VALUE>59</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A1">
+          <VALUE>60</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини екскаваторів і навантажувачів, сталеві: фіксатор стріли ковша, палець стріли ковша</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A15">
+          <VALUE>17.8</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A16">
+          <VALUE>63.404</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A131">
+          <VALUE>8431492000</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A10">
+          <VALUE>1128.59</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="59" TAB="1" NAME="TAB1_A20">
+          <VALUE>225.718</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="RECNO">
+          <VALUE>60</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A1">
+          <VALUE>61</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини гідромолотів сталеві: бічний клин</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A15">
+          <VALUE>22</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A16">
+          <VALUE>63.682</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A131">
+          <VALUE>8431492000</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A10">
+          <VALUE>1401</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="60" TAB="1" NAME="TAB1_A20">
+          <VALUE>280.2</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="RECNO">
+          <VALUE>61</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A1">
+          <VALUE>62</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A13">
+          <VALUE>Гідроакумулятори, призначені для збереження гідравлічної рідини і живлення гідравлічної системи в потрібний момент часу, встановлюються в екскаваторах і навантажувачах</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A15">
+          <VALUE>7.7</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A16">
+          <VALUE>48.513</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A131">
+          <VALUE>8479899790</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A10">
+          <VALUE>373.55</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="61" TAB="1" NAME="TAB1_A20">
+          <VALUE>74.71</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="RECNO">
+          <VALUE>62</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A1">
+          <VALUE>63</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A13">
+          <VALUE>Гідроакумулятори, призначені для збереження гідравлічної рідини і живлення гідравлічної системи в потрібний момент часу, встановлюються в екскаваторах і навантажувачах</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A15">
+          <VALUE>8</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A16">
+          <VALUE>48.6</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A131">
+          <VALUE>8479899790</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A10">
+          <VALUE>388.8</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="62" TAB="1" NAME="TAB1_A20">
+          <VALUE>77.76</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="RECNO">
+          <VALUE>63</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A1">
+          <VALUE>64</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A13">
+          <VALUE>Клапани контролю маслогідравлічних силових трансмісій: гідророзподільник, який складається з ручного важеля, який перемикає змонтовані разом в сталевому корпусі запірні і перепускні клапани, розподіляючи напрямок потоку гідравлічні рідини до відповідних силових гідроциліндрів екскаваторів і навантажувачів</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A15">
+          <VALUE>12</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A16">
+          <VALUE>108.675</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A131">
+          <VALUE>8481201000</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A10">
+          <VALUE>1304.1</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="63" TAB="1" NAME="TAB1_A20">
+          <VALUE>260.82</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="RECNO">
+          <VALUE>64</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A1">
+          <VALUE>65</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A13">
+          <VALUE>Клапани контролю маслогідравлічних силових трансмісій: блок центральний розподільний, являє собою комбінацію запірних і перепускних клапанів, змонтованих разом в сталевому корпусі, призначений для розподілу напрямку потоку гідравлічних рідини до відповідних силових гідроциліндрів екскаваторів і навантажувачів</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A16">
+          <VALUE>1676.276</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A131">
+          <VALUE>8481201000</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A10">
+          <VALUE>1676.28</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="64" TAB="1" NAME="TAB1_A20">
+          <VALUE>335.256</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="RECNO">
+          <VALUE>65</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A1">
+          <VALUE>66</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A13">
+          <VALUE>Клапан зворотній для гідробаків екскаваторів і навантажувачів, виготовлений з комбінованих матеріалів</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A16">
+          <VALUE>28.5</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A131">
+          <VALUE>8481309900</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A10">
+          <VALUE>28.5</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="65" TAB="1" NAME="TAB1_A20">
+          <VALUE>5.7</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="RECNO">
+          <VALUE>66</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A1">
+          <VALUE>67</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A13">
+          <VALUE>Клапани для пневматичних автомобільних шин і камер: ніпель</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A15">
+          <VALUE>0.8</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A16">
+          <VALUE>720.875</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A131">
+          <VALUE>8481804000</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A10">
+          <VALUE>576.7</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="66" TAB="1" NAME="TAB1_A20">
+          <VALUE>115.34</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="RECNO">
+          <VALUE>67</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A1">
+          <VALUE>68</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A13">
+          <VALUE>Підшипник роликовий конічний</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A15">
+          <VALUE>9</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A16">
+          <VALUE>86.561</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A131">
+          <VALUE>8482200000</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A10">
+          <VALUE>779.05</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="67" TAB="1" NAME="TAB1_A20">
+          <VALUE>155.81</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="RECNO">
+          <VALUE>68</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A1">
+          <VALUE>69</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A13">
+          <VALUE>Підшипник роликовий голчастий</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A15">
+          <VALUE>3.2</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A16">
+          <VALUE>73.953</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A131">
+          <VALUE>8482400000</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A10">
+          <VALUE>236.65</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="68" TAB="1" NAME="TAB1_A20">
+          <VALUE>47.33</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="RECNO">
+          <VALUE>69</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A1">
+          <VALUE>70</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вал трансмісійний колінчастий сталевий, для двигунів с / г тракторів</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A16">
+          <VALUE>2676.703</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483102190</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A10">
+          <VALUE>2676.7</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="69" TAB="1" NAME="TAB1_A20">
+          <VALUE>535.34</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="RECNO">
+          <VALUE>70</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A1">
+          <VALUE>71</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вал трансмісійний колінчастий сталевий, призначений для установки в автомобільних двигунах</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A15">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A16">
+          <VALUE>981.148</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483102190</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A10">
+          <VALUE>1962.3</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="70" TAB="1" NAME="TAB1_A20">
+          <VALUE>392.46</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="RECNO">
+          <VALUE>71</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A1">
+          <VALUE>72</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A13">
+          <VALUE>Підшипники ковзання для валів: вкладиші шатунні, вкладиші корінні</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A15">
+          <VALUE>3.8</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A16">
+          <VALUE>64.145</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483308090</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A10">
+          <VALUE>243.75</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="71" TAB="1" NAME="TAB1_A20">
+          <VALUE>48.75</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="RECNO">
+          <VALUE>72</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A1">
+          <VALUE>73</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A13">
+          <VALUE>Колеса зубчасті та інші елементи передач, представлені окремо, частини редукторів, призначені для установки в екскаваторах і навантажувачах, сталеві: шестерня диференціала, корпус диференціала</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A15">
+          <VALUE>68</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A16">
+          <VALUE>67.232</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A131">
+          <VALUE>8483908100</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A10">
+          <VALUE>4571.78</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="72" TAB="1" NAME="TAB1_A20">
+          <VALUE>914.356</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="RECNO">
+          <VALUE>73</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A1">
+          <VALUE>74</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A13">
+          <VALUE>Прокладки з листового металу в комбінації з азбестом: прокладка ГБЦ</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A15">
+          <VALUE>0.3</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A16">
+          <VALUE>67.167</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A131">
+          <VALUE>8484100090</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A10">
+          <VALUE>20.15</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="73" TAB="1" NAME="TAB1_A20">
+          <VALUE>4.03</VALUE>
+        </ROW>
+        <ROW LINE="74" TAB="1" NAME="RECNO">
+          <VALUE>74</VALUE>
+        </ROW>
+        <ROW LINE="74" TAB="1" NAME="TAB1_A1">
+          <VALUE>75</VALUE>
+        </ROW>
+        <ROW LINE="74" TAB="1" NAME="TAB1_A13">
+          <VALUE>Комплект прокладок двигуна внутрішнього згоряння, розфасованих для роздрібної торгівлі, виготовлені з різних матеріалів (гума, метал)</VALUE>
+        </ROW>
+        <ROW LINE="74" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="74" TAB="1" NAME="TAB1_A15">
+          <VALUE>0.8</VALUE>
+        </ROW>
+        <ROW LINE="74" TAB="1" NAME="TAB1_A16">
+          <VALUE>90.187</VALUE>
+        </ROW>
+        <ROW LINE="74" TAB="1" NAME="TAB1_A131">
+          <VALUE>8484900090</VALUE>
+        </ROW>
+        <ROW LINE="74" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="74" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="74" TAB="1" NAME="TAB1_A10">
+          <VALUE>72.15</VALUE>
+        </ROW>
+        <ROW LINE="74" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="74" TAB="1" NAME="TAB1_A20">
+          <VALUE>14.43</VALUE>
+        </ROW>
+        <ROW LINE="75" TAB="1" NAME="RECNO">
+          <VALUE>75</VALUE>
+        </ROW>
+        <ROW LINE="75" TAB="1" NAME="TAB1_A1">
+          <VALUE>76</VALUE>
+        </ROW>
+        <ROW LINE="75" TAB="1" NAME="TAB1_A13">
+          <VALUE>Електродвигун приводу склоочисників, постійного струму, потужністю не більше 37,5Вт, призначений для установки в екскаваторах і навантажувачах</VALUE>
+        </ROW>
+        <ROW LINE="75" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="75" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="75" TAB="1" NAME="TAB1_A16">
+          <VALUE>467</VALUE>
+        </ROW>
+        <ROW LINE="75" TAB="1" NAME="TAB1_A131">
+          <VALUE>8501109990</VALUE>
+        </ROW>
+        <ROW LINE="75" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="75" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="75" TAB="1" NAME="TAB1_A10">
+          <VALUE>467</VALUE>
+        </ROW>
+        <ROW LINE="75" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="75" TAB="1" NAME="TAB1_A20">
+          <VALUE>93.4</VALUE>
+        </ROW>
+        <ROW LINE="76" TAB="1" NAME="RECNO">
+          <VALUE>76</VALUE>
+        </ROW>
+        <ROW LINE="76" TAB="1" NAME="TAB1_A1">
+          <VALUE>77</VALUE>
+        </ROW>
+        <ROW LINE="76" TAB="1" NAME="TAB1_A13">
+          <VALUE>Прилади освітлювальні і візуальної сигналізації для вантажних автомобілів: ліхтар габаритний універсальний, ліхтар габаритний виносний, підсвічування номера, ліхтар габаритний бічний, проблисковий маяк</VALUE>
+        </ROW>
+        <ROW LINE="76" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="76" TAB="1" NAME="TAB1_A15">
+          <VALUE>195</VALUE>
+        </ROW>
+        <ROW LINE="76" TAB="1" NAME="TAB1_A16">
+          <VALUE>113.813</VALUE>
+        </ROW>
+        <ROW LINE="76" TAB="1" NAME="TAB1_A131">
+          <VALUE>8512200090</VALUE>
+        </ROW>
+        <ROW LINE="76" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="76" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="76" TAB="1" NAME="TAB1_A10">
+          <VALUE>22193.54</VALUE>
+        </ROW>
+        <ROW LINE="76" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="76" TAB="1" NAME="TAB1_A20">
+          <VALUE>4438.708</VALUE>
+        </ROW>
+        <ROW LINE="77" TAB="1" NAME="RECNO">
+          <VALUE>77</VALUE>
+        </ROW>
+        <ROW LINE="77" TAB="1" NAME="TAB1_A1">
+          <VALUE>78</VALUE>
+        </ROW>
+        <ROW LINE="77" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини гальмівних систем автонавантажувачів: гальмівні диски</VALUE>
+        </ROW>
+        <ROW LINE="77" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="77" TAB="1" NAME="TAB1_A15">
+          <VALUE>6.5</VALUE>
+        </ROW>
+        <ROW LINE="77" TAB="1" NAME="TAB1_A16">
+          <VALUE>123.846</VALUE>
+        </ROW>
+        <ROW LINE="77" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708309198</VALUE>
+        </ROW>
+        <ROW LINE="77" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="77" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="77" TAB="1" NAME="TAB1_A10">
+          <VALUE>805</VALUE>
+        </ROW>
+        <ROW LINE="77" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="77" TAB="1" NAME="TAB1_A20">
+          <VALUE>161</VALUE>
+        </ROW>
+        <ROW LINE="78" TAB="1" NAME="RECNO">
+          <VALUE>78</VALUE>
+        </ROW>
+        <ROW LINE="78" TAB="1" NAME="TAB1_A1">
+          <VALUE>79</VALUE>
+        </ROW>
+        <ROW LINE="78" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини гальмівних систем вантажних автомобілів, вантажопідйомністю мене 75т, з комбінованих матеріалів, не для дискових гальм: гальмівні колодки</VALUE>
+        </ROW>
+        <ROW LINE="78" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="78" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="78" TAB="1" NAME="TAB1_A16">
+          <VALUE>61.8</VALUE>
+        </ROW>
+        <ROW LINE="78" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708309998</VALUE>
+        </ROW>
+        <ROW LINE="78" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="78" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="78" TAB="1" NAME="TAB1_A10">
+          <VALUE>61.8</VALUE>
+        </ROW>
+        <ROW LINE="78" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="78" TAB="1" NAME="TAB1_A20">
+          <VALUE>12.36</VALUE>
+        </ROW>
+        <ROW LINE="79" TAB="1" NAME="RECNO">
+          <VALUE>79</VALUE>
+        </ROW>
+        <ROW LINE="79" TAB="1" NAME="TAB1_A1">
+          <VALUE>80</VALUE>
+        </ROW>
+        <ROW LINE="79" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини коробок передач вантажних автомобілів, вантажопідйомністю менше 75т, з комбінованих матеріалів: захист коробки передач</VALUE>
+        </ROW>
+        <ROW LINE="79" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="79" TAB="1" NAME="TAB1_A15">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="79" TAB="1" NAME="TAB1_A16">
+          <VALUE>749.63</VALUE>
+        </ROW>
+        <ROW LINE="79" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708409998</VALUE>
+        </ROW>
+        <ROW LINE="79" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="79" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="79" TAB="1" NAME="TAB1_A10">
+          <VALUE>1499.26</VALUE>
+        </ROW>
+        <ROW LINE="79" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="79" TAB="1" NAME="TAB1_A20">
+          <VALUE>299.852</VALUE>
+        </ROW>
+        <ROW LINE="80" TAB="1" NAME="RECNO">
+          <VALUE>80</VALUE>
+        </ROW>
+        <ROW LINE="80" TAB="1" NAME="TAB1_A1">
+          <VALUE>81</VALUE>
+        </ROW>
+        <ROW LINE="80" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини коробок передач вантажних автомобілів, вантажопідйомністю менше 75т, з комбінованих матеріалів: фланець вихідного вала коробки передач</VALUE>
+        </ROW>
+        <ROW LINE="80" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="80" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="80" TAB="1" NAME="TAB1_A16">
+          <VALUE>430.29</VALUE>
+        </ROW>
+        <ROW LINE="80" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708409998</VALUE>
+        </ROW>
+        <ROW LINE="80" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="80" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="80" TAB="1" NAME="TAB1_A10">
+          <VALUE>430.29</VALUE>
+        </ROW>
+        <ROW LINE="80" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="80" TAB="1" NAME="TAB1_A20">
+          <VALUE>86.058</VALUE>
+        </ROW>
+        <ROW LINE="81" TAB="1" NAME="RECNO">
+          <VALUE>81</VALUE>
+        </ROW>
+        <ROW LINE="81" TAB="1" NAME="TAB1_A1">
+          <VALUE>82</VALUE>
+        </ROW>
+        <ROW LINE="81" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини ведучих мостів вантажних автомобілів, вантажопідйомністю менше 75т, сталеві, не штамповані: фланець хвостовика</VALUE>
+        </ROW>
+        <ROW LINE="81" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="81" TAB="1" NAME="TAB1_A15">
+          <VALUE>3.3</VALUE>
+        </ROW>
+        <ROW LINE="81" TAB="1" NAME="TAB1_A16">
+          <VALUE>146.227</VALUE>
+        </ROW>
+        <ROW LINE="81" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708509998</VALUE>
+        </ROW>
+        <ROW LINE="81" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="81" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="81" TAB="1" NAME="TAB1_A10">
+          <VALUE>482.55</VALUE>
+        </ROW>
+        <ROW LINE="81" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="81" TAB="1" NAME="TAB1_A20">
+          <VALUE>96.51</VALUE>
+        </ROW>
+        <ROW LINE="82" TAB="1" NAME="RECNO">
+          <VALUE>82</VALUE>
+        </ROW>
+        <ROW LINE="82" TAB="1" NAME="TAB1_A1">
+          <VALUE>83</VALUE>
+        </ROW>
+        <ROW LINE="82" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини систем підвіски легкових автомобілів, виготовлені з комбінованих матеріалів: опора кульова</VALUE>
+        </ROW>
+        <ROW LINE="82" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="82" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="82" TAB="1" NAME="TAB1_A16">
+          <VALUE>196.65</VALUE>
+        </ROW>
+        <ROW LINE="82" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708809998</VALUE>
+        </ROW>
+        <ROW LINE="82" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="82" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="82" TAB="1" NAME="TAB1_A10">
+          <VALUE>196.65</VALUE>
+        </ROW>
+        <ROW LINE="82" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="82" TAB="1" NAME="TAB1_A20">
+          <VALUE>39.33</VALUE>
+        </ROW>
+        <ROW LINE="83" TAB="1" NAME="RECNO">
+          <VALUE>83</VALUE>
+        </ROW>
+        <ROW LINE="83" TAB="1" NAME="TAB1_A1">
+          <VALUE>84</VALUE>
+        </ROW>
+        <ROW LINE="83" TAB="1" NAME="TAB1_A13">
+          <VALUE>Радіатор опалення, для вантажних автомобілів</VALUE>
+        </ROW>
+        <ROW LINE="83" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="83" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="83" TAB="1" NAME="TAB1_A16">
+          <VALUE>1283.866</VALUE>
+        </ROW>
+        <ROW LINE="83" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708913500</VALUE>
+        </ROW>
+        <ROW LINE="83" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="83" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="83" TAB="1" NAME="TAB1_A10">
+          <VALUE>1283.87</VALUE>
+        </ROW>
+        <ROW LINE="83" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="83" TAB="1" NAME="TAB1_A20">
+          <VALUE>256.774</VALUE>
+        </ROW>
+        <ROW LINE="84" TAB="1" NAME="RECNO">
+          <VALUE>84</VALUE>
+        </ROW>
+        <ROW LINE="84" TAB="1" NAME="TAB1_A1">
+          <VALUE>85</VALUE>
+        </ROW>
+        <ROW LINE="84" TAB="1" NAME="TAB1_A13">
+          <VALUE>Радіатор охолодження двигуна для вантажних автомобілів</VALUE>
+        </ROW>
+        <ROW LINE="84" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="84" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="84" TAB="1" NAME="TAB1_A16">
+          <VALUE>18776.534</VALUE>
+        </ROW>
+        <ROW LINE="84" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708913500</VALUE>
+        </ROW>
+        <ROW LINE="84" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="84" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="84" TAB="1" NAME="TAB1_A10">
+          <VALUE>18776.53</VALUE>
+        </ROW>
+        <ROW LINE="84" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="84" TAB="1" NAME="TAB1_A20">
+          <VALUE>3755.306</VALUE>
+        </ROW>
+        <ROW LINE="85" TAB="1" NAME="RECNO">
+          <VALUE>85</VALUE>
+        </ROW>
+        <ROW LINE="85" TAB="1" NAME="TAB1_A1">
+          <VALUE>86</VALUE>
+        </ROW>
+        <ROW LINE="85" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини вантажних автомобілів: фланець карданного валу, хрестовина карданного валу</VALUE>
+        </ROW>
+        <ROW LINE="85" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="85" TAB="1" NAME="TAB1_A15">
+          <VALUE>14.8</VALUE>
+        </ROW>
+        <ROW LINE="85" TAB="1" NAME="TAB1_A16">
+          <VALUE>140.064</VALUE>
+        </ROW>
+        <ROW LINE="85" TAB="1" NAME="TAB1_A131">
+          <VALUE>8708999798</VALUE>
+        </ROW>
+        <ROW LINE="85" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="85" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="85" TAB="1" NAME="TAB1_A10">
+          <VALUE>2072.95</VALUE>
+        </ROW>
+        <ROW LINE="85" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="85" TAB="1" NAME="TAB1_A20">
+          <VALUE>414.59</VALUE>
+        </ROW>
+        <ROW LINE="86" TAB="1" NAME="RECNO">
+          <VALUE>86</VALUE>
+        </ROW>
+        <ROW LINE="86" TAB="1" NAME="TAB1_A1">
+          <VALUE>87</VALUE>
+        </ROW>
+        <ROW LINE="86" TAB="1" NAME="TAB1_A13">
+          <VALUE>Інструмент ручний вимірювальний: щуп масляний (вимірювальний стрижень з насічками), призначений для виміру рівня масла в двигуні</VALUE>
+        </ROW>
+        <ROW LINE="86" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="86" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="86" TAB="1" NAME="TAB1_A16">
+          <VALUE>20.55</VALUE>
+        </ROW>
+        <ROW LINE="86" TAB="1" NAME="TAB1_A131">
+          <VALUE>9017801000</VALUE>
+        </ROW>
+        <ROW LINE="86" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="86" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="86" TAB="1" NAME="TAB1_A10">
+          <VALUE>20.55</VALUE>
+        </ROW>
+        <ROW LINE="86" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="86" TAB="1" NAME="TAB1_A20">
+          <VALUE>4.11</VALUE>
+        </ROW>
+        <ROW LINE="87" TAB="1" NAME="RECNO">
+          <VALUE>87</VALUE>
+        </ROW>
+        <ROW LINE="87" TAB="1" NAME="TAB1_A1">
+          <VALUE>88</VALUE>
+        </ROW>
+        <ROW LINE="87" TAB="1" NAME="TAB1_A13">
+          <VALUE>Датчик тиску масла, не електронний, для установки в екскаваторах</VALUE>
+        </ROW>
+        <ROW LINE="87" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="87" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="87" TAB="1" NAME="TAB1_A16">
+          <VALUE>32.25</VALUE>
+        </ROW>
+        <ROW LINE="87" TAB="1" NAME="TAB1_A131">
+          <VALUE>9026208000</VALUE>
+        </ROW>
+        <ROW LINE="87" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="87" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="87" TAB="1" NAME="TAB1_A10">
+          <VALUE>32.25</VALUE>
+        </ROW>
+        <ROW LINE="87" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="87" TAB="1" NAME="TAB1_A20">
+          <VALUE>6.45</VALUE>
+        </ROW>
+        <ROW LINE="88" TAB="1" NAME="RECNO">
+          <VALUE>88</VALUE>
+        </ROW>
+        <ROW LINE="88" TAB="1" NAME="TAB1_A1">
+          <VALUE>89</VALUE>
+        </ROW>
+        <ROW LINE="88" TAB="1" NAME="TAB1_A13">
+          <VALUE>Датчик тиску масла, не електронний, для установки в екскаваторах</VALUE>
+        </ROW>
+        <ROW LINE="88" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="88" TAB="1" NAME="TAB1_A15">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="88" TAB="1" NAME="TAB1_A16">
+          <VALUE>48.375</VALUE>
+        </ROW>
+        <ROW LINE="88" TAB="1" NAME="TAB1_A131">
+          <VALUE>9026208000</VALUE>
+        </ROW>
+        <ROW LINE="88" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="88" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="88" TAB="1" NAME="TAB1_A10">
+          <VALUE>96.75</VALUE>
+        </ROW>
+        <ROW LINE="88" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="88" TAB="1" NAME="TAB1_A20">
+          <VALUE>19.35</VALUE>
+        </ROW>
+        <ROW LINE="89" TAB="1" NAME="RECNO">
+          <VALUE>89</VALUE>
+        </ROW>
+        <ROW LINE="89" TAB="1" NAME="TAB1_A1">
+          <VALUE>90</VALUE>
+        </ROW>
+        <ROW LINE="89" TAB="1" NAME="TAB1_A13">
+          <VALUE>Лічильник для вимірювання обертів колеса навантажувача (одометр)</VALUE>
+        </ROW>
+        <ROW LINE="89" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="89" TAB="1" NAME="TAB1_A15">
+          <VALUE>0.2</VALUE>
+        </ROW>
+        <ROW LINE="89" TAB="1" NAME="TAB1_A16">
+          <VALUE>198.75</VALUE>
+        </ROW>
+        <ROW LINE="89" TAB="1" NAME="TAB1_A131">
+          <VALUE>9029100090</VALUE>
+        </ROW>
+        <ROW LINE="89" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="89" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="89" TAB="1" NAME="TAB1_A10">
+          <VALUE>39.75</VALUE>
+        </ROW>
+        <ROW LINE="89" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="89" TAB="1" NAME="TAB1_A20">
+          <VALUE>7.95</VALUE>
+        </ROW>
+        <ROW LINE="90" TAB="1" NAME="RECNO">
+          <VALUE>90</VALUE>
+        </ROW>
+        <ROW LINE="90" TAB="1" NAME="TAB1_A1">
+          <VALUE>91</VALUE>
+        </ROW>
+        <ROW LINE="90" TAB="1" NAME="TAB1_A13">
+          <VALUE>Термостати неелектронні, без електричного пускового пристрою, призначені для екскаваторів і навантажувачів</VALUE>
+        </ROW>
+        <ROW LINE="90" TAB="1" NAME="TAB1_A14">
+          <VALUE>шт</VALUE>
+        </ROW>
+        <ROW LINE="90" TAB="1" NAME="TAB1_A15">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="90" TAB="1" NAME="TAB1_A16">
+          <VALUE>12.55</VALUE>
+        </ROW>
+        <ROW LINE="90" TAB="1" NAME="TAB1_A131">
+          <VALUE>9032108900</VALUE>
+        </ROW>
+        <ROW LINE="90" TAB="1" NAME="TAB1_A141">
+          <VALUE>2009</VALUE>
+        </ROW>
+        <ROW LINE="90" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="90" TAB="1" NAME="TAB1_A10">
+          <VALUE>12.55</VALUE>
+        </ROW>
+        <ROW LINE="90" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="90" TAB="1" NAME="TAB1_A20">
+          <VALUE>2.51</VALUE>
+        </ROW>
+        <ROW LINE="91" TAB="1" NAME="RECNO">
+          <VALUE>91</VALUE>
+        </ROW>
+        <ROW LINE="91" TAB="1" NAME="TAB1_A1">
+          <VALUE>92</VALUE>
+        </ROW>
+        <ROW LINE="91" TAB="1" NAME="TAB1_A13">
+          <VALUE>Кнопки для одягу металеві</VALUE>
+        </ROW>
+        <ROW LINE="91" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="91" TAB="1" NAME="TAB1_A15">
+          <VALUE>265</VALUE>
+        </ROW>
+        <ROW LINE="91" TAB="1" NAME="TAB1_A16">
+          <VALUE>82.746</VALUE>
+        </ROW>
+        <ROW LINE="91" TAB="1" NAME="TAB1_A131">
+          <VALUE>9606100000</VALUE>
+        </ROW>
+        <ROW LINE="91" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="91" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="91" TAB="1" NAME="TAB1_A10">
+          <VALUE>21927.69</VALUE>
+        </ROW>
+        <ROW LINE="91" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="91" TAB="1" NAME="TAB1_A20">
+          <VALUE>4385.538</VALUE>
+        </ROW>
+        <ROW LINE="92" TAB="1" NAME="RECNO">
+          <VALUE>92</VALUE>
+        </ROW>
+        <ROW LINE="92" TAB="1" NAME="TAB1_A1">
+          <VALUE>93</VALUE>
+        </ROW>
+        <ROW LINE="92" TAB="1" NAME="TAB1_A13">
+          <VALUE>Кнопка-застібка сумочна з чорних металів</VALUE>
+        </ROW>
+        <ROW LINE="92" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="92" TAB="1" NAME="TAB1_A15">
+          <VALUE>11</VALUE>
+        </ROW>
+        <ROW LINE="92" TAB="1" NAME="TAB1_A16">
+          <VALUE>83.06</VALUE>
+        </ROW>
+        <ROW LINE="92" TAB="1" NAME="TAB1_A131">
+          <VALUE>9606100000</VALUE>
+        </ROW>
+        <ROW LINE="92" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="92" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="92" TAB="1" NAME="TAB1_A10">
+          <VALUE>913.66</VALUE>
+        </ROW>
+        <ROW LINE="92" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="92" TAB="1" NAME="TAB1_A20">
+          <VALUE>182.732</VALUE>
+        </ROW>
+        <ROW LINE="93" TAB="1" NAME="RECNO">
+          <VALUE>93</VALUE>
+        </ROW>
+        <ROW LINE="93" TAB="1" NAME="TAB1_A1">
+          <VALUE>94</VALUE>
+        </ROW>
+        <ROW LINE="93" TAB="1" NAME="TAB1_A13">
+          <VALUE>Застібка-блискавка в рулонах, з зубчикамі з недорогоцінних металів</VALUE>
+        </ROW>
+        <ROW LINE="93" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="93" TAB="1" NAME="TAB1_A15">
+          <VALUE>13</VALUE>
+        </ROW>
+        <ROW LINE="93" TAB="1" NAME="TAB1_A16">
+          <VALUE>82.758</VALUE>
+        </ROW>
+        <ROW LINE="93" TAB="1" NAME="TAB1_A131">
+          <VALUE>9607201000</VALUE>
+        </ROW>
+        <ROW LINE="93" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="93" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="93" TAB="1" NAME="TAB1_A10">
+          <VALUE>1075.85</VALUE>
+        </ROW>
+        <ROW LINE="93" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="93" TAB="1" NAME="TAB1_A20">
+          <VALUE>215.17</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
