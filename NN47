@@ -86,8 +86,6 @@
     <HKBOS>3004813329</HKBOS>
     <R003G10S xsi:nil="true" />
   </DECLARBODY>
-</DECLAR>
-<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1201010.XSD">
   <DECLARHEAD>
     <TIN>43194350</TIN>
     <C_DOC>J12</C_DOC>
