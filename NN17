@@ -1,0 +1,128 @@
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1201010.XSD">
+  <DECLARHEAD>
+    <TIN>43194350</TIN>
+    <C_DOC>J12</C_DOC>
+    <C_DOC_SUB>010</C_DOC_SUB>
+    <C_DOC_VER>10</C_DOC_VER>
+    <C_DOC_TYPE>0</C_DOC_TYPE>
+    <C_DOC_CNT>17</C_DOC_CNT>
+    <C_REG>20</C_REG>
+    <C_RAJ>31</C_RAJ>
+    <PERIOD_MONTH>4</PERIOD_MONTH>
+    <PERIOD_TYPE>1</PERIOD_TYPE>
+    <PERIOD_YEAR>2020</PERIOD_YEAR>
+    <C_STI_ORIG>2031</C_STI_ORIG>
+    <C_DOC_STAN>1</C_DOC_STAN>
+    <LINKED_DOCS xsi:nil="true" />
+    <D_FILL>30042020</D_FILL>
+    <SOFTWARE>MEDOC</SOFTWARE>
+  </DECLARHEAD>
+  <DECLARBODY>
+    <R01G1 xsi:nil="true" />
+    <R03G10S xsi:nil="true" />
+    <HORIG1 xsi:nil="true" />
+    <HTYPR xsi:nil="true" />
+    <HFILL>30042020</HFILL>
+    <HNUM>17</HNUM>
+    <HNUM1 xsi:nil="true" />
+    <HNAMESEL>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ "ВОРТЕКС СЕРВІС"</HNAMESEL>
+    <HNAMEBUY>ТОВ «ЮРІЯ-ГРУП»</HNAMEBUY>
+    <HKSEL>431943520318</HKSEL>
+    <HNUM2 xsi:nil="true" />
+    <HTINSEL>43194350</HTINSEL>
+    <HKBUY>395480115218</HKBUY>
+    <HFBUY xsi:nil="true" />
+    <HTINBUY>39548012</HTINBUY>
+    <R04G11>495930.98</R04G11>
+    <R03G11>82655.16</R03G11>
+    <R03G7>82655.16</R03G7>
+    <R03G109 xsi:nil="true" />
+    <R01G7>413275.82</R01G7>
+    <R01G109 xsi:nil="true" />
+    <R01G9 xsi:nil="true" />
+    <R01G8 xsi:nil="true" />
+    <R01G10 xsi:nil="true" />
+    <R02G11 xsi:nil="true" />
+    <RXXXXG3S ROWNUM="1">Частини автомобільних поршневих двигунів з іскоровим запалюванням: шайба-проставка штовхача клапана</RXXXXG3S>
+    <RXXXXG3S ROWNUM="2">Вал трансмісійний колінчастий сталевий, призначений для двигунів внутрішнього згоряння с/г техніки</RXXXXG3S>
+    <RXXXXG3S ROWNUM="3">Вали трансмісійні сталеві: вал-шестерня, призначений для передачі крутного моменту, встановлюється в с/г техніки</RXXXXG3S>
+    <RXXXXG3S ROWNUM="4">Зубчасте колесо разом з валом (вал-шестерня) - являє собою вал циліндричної форми з технологічними отворами в зборі з зубчастим колесом, що є його невід'ємною частиною, з чорних металів</RXXXXG3S>
+    <RXXXXG3S ROWNUM="5">Реле електричне, розраховане на напругу 90-250В</RXXXXG3S>
+    <RXXXXG3S ROWNUM="6">Частини ведучих мостів с/г тракторів, сталеві, не штамповані: цапфа поворотна, фланець редуктора переднього моста, труба шкворня переднього моста, гільза шворня переднього моста</RXXXXG3S>
+    <RXXXXG4 ROWNUM="1">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="2">8483102190</RXXXXG4>
+    <RXXXXG4 ROWNUM="3">8483109590</RXXXXG4>
+    <RXXXXG4 ROWNUM="4">8483409000</RXXXXG4>
+    <RXXXXG4 ROWNUM="5">8536490090</RXXXXG4>
+    <RXXXXG4 ROWNUM="6">8708509998</RXXXXG4>
+    <RXXXXG32 ROWNUM="1">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="2">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="3">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="4">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="5">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="6">1</RXXXXG32>
+    <RXXXXG33 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG4S ROWNUM="1">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="2">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="3">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="4">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="5">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="6">кг</RXXXXG4S>
+    <RXXXXG105_2S ROWNUM="1">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="2">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="3">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="4">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="5">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="6">0301</RXXXXG105_2S>
+    <RXXXXG5 ROWNUM="1">540</RXXXXG5>
+    <RXXXXG5 ROWNUM="2">1030</RXXXXG5>
+    <RXXXXG5 ROWNUM="3">1050</RXXXXG5>
+    <RXXXXG5 ROWNUM="4">2110</RXXXXG5>
+    <RXXXXG5 ROWNUM="5">224</RXXXXG5>
+    <RXXXXG5 ROWNUM="6">484</RXXXXG5>
+    <RXXXXG6 ROWNUM="1">57.064</RXXXXG6>
+    <RXXXXG6 ROWNUM="2">65.268</RXXXXG6>
+    <RXXXXG6 ROWNUM="3">65.268</RXXXXG6>
+    <RXXXXG6 ROWNUM="4">62.431</RXXXXG6>
+    <RXXXXG6 ROWNUM="5">191.814</RXXXXG6>
+    <RXXXXG6 ROWNUM="6">148.777</RXXXXG6>
+    <RXXXXG008 ROWNUM="1">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="2">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="3">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="4">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="5">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="6">20</RXXXXG008>
+    <RXXXXG009 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG010 ROWNUM="1">30814.56</RXXXXG010>
+    <RXXXXG010 ROWNUM="2">67226.04</RXXXXG010>
+    <RXXXXG010 ROWNUM="3">68531.40</RXXXXG010>
+    <RXXXXG010 ROWNUM="4">131729.41</RXXXXG010>
+    <RXXXXG010 ROWNUM="5">42966.34</RXXXXG010>
+    <RXXXXG010 ROWNUM="6">72008.07</RXXXXG010>
+    <RXXXXG11_10 ROWNUM="1">6162.912</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="2">13445.208</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="3">13706.28</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="4">26345.882</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="5">8593.268</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="6">14401.614</RXXXXG11_10>
+    <RXXXXG011 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="6" xsi:nil="true" />
+    <HBOS>І.М. ГОРБАЧ</HBOS>
+    <HKBOS>3004813329</HKBOS>
+    <R003G10S xsi:nil="true" />
+  </DECLARBODY>
+</DECLAR>
