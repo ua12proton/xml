@@ -1,0 +1,206 @@
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1201010.XSD">
+  <DECLARHEAD>
+    <TIN>43194350</TIN>
+    <C_DOC>J12</C_DOC>
+    <C_DOC_SUB>010</C_DOC_SUB>
+    <C_DOC_VER>10</C_DOC_VER>
+    <C_DOC_TYPE>0</C_DOC_TYPE>
+    <C_DOC_CNT>26</C_DOC_CNT>
+    <C_REG>20</C_REG>
+    <C_RAJ>31</C_RAJ>
+    <PERIOD_MONTH>4</PERIOD_MONTH>
+    <PERIOD_TYPE>1</PERIOD_TYPE>
+    <PERIOD_YEAR>2020</PERIOD_YEAR>
+    <C_STI_ORIG>2031</C_STI_ORIG>
+    <C_DOC_STAN>1</C_DOC_STAN>
+    <LINKED_DOCS xsi:nil="true" />
+    <D_FILL>08052020</D_FILL>
+    <SOFTWARE>MEDOC</SOFTWARE>
+  </DECLARHEAD>
+  <DECLARBODY>
+    <R01G1 xsi:nil="true" />
+    <R03G10S xsi:nil="true" />
+    <HORIG1 xsi:nil="true" />
+    <HTYPR xsi:nil="true" />
+    <HFILL>27042020</HFILL>
+    <HNUM>26</HNUM>
+    <HNUM1 xsi:nil="true" />
+    <HNAMESEL>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ "ВОРТЕКС СЕРВІС"</HNAMESEL>
+    <HNAMEBUY>ТОВ  "АРІАНТА ЛТД"</HNAMEBUY>
+    <HKSEL>431943520318</HKSEL>
+    <HNUM2 xsi:nil="true" />
+    <HTINSEL>43194350</HTINSEL>
+    <HKBUY>431421915536</HKBUY>
+    <HFBUY xsi:nil="true" />
+    <HTINBUY>43142192</HTINBUY>
+    <R04G11>327192.23</R04G11>
+    <R03G11>54532.04</R03G11>
+    <R03G7>54532.04</R03G7>
+    <R03G109 xsi:nil="true" />
+    <R01G7>272660.19</R01G7>
+    <R01G109 xsi:nil="true" />
+    <R01G9 xsi:nil="true" />
+    <R01G8 xsi:nil="true" />
+    <R01G10 xsi:nil="true" />
+    <R02G11 xsi:nil="true" />
+    <RXXXXG3S ROWNUM="1">Ткана стрічка шириною 20-25мм, нашивка для одягу без витканих написів - 1,4 кг;</RXXXXG3S>
+    <RXXXXG3S ROWNUM="2">Кнопка одежа металева - 325,3 кг;</RXXXXG3S>
+    <RXXXXG3S ROWNUM="3">Застібка-блискавка в рулонах, з зубчиками з недорогоцінних металів - 14,5 кг;</RXXXXG3S>
+    <RXXXXG3S ROWNUM="4">Частини застібок-блискавок з недорогоцінних металів: бігунок - 3,7 кг;</RXXXXG3S>
+    <RXXXXG3S ROWNUM="5">Застібка-блискавка в рулонах, з пластиковими зубчиками - 18,5 кг;</RXXXXG3S>
+    <RXXXXG3S ROWNUM="6">Стрічка еластична, виготовлена ??з синтетичних волокон з вмістом еластомерних ниток більше 5%, в рулонах, шириною менше 30см, в асортименті</RXXXXG3S>
+    <RXXXXG3S ROWNUM="7">Кнопки для одягу металеві</RXXXXG3S>
+    <RXXXXG3S ROWNUM="8">Застібки-блискавки з пластиковими зубчиками, в відрізках (37623м)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="9">Частини застібок-блискавок: бігунок металевий</RXXXXG3S>
+    <RXXXXG3S ROWNUM="10">Ручка сумочна, з недорогоцінних металів - 47 кг;</RXXXXG3S>
+    <RXXXXG3S ROWNUM="11">Фурнітура галантерейна з недорогоцінних металів: застібка сумочно, кільце - 51,5 кг;</RXXXXG3S>
+    <RXXXXG3S ROWNUM="12">Пряжа з синтетичних штапельних волокон, не розфасована для роздрібної торгівлі, змішана виключно волокнами бавовни, однониточная пофарбована пряжа різних кольорів з правим "Z" крутінням, зміст штапельних синтетичних волокон поліефіру (52,00-72,00)% волокон бавовни (48,00 -28,00)%, без вмісту апретірующіх речовин, намотана на картонні / пластикові шпулі масою 1000 (+/- 2%) грам. Призначена для виготовлення трикотажних виробів на в'язальних машинах</RXXXXG3S>
+    <RXXXXG4 ROWNUM="1">5807109000</RXXXXG4>
+    <RXXXXG4 ROWNUM="2">9606100000</RXXXXG4>
+    <RXXXXG4 ROWNUM="3">9607201000</RXXXXG4>
+    <RXXXXG4 ROWNUM="4">9607201000</RXXXXG4>
+    <RXXXXG4 ROWNUM="5">9607209000</RXXXXG4>
+    <RXXXXG4 ROWNUM="6">5806200000</RXXXXG4>
+    <RXXXXG4 ROWNUM="7">9606100000</RXXXXG4>
+    <RXXXXG4 ROWNUM="8">9607190000</RXXXXG4>
+    <RXXXXG4 ROWNUM="9">9607201000</RXXXXG4>
+    <RXXXXG4 ROWNUM="10">8302490090</RXXXXG4>
+    <RXXXXG4 ROWNUM="11">8308900000</RXXXXG4>
+    <RXXXXG4 ROWNUM="12">5509530000</RXXXXG4>
+    <RXXXXG32 ROWNUM="1">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="2">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="3">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="4">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="5">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="6">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="7">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="8">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="9">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="10">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="11">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="12">1</RXXXXG32>
+    <RXXXXG33 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="7" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="8" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="9" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="10" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="11" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="12" xsi:nil="true" />
+    <RXXXXG4S ROWNUM="1">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="2">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="3">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="4">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="5">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="6">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="7">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="8">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="9">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="10">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="11">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="12">кг</RXXXXG4S>
+    <RXXXXG105_2S ROWNUM="1">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="2">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="3">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="4">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="5">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="6">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="7">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="8">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="9">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="10">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="11">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="12">0301</RXXXXG105_2S>
+    <RXXXXG5 ROWNUM="1">1.4</RXXXXG5>
+    <RXXXXG5 ROWNUM="2">325.3</RXXXXG5>
+    <RXXXXG5 ROWNUM="3">14.5</RXXXXG5>
+    <RXXXXG5 ROWNUM="4">3.7</RXXXXG5>
+    <RXXXXG5 ROWNUM="5">18.5</RXXXXG5>
+    <RXXXXG5 ROWNUM="6">146</RXXXXG5>
+    <RXXXXG5 ROWNUM="7">233</RXXXXG5>
+    <RXXXXG5 ROWNUM="8">917</RXXXXG5>
+    <RXXXXG5 ROWNUM="9">643</RXXXXG5>
+    <RXXXXG5 ROWNUM="10">47</RXXXXG5>
+    <RXXXXG5 ROWNUM="11">51.5</RXXXXG5>
+    <RXXXXG5 ROWNUM="12">2043</RXXXXG5>
+    <RXXXXG6 ROWNUM="1">215.464</RXXXXG6>
+    <RXXXXG6 ROWNUM="2">83.796</RXXXXG6>
+    <RXXXXG6 ROWNUM="3">83.828</RXXXXG6>
+    <RXXXXG6 ROWNUM="4">83.674</RXXXXG6>
+    <RXXXXG6 ROWNUM="5">83.797</RXXXXG6>
+    <RXXXXG6 ROWNUM="6">44.062</RXXXXG6>
+    <RXXXXG6 ROWNUM="7">84.201</RXXXXG6>
+    <RXXXXG6 ROWNUM="8">84.201</RXXXXG6>
+    <RXXXXG6 ROWNUM="9">84.201</RXXXXG6>
+    <RXXXXG6 ROWNUM="10">120.94</RXXXXG6>
+    <RXXXXG6 ROWNUM="11">56.755</RXXXXG6>
+    <RXXXXG6 ROWNUM="12">37.206</RXXXXG6>
+    <RXXXXG008 ROWNUM="1">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="2">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="3">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="4">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="5">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="6">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="7">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="8">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="9">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="10">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="11">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="12">20</RXXXXG008>
+    <RXXXXG009 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="7" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="8" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="9" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="10" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="11" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="12" xsi:nil="true" />
+    <RXXXXG010 ROWNUM="1">301.65</RXXXXG010>
+    <RXXXXG010 ROWNUM="2">27258.84</RXXXXG010>
+    <RXXXXG010 ROWNUM="3">1215.51</RXXXXG010>
+    <RXXXXG010 ROWNUM="4">309.59</RXXXXG010>
+    <RXXXXG010 ROWNUM="5">1550.24</RXXXXG010>
+    <RXXXXG010 ROWNUM="6">6433.05</RXXXXG010>
+    <RXXXXG010 ROWNUM="7">19618.83</RXXXXG010>
+    <RXXXXG010 ROWNUM="8">77212.32</RXXXXG010>
+    <RXXXXG010 ROWNUM="9">54141.24</RXXXXG010>
+    <RXXXXG010 ROWNUM="10">5684.18</RXXXXG010>
+    <RXXXXG010 ROWNUM="11">2922.88</RXXXXG010>
+    <RXXXXG010 ROWNUM="12">76011.86</RXXXXG010>
+    <RXXXXG11_10 ROWNUM="1">60.33</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="2">5451.768</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="3">243.102</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="4">61.918</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="5">310.048</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="6">1286.61</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="7">3923.766</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="8">15442.464</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="9">10828.248</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="10">1136.836</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="11">584.576</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="12">15202.372</RXXXXG11_10>
+    <RXXXXG011 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="7" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="8" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="9" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="10" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="11" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="12" xsi:nil="true" />
+    <HBOS>І.М. ГОРБАЧ</HBOS>
+    <HKBOS>3004813329</HKBOS>
+    <R003G10S xsi:nil="true" />
+  </DECLARBODY>
+</DECLAR>
