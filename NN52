@@ -1,0 +1,1961 @@
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1201010.XSD">
+  <DECLARHEAD>
+    <TIN>43194350</TIN>
+    <C_DOC>J12</C_DOC>
+    <C_DOC_SUB>010</C_DOC_SUB>
+    <C_DOC_VER>10</C_DOC_VER>
+    <C_DOC_TYPE>0</C_DOC_TYPE>
+    <C_DOC_CNT>17</C_DOC_CNT>
+    <C_REG>20</C_REG>
+    <C_RAJ>31</C_RAJ>
+    <PERIOD_MONTH>5</PERIOD_MONTH>
+    <PERIOD_TYPE>1</PERIOD_TYPE>
+    <PERIOD_YEAR>2020</PERIOD_YEAR>
+    <C_STI_ORIG>2031</C_STI_ORIG>
+    <C_DOC_STAN>1</C_DOC_STAN>
+    <LINKED_DOCS xsi:nil="true" />
+    <D_FILL>14052020</D_FILL>
+    <SOFTWARE>MEDOC</SOFTWARE>
+  </DECLARHEAD>
+  <DECLARBODY>
+    <R01G1 xsi:nil="true" />
+    <R03G10S xsi:nil="true" />
+    <HORIG1 xsi:nil="true" />
+    <HTYPR xsi:nil="true" />
+    <HFILL>05052020</HFILL>
+    <HNUM>52</HNUM>
+    <HNUM1 xsi:nil="true" />
+    <HNAMESEL>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ "ВОРТЕКС СЕРВІС"</HNAMESEL>
+    <HNAMEBUY>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "СПЕКТР ТРЕЙД"</HNAMEBUY>
+    <HKSEL>431943520318</HKSEL>
+    <HNUM2 xsi:nil="true" />
+    <HTINSEL>43194350</HTINSEL>
+    <HKBUY>393592004109</HKBUY>
+    <HFBUY xsi:nil="true" />
+    <HTINBUY>39359209</HTINBUY>
+    <R04G11>370224.49</R04G11>
+    <R03G11>61704.08</R03G11>
+    <R03G7>61704.08</R03G7>
+    <R03G109 xsi:nil="true" />
+    <R01G7>308520.41</R01G7>
+    <R01G109 xsi:nil="true" />
+    <R01G9 xsi:nil="true" />
+    <R01G8 xsi:nil="true" />
+    <R01G10 xsi:nil="true" />
+    <R02G11 xsi:nil="true" />
+    <RXXXXG3S ROWNUM="1">двигун внутрішнього згоряння з зворотно-поступальним рухом поршня, з іскровим запалюванням, що був у вжитку, який використовується для легкових автомобілів з робочим об'ємом циліндрів двигуна 2000см3 з КПП (005639K)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="2">двигун внутрішнього згоряння з зворотно-поступальним рухом поршня, з іскровим запалюванням, що був у вжитку, який використовується для легкових автомобілів з робочим об'ємом циліндрів двигуна 2000см3 з КПП (014641K)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="3">двигун внутрішнього згоряння з зворотно-поступальним рухом поршня, з іскровим запалюванням, що був у вжитку, який використовується для легкових автомобілів з робочим об'ємом циліндрів двигуна 2000см3 з КПП (065491K)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="4">двигун внутрішнього згоряння поршневий, з компресійним запалюванням який використовується для легкових автомобілів потужністю 82кВт з КПП (1807938) (вживані)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="5">двигун внутрішнього згоряння поршневий, з компресійним запалюванням який використовується для легкових автомобілів потужністю 82кВт з КПП (1828645) (вживані)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="6">двигун внутрішнього згоряння поршневий, з компресійним запалюванням який використовується для легкових автомобілів потужністю 82кВт (3R03242) (вживані)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="7">двигун внутрішнього згоряння поршневий, з компресійним запалюванням який використовується для легкових автомобілів потужністю 82кВт (3086460) (вживані)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="8">двигун внутрішнього згоряння поршневий, з компресійним запалюванням який використовується для легкових автомобілів потужністю 82кВт (1R00282) (вживані)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="9">двигун внутрішнього згоряння поршневий, з компресійним запалюванням який використовується для легкових автомобілів потужністю 84кВт (Б / Н) (вживані)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="10">двигун внутрішнього згоряння поршневий, з компресійним запалюванням який використовується для легкових автомобілів потужністю 103кВт з КПП (2457433) (вживані)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="11">двигун внутрішнього згоряння поршневий, з компресійним запалюванням який використовується для легкових автомобілів потужністю 119кВт з КПП (004696K) (вживані)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="12">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: піддон двигуна</RXXXXG3S>
+    <RXXXXG3S ROWNUM="13">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: блок балансирних валів</RXXXXG3S>
+    <RXXXXG3S ROWNUM="14">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: напрямна ланцюга</RXXXXG3S>
+    <RXXXXG3S ROWNUM="15">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: гідрокомпенсатор</RXXXXG3S>
+    <RXXXXG3S ROWNUM="16">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: кільця поршневі (компл)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="17">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: заспокоювач ланцюга</RXXXXG3S>
+    <RXXXXG3S ROWNUM="18">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: натягувач ланцюга</RXXXXG3S>
+    <RXXXXG3S ROWNUM="19">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: натягувач ременя</RXXXXG3S>
+    <RXXXXG3S ROWNUM="20">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: штовхач клапана</RXXXXG3S>
+    <RXXXXG3S ROWNUM="21">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: шатун</RXXXXG3S>
+    <RXXXXG3S ROWNUM="22">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: поршень з пальцем</RXXXXG3S>
+    <RXXXXG3S ROWNUM="23">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: колектор впускний</RXXXXG3S>
+    <RXXXXG3S ROWNUM="24">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: сухар клапана</RXXXXG3S>
+    <RXXXXG3S ROWNUM="25">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: піддон двигуна</RXXXXG3S>
+    <RXXXXG3S ROWNUM="26">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: блок балансирних валів</RXXXXG3S>
+    <RXXXXG3S ROWNUM="27">частини двигуна внутрішнього згоряння з іскровим запалюванням для легкового автомобіля: напрямна ланцюга</RXXXXG3S>
+    <RXXXXG3S ROWNUM="28">частини дизельних двигунів внутрішнього згоряння для двигуна легкового автомобіля: форсунка паливна</RXXXXG3S>
+    <RXXXXG3S ROWNUM="29">частини дизельних двигунів внутрішнього згоряння для двигуна легкового автомобіля: форсунка масляна</RXXXXG3S>
+    <RXXXXG3S ROWNUM="30">пневматичний циліндр лінійної дії: амортизатор багажника</RXXXXG3S>
+    <RXXXXG3S ROWNUM="31">насоси масляні для поршневих двигунів внутрішнього згоряння (не інжекційні): насос масляний</RXXXXG3S>
+    <RXXXXG3S ROWNUM="32">насоси для охолоджуючих рідин для поршневих двигунів внутрішнього згоряння (не інжекційні): насос водяний (помпа)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="33">насос об'ємний ротаційний, шиберний, силовий гідравлічний для автомобіля: насос ГУР (вживані)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="34">компресори для використання в кліматичній системі кондіціонуванія повітря в салонах автомобілів, потужністю до 0,4кВт</RXXXXG3S>
+    <RXXXXG3S ROWNUM="35">вентилятор в зборі, осьовий, призначений для збільшення швидкості повітряного потоку через радіатор в легкових автомобілях</RXXXXG3S>
+    <RXXXXG3S ROWNUM="36">вентилятор в зборі, осьовий, призначений для збільшення швидкості повітряного потоку через радіатор в легкових автомобілях</RXXXXG3S>
+    <RXXXXG3S ROWNUM="37">частини вентиляторів до легкових автомобілів: вискомуфта вентилятора</RXXXXG3S>
+    <RXXXXG3S ROWNUM="38">частина кондиціонера легкового автомобіля: алюмінієві трубки для циркуляції фреону</RXXXXG3S>
+    <RXXXXG3S ROWNUM="39">частини автомобільного кондиціонера: радіатор кондиціонера</RXXXXG3S>
+    <RXXXXG3S ROWNUM="40">обладнання для фільтрації або очищення масла в двигунах внутрішнього згоряння легкового автомобіля: фільтр очищення масла</RXXXXG3S>
+    <RXXXXG3S ROWNUM="41">обладнання для фільтрації або очищення масла в двигунах внутрішнього згоряння легкового автомобіля: фільтр очищення масла</RXXXXG3S>
+    <RXXXXG3S ROWNUM="42">фільтр для очищення масла КПП для легкових автомобілів</RXXXXG3S>
+    <RXXXXG3S ROWNUM="43">обладнання для фільтрації холодоагенту (фреону) від зайвої вологи і механічних домішок: фільтр-осушувач</RXXXXG3S>
+    <RXXXXG3S ROWNUM="44">клапан редукційний для регулювання тиску газу в легковому автомобілі (з комбінованих матеріалів, не об'єднані з фільтрами або мастильними пристроями)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="45">клапан запобіжний для легкових автомобілів зі сталі: сапун моста</RXXXXG3S>
+    <RXXXXG3S ROWNUM="46">клапан запобіжний для легкових автомобілів з комбінованих матеріалів: клапан вентиляції палив. бака (з трубкою)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="47">клапани контролю за процесом в легковому автомобілі: клапан керування турбіною</RXXXXG3S>
+    <RXXXXG3S ROWNUM="48">клапани контролю за процесом в легковому автомобілі: клапан керування насосом</RXXXXG3S>
+    <RXXXXG3S ROWNUM="49">клапани контролю за процесом в легковому автомобілі: клапан рециркуляції відпрацьованих газів</RXXXXG3S>
+    <RXXXXG3S ROWNUM="50">клапани контролю за процесом в легковому автомобілі: клапан регулювання потоку хладогенту в системі автомобільного кондиціонера</RXXXXG3S>
+    <RXXXXG3S ROWNUM="51">клапани контролю за процесом в легковому автомобілі: клапан включення переднього моста</RXXXXG3S>
+    <RXXXXG3S ROWNUM="52">підшипник кульковий з чорного металу зовнішнім діаметром більше 30 мм, клас точності "0" для легкових автомобілів</RXXXXG3S>
+    <RXXXXG3S ROWNUM="53">підшипник роликовий конічний для легкових автомобілів</RXXXXG3S>
+    <RXXXXG3S ROWNUM="54">вал трансмісійний (колінчастий вал) для легкового автомобіля, сталевий</RXXXXG3S>
+    <RXXXXG3S ROWNUM="55">розподільний вал з чорного металу для легкового автомобіля</RXXXXG3S>
+    <RXXXXG3S ROWNUM="56">корпус підшипника з вмонтованим кульковим або роликовим підшипником: підвісний підшипник</RXXXXG3S>
+    <RXXXXG3S ROWNUM="57">підшипники ковзання для валів до легкових автомобілів: вкладиші шатунні (компл)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="58">підшипники ковзання для валів до легкових автомобілів: вкладиші корінні (компл)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="59">підшипники ковзання для валів до легкових автомобілів: півкільця коленвала</RXXXXG3S>
+    <RXXXXG3S ROWNUM="60">підшипники ковзання для валів до легкових автомобілів: вкладиші корінні (компл)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="61">запасні частини до легкових автомобілів: шків коленвала сталевий</RXXXXG3S>
+    <RXXXXG3S ROWNUM="62">запасні частини до автомобілів: маховик зі сталі</RXXXXG3S>
+    <RXXXXG3S ROWNUM="63">запасні частини до легкових автомобілів: шків ременя приводного сталевий</RXXXXG3S>
+    <RXXXXG3S ROWNUM="64">запасні частини до легкових автомобілів: шків ГРМ сталевий</RXXXXG3S>
+    <RXXXXG3S ROWNUM="65">запасні частини до легкових автомобілів: шків генератора сталевий</RXXXXG3S>
+    <RXXXXG3S ROWNUM="66">запасні частини до автомобілів: шків ременя приводного з комбінованих матеріалів</RXXXXG3S>
+    <RXXXXG3S ROWNUM="67">шестерня колінчастого вала сталева</RXXXXG3S>
+    <RXXXXG3S ROWNUM="68">шестерня розподільного вала зі сталі</RXXXXG3S>
+    <RXXXXG3S ROWNUM="69">шестерні сталеві представлені окремо: шестерня паливного насоса</RXXXXG3S>
+    <RXXXXG3S ROWNUM="70">шестерня розподільного вала зі сталі</RXXXXG3S>
+    <RXXXXG3S ROWNUM="71">прокладка з металу в комбінації з іншими матеріалами (пароніт): прокладка головки блоку циліндрів</RXXXXG3S>
+    <RXXXXG3S ROWNUM="72">набір прокладок ущільнювачів з різних матеріалів: набір прокладок двигуна</RXXXXG3S>
+    <RXXXXG3S ROWNUM="73">електродвигун постійного струму потужністю 10 Вт для легкових автомобілів: привід заслінки обігрівача</RXXXXG3S>
+    <RXXXXG3S ROWNUM="74">двигун постійного струму потужністю не більше 37,5 Вт для легкових автомобілів: електродвигун склоочисника</RXXXXG3S>
+    <RXXXXG3S ROWNUM="75">двигун постійного струму, напруга 12В, потужністю менше 750Вт для легкових автомобілів: моторчик пічки</RXXXXG3S>
+    <RXXXXG3S ROWNUM="76">електрообладнання для пуску двигуна внутрішнього згоряння з іскровим запалюванням для легкових автомобілів: котушка запалювання</RXXXXG3S>
+    <RXXXXG3S ROWNUM="77">електрообладнання для пуску двигуна внутрішнього згоряння для автомобілів: стартер</RXXXXG3S>
+    <RXXXXG3S ROWNUM="78">електрообладнання для пуску двигуна внутрішнього згоряння для легкових автомобілів: свічка накалу</RXXXXG3S>
+    <RXXXXG3S ROWNUM="79">частини приладів для запуску двигунів внутрішнього згоряння легкових автомобілів: контактна група замка запалювання</RXXXXG3S>
+    <RXXXXG3S ROWNUM="80">прилади освітлювальні або візуальної сигналізації для моторних транспортних засобів: фара протитуманна</RXXXXG3S>
+    <RXXXXG3S ROWNUM="81">прилади освітлювальні або візуальної сигналізації для моторних транспортних засобів: ходові вогні</RXXXXG3S>
+    <RXXXXG3S ROWNUM="82">прилади освітлювальні або візуальної сигналізації для моторних транспортних засобів: ліхтар</RXXXXG3S>
+    <RXXXXG3S ROWNUM="83">прилади освітлювальні або візуальної сигналізації для моторних транспортних засобів: підсвічування номерного знака</RXXXXG3S>
+    <RXXXXG3S ROWNUM="84">прилади освітлювальні або візуальної сигналізації для автомобіля: ходові вогні</RXXXXG3S>
+    <RXXXXG3S ROWNUM="85">прилади освітлювальні або візуальної сигналізації для моторних транспортних засобів: фара (вживані)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="86">прилади освітлювальні або візуальної сигналізації для моторних транспортних засобів: ліхтар (вживані)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="87">прилади звукової сигналізації для моторних транспортних засобів: датчик парктроника</RXXXXG3S>
+    <RXXXXG3S ROWNUM="88">частина склоочисника моторного транспортного засобу: очисник</RXXXXG3S>
+    <RXXXXG3S ROWNUM="89">частина склоочисника моторного транспортного засобу: трапеція двірників</RXXXXG3S>
+    <RXXXXG3S ROWNUM="90">частина склоочисника моторного транспортного засобу: очисник</RXXXXG3S>
+    <RXXXXG3S ROWNUM="91">обладнання для комутації або захисту електричного кола для напруги не більше 60 Вт (сила струму більше 2А) для легкового автомобіля: реле</RXXXXG3S>
+    <RXXXXG3S ROWNUM="92">обладнання для комутації електричного кола для напруги не більше 60 Вт, перемикачі кнопкового типу: датчик положення педалі зчеплення</RXXXXG3S>
+    <RXXXXG3S ROWNUM="93">обладнання для комутації електричного кола для напруги не більше 60 Вт, перемикачі кнопкового типу: датчик блокування включення запалювання</RXXXXG3S>
+    <RXXXXG3S ROWNUM="94">обладнання для комутації електричного кола для напруги не більше 60 Вт, перемикачі кнопкового типу: датчик включення ліхтарів заднього ходу</RXXXXG3S>
+    <RXXXXG3S ROWNUM="95">обладнання для комутації електричного кола для напруги не більше 60 Вт, перемикачі кнопкового типу: датчик положення педалі гальма</RXXXXG3S>
+    <RXXXXG3S ROWNUM="96">обладнання для комутації електричного кола для напруги не більше 60 Вт, перемикачі кнопкового типу: кнопка аварійного сигналу</RXXXXG3S>
+    <RXXXXG3S ROWNUM="97">обладнання для комутації електричного кола для напруги не більше 60 Вт, перемикачі поворотного типу: перемикач підрульовий</RXXXXG3S>
+    <RXXXXG3S ROWNUM="98">обладнання для комутації електричного кола для напруги не більше 60 Вт: датчик положення селектора</RXXXXG3S>
+    <RXXXXG3S ROWNUM="99">обладнання для комутації електричного кола для напруги 12-24В: контактна група (шлейф підрульовий)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="100">комплект проводів, для свічок запалювання, які встановлюються і використовуються в легкових автомобілях</RXXXXG3S>
+    <RXXXXG3S ROWNUM="101">комплект проводів, які встановлюються і використовуються в легкових автомобілях</RXXXXG3S>
+    <RXXXXG3S ROWNUM="102">бампери та їх частини для моторних транспортних засобів (автомобілів): захист бампера</RXXXXG3S>
+    <RXXXXG3S ROWNUM="103">бампери та їх частини для моторних транспортних засобів (автомобілів): заглушка бампера</RXXXXG3S>
+    <RXXXXG3S ROWNUM="104">бампери та їх частини для моторних транспортних засобів (автомобілів): заглушка противотуманної фари</RXXXXG3S>
+    <RXXXXG3S ROWNUM="105">бампери та їх частини для моторних транспортних засобів (автомобілів): повітрозабірник бампера</RXXXXG3S>
+    <RXXXXG3S ROWNUM="106">бампери та їх частини для моторних транспортних засобів (автомобілів): накладка противотуманної фари</RXXXXG3S>
+    <RXXXXG3S ROWNUM="107">бампери та їх частини для моторних транспортних засобів (автомобілів): решітка бампера</RXXXXG3S>
+    <RXXXXG3S ROWNUM="108">бампери та їх частини для моторних транспортних засобів (автомобілів): ращітна пластина заднього бампера</RXXXXG3S>
+    <RXXXXG3S ROWNUM="109">бампери та їх частини для моторних транспортних засобів (автомобілів): накладка бампера світловідбиваюча</RXXXXG3S>
+    <RXXXXG3S ROWNUM="110">бампери та їх частини для моторних транспортних засобів (автомобілів): підсилювач бампера</RXXXXG3S>
+    <RXXXXG3S ROWNUM="111">бампери та їх частини для моторних транспортних засобів (автомобілів): накладка бампера</RXXXXG3S>
+    <RXXXXG3S ROWNUM="112">бампери та їх частини для моторних транспортних засобів (автомобілів): підсилювач бампера</RXXXXG3S>
+    <RXXXXG3S ROWNUM="113">бампери та їх частини для моторних транспортних засобів (автомобілів): накладка бампера</RXXXXG3S>
+    <RXXXXG3S ROWNUM="114">бампери та їх частини для моторних транспортних засобів (автомобілів): бампер</RXXXXG3S>
+    <RXXXXG3S ROWNUM="115">бампери та їх частини для моторних транспортних засобів (автомобілів): абсорбер бампера</RXXXXG3S>
+    <RXXXXG3S ROWNUM="116">бампери та їх частини для моторних транспортних засобів (автомобілів): накладка противотуманної фари</RXXXXG3S>
+    <RXXXXG3S ROWNUM="117">бампери та їх частини для моторних транспортних засобів (автомобілів): решітка бампера</RXXXXG3S>
+    <RXXXXG3S ROWNUM="118">бампери та їх частини для моторних транспортних засобів (автомобілів): підсилювач бампера (вживані)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="119">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): накладка порога (вживані)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="120">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): панель передня (вживані)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="121">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): повітрозабірник</RXXXXG3S>
+    <RXXXXG3S ROWNUM="122">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): упорна планка крила</RXXXXG3S>
+    <RXXXXG3S ROWNUM="123">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): накладка кузова кутова</RXXXXG3S>
+    <RXXXXG3S ROWNUM="124">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): кожух радіатора верхній</RXXXXG3S>
+    <RXXXXG3S ROWNUM="125">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): бризговики</RXXXXG3S>
+    <RXXXXG3S ROWNUM="126">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): панель передня</RXXXXG3S>
+    <RXXXXG3S ROWNUM="127">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): підкрилок</RXXXXG3S>
+    <RXXXXG3S ROWNUM="128">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): капот</RXXXXG3S>
+    <RXXXXG3S ROWNUM="129">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): накладка торпедо</RXXXXG3S>
+    <RXXXXG3S ROWNUM="130">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): решітка радіатора</RXXXXG3S>
+    <RXXXXG3S ROWNUM="131">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): накладка двері</RXXXXG3S>
+    <RXXXXG3S ROWNUM="132">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): накладка капота</RXXXXG3S>
+    <RXXXXG3S ROWNUM="133">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): решітка повітрозабірника капота</RXXXXG3S>
+    <RXXXXG3S ROWNUM="134">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): упорна планка крила</RXXXXG3S>
+    <RXXXXG3S ROWNUM="135">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): балка подмоторна</RXXXXG3S>
+    <RXXXXG3S ROWNUM="136">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): панель передня</RXXXXG3S>
+    <RXXXXG3S ROWNUM="137">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): панель задня</RXXXXG3S>
+    <RXXXXG3S ROWNUM="138">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): крило</RXXXXG3S>
+    <RXXXXG3S ROWNUM="139">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): кришка багажника</RXXXXG3S>
+    <RXXXXG3S ROWNUM="140">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): двері передня</RXXXXG3S>
+    <RXXXXG3S ROWNUM="141">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): накладка приладової панелі</RXXXXG3S>
+    <RXXXXG3S ROWNUM="142">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): накладка торпедо</RXXXXG3S>
+    <RXXXXG3S ROWNUM="143">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): накладка багажника</RXXXXG3S>
+    <RXXXXG3S ROWNUM="144">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): накладка радіатора</RXXXXG3S>
+    <RXXXXG3S ROWNUM="145">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): решітка радіатора</RXXXXG3S>
+    <RXXXXG3S ROWNUM="146">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): накладка передній панелі</RXXXXG3S>
+    <RXXXXG3S ROWNUM="147">частини та пристрої для кузова, для моторних транспортних засобів (автомобілів): накладка решітки радіатора</RXXXXG3S>
+    <RXXXXG4 ROWNUM="1">8407343000</RXXXXG4>
+    <RXXXXG4 ROWNUM="2">8407343000</RXXXXG4>
+    <RXXXXG4 ROWNUM="3">8407343000</RXXXXG4>
+    <RXXXXG4 ROWNUM="4">8408205590</RXXXXG4>
+    <RXXXXG4 ROWNUM="5">8408205590</RXXXXG4>
+    <RXXXXG4 ROWNUM="6">8408205590</RXXXXG4>
+    <RXXXXG4 ROWNUM="7">8408205590</RXXXXG4>
+    <RXXXXG4 ROWNUM="8">8408205590</RXXXXG4>
+    <RXXXXG4 ROWNUM="9">8408205590</RXXXXG4>
+    <RXXXXG4 ROWNUM="10">8408205790</RXXXXG4>
+    <RXXXXG4 ROWNUM="11">8408205790</RXXXXG4>
+    <RXXXXG4 ROWNUM="12">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="13">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="14">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="15">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="16">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="17">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="18">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="19">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="20">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="21">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="22">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="23">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="24">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="25">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="26">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="27">8409910000</RXXXXG4>
+    <RXXXXG4 ROWNUM="28">8409990000</RXXXXG4>
+    <RXXXXG4 ROWNUM="29">8409990000</RXXXXG4>
+    <RXXXXG4 ROWNUM="30">8412310098</RXXXXG4>
+    <RXXXXG4 ROWNUM="31">8413308000</RXXXXG4>
+    <RXXXXG4 ROWNUM="32">8413308000</RXXXXG4>
+    <RXXXXG4 ROWNUM="33">8413606100</RXXXXG4>
+    <RXXXXG4 ROWNUM="34">8414302090</RXXXXG4>
+    <RXXXXG4 ROWNUM="35">8414592098</RXXXXG4>
+    <RXXXXG4 ROWNUM="36">8414592098</RXXXXG4>
+    <RXXXXG4 ROWNUM="37">8414900000</RXXXXG4>
+    <RXXXXG4 ROWNUM="38">8415900000</RXXXXG4>
+    <RXXXXG4 ROWNUM="39">8418991000</RXXXXG4>
+    <RXXXXG4 ROWNUM="40">8421230090</RXXXXG4>
+    <RXXXXG4 ROWNUM="41">8421230090</RXXXXG4>
+    <RXXXXG4 ROWNUM="42">8421290000</RXXXXG4>
+    <RXXXXG4 ROWNUM="43">8421398090</RXXXXG4>
+    <RXXXXG4 ROWNUM="44">8481109900</RXXXXG4>
+    <RXXXXG4 ROWNUM="45">8481401000</RXXXXG4>
+    <RXXXXG4 ROWNUM="46">8481409000</RXXXXG4>
+    <RXXXXG4 ROWNUM="47">8481805900</RXXXXG4>
+    <RXXXXG4 ROWNUM="48">8481805900</RXXXXG4>
+    <RXXXXG4 ROWNUM="49">8481805900</RXXXXG4>
+    <RXXXXG4 ROWNUM="50">8481805900</RXXXXG4>
+    <RXXXXG4 ROWNUM="51">8481805900</RXXXXG4>
+    <RXXXXG4 ROWNUM="52">8482109000</RXXXXG4>
+    <RXXXXG4 ROWNUM="53">8482200000</RXXXXG4>
+    <RXXXXG4 ROWNUM="54">8483102190</RXXXXG4>
+    <RXXXXG4 ROWNUM="55">8483109590</RXXXXG4>
+    <RXXXXG4 ROWNUM="56">8483200000</RXXXXG4>
+    <RXXXXG4 ROWNUM="57">8483308090</RXXXXG4>
+    <RXXXXG4 ROWNUM="58">8483308090</RXXXXG4>
+    <RXXXXG4 ROWNUM="59">8483308090</RXXXXG4>
+    <RXXXXG4 ROWNUM="60">8483308090</RXXXXG4>
+    <RXXXXG4 ROWNUM="61">8483502000</RXXXXG4>
+    <RXXXXG4 ROWNUM="62">8483502000</RXXXXG4>
+    <RXXXXG4 ROWNUM="63">8483502000</RXXXXG4>
+    <RXXXXG4 ROWNUM="64">8483502000</RXXXXG4>
+    <RXXXXG4 ROWNUM="65">8483502000</RXXXXG4>
+    <RXXXXG4 ROWNUM="66">8483508000</RXXXXG4>
+    <RXXXXG4 ROWNUM="67">8483908100</RXXXXG4>
+    <RXXXXG4 ROWNUM="68">8483908100</RXXXXG4>
+    <RXXXXG4 ROWNUM="69">8483908100</RXXXXG4>
+    <RXXXXG4 ROWNUM="70">8483908100</RXXXXG4>
+    <RXXXXG4 ROWNUM="71">8484100090</RXXXXG4>
+    <RXXXXG4 ROWNUM="72">8484900090</RXXXXG4>
+    <RXXXXG4 ROWNUM="73">8501109990</RXXXXG4>
+    <RXXXXG4 ROWNUM="74">8501109990</RXXXXG4>
+    <RXXXXG4 ROWNUM="75">8501310098</RXXXXG4>
+    <RXXXXG4 ROWNUM="76">8511300098</RXXXXG4>
+    <RXXXXG4 ROWNUM="77">8511400098</RXXXXG4>
+    <RXXXXG4 ROWNUM="78">8511800098</RXXXXG4>
+    <RXXXXG4 ROWNUM="79">8511900090</RXXXXG4>
+    <RXXXXG4 ROWNUM="80">8512200090</RXXXXG4>
+    <RXXXXG4 ROWNUM="81">8512200090</RXXXXG4>
+    <RXXXXG4 ROWNUM="82">8512200090</RXXXXG4>
+    <RXXXXG4 ROWNUM="83">8512200090</RXXXXG4>
+    <RXXXXG4 ROWNUM="84">8512200090</RXXXXG4>
+    <RXXXXG4 ROWNUM="85">8512200090</RXXXXG4>
+    <RXXXXG4 ROWNUM="86">8512200090</RXXXXG4>
+    <RXXXXG4 ROWNUM="87">8512309090</RXXXXG4>
+    <RXXXXG4 ROWNUM="88">8512909090</RXXXXG4>
+    <RXXXXG4 ROWNUM="89">8512909090</RXXXXG4>
+    <RXXXXG4 ROWNUM="90">8512909090</RXXXXG4>
+    <RXXXXG4 ROWNUM="91">8536419090</RXXXXG4>
+    <RXXXXG4 ROWNUM="92">8536501190</RXXXXG4>
+    <RXXXXG4 ROWNUM="93">8536501190</RXXXXG4>
+    <RXXXXG4 ROWNUM="94">8536501190</RXXXXG4>
+    <RXXXXG4 ROWNUM="95">8536501190</RXXXXG4>
+    <RXXXXG4 ROWNUM="96">8536501190</RXXXXG4>
+    <RXXXXG4 ROWNUM="97">8536501590</RXXXXG4>
+    <RXXXXG4 ROWNUM="98">8536501990</RXXXXG4>
+    <RXXXXG4 ROWNUM="99">8536699090</RXXXXG4>
+    <RXXXXG4 ROWNUM="100">8544300098</RXXXXG4>
+    <RXXXXG4 ROWNUM="101">8544300098</RXXXXG4>
+    <RXXXXG4 ROWNUM="102">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="103">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="104">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="105">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="106">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="107">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="108">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="109">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="110">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="111">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="112">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="113">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="114">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="115">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="116">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="117">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="118">8708109098</RXXXXG4>
+    <RXXXXG4 ROWNUM="119">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="120">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="121">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="122">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="123">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="124">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="125">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="126">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="127">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="128">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="129">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="130">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="131">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="132">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="133">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="134">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="135">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="136">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="137">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="138">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="139">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="140">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="141">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="142">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="143">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="144">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="145">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="146">8708299000</RXXXXG4>
+    <RXXXXG4 ROWNUM="147">8708299000</RXXXXG4>
+    <RXXXXG32 ROWNUM="1">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="2">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="3">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="4">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="5">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="6">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="7">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="8">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="9">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="10">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="11">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="12">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="13">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="14">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="15">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="16">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="17">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="18">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="19">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="20">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="21">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="22">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="23">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="24">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="25">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="26">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="27">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="28">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="29">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="30">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="31">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="32">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="33">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="34">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="35">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="36">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="37">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="38">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="39">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="40">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="41">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="42">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="43">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="44">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="45">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="46">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="47">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="48">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="49">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="50">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="51">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="52">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="53">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="54">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="55">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="56">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="57">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="58">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="59">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="60">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="61">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="62">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="63">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="64">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="65">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="66">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="67">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="68">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="69">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="70">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="71">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="72">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="73">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="74">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="75">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="76">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="77">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="78">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="79">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="80">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="81">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="82">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="83">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="84">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="85">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="86">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="87">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="88">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="89">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="90">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="91">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="92">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="93">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="94">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="95">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="96">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="97">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="98">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="99">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="100">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="101">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="102">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="103">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="104">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="105">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="106">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="107">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="108">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="109">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="110">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="111">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="112">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="113">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="114">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="115">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="116">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="117">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="118">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="119">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="120">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="121">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="122">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="123">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="124">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="125">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="126">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="127">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="128">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="129">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="130">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="131">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="132">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="133">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="134">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="135">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="136">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="137">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="138">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="139">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="140">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="141">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="142">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="143">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="144">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="145">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="146">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="147">1</RXXXXG32>
+    <RXXXXG33 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="7" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="8" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="9" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="10" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="11" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="12" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="13" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="14" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="15" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="16" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="17" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="18" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="19" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="20" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="21" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="22" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="23" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="24" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="25" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="26" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="27" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="28" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="29" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="30" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="31" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="32" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="33" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="34" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="35" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="36" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="37" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="38" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="39" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="40" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="41" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="42" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="43" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="44" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="45" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="46" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="47" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="48" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="49" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="50" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="51" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="52" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="53" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="54" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="55" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="56" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="57" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="58" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="59" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="60" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="61" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="62" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="63" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="64" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="65" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="66" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="67" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="68" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="69" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="70" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="71" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="72" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="73" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="74" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="75" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="76" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="77" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="78" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="79" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="80" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="81" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="82" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="83" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="84" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="85" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="86" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="87" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="88" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="89" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="90" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="91" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="92" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="93" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="94" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="95" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="96" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="97" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="98" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="99" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="100" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="101" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="102" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="103" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="104" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="105" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="106" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="107" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="108" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="109" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="110" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="111" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="112" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="113" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="114" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="115" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="116" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="117" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="118" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="119" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="120" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="121" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="122" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="123" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="124" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="125" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="126" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="127" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="128" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="129" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="130" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="131" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="132" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="133" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="134" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="135" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="136" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="137" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="138" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="139" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="140" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="141" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="142" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="143" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="144" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="145" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="146" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="147" xsi:nil="true" />
+    <RXXXXG4S ROWNUM="1">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="2">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="3">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="4">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="5">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="6">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="7">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="8">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="9">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="10">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="11">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="12">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="13">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="14">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="15">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="16">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="17">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="18">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="19">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="20">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="21">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="22">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="23">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="24">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="25">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="26">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="27">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="28">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="29">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="30">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="31">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="32">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="33">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="34">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="35">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="36">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="37">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="38">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="39">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="40">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="41">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="42">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="43">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="44">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="45">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="46">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="47">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="48">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="49">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="50">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="51">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="52">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="53">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="54">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="55">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="56">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="57">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="58">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="59">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="60">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="61">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="62">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="63">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="64">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="65">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="66">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="67">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="68">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="69">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="70">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="71">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="72">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="73">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="74">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="75">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="76">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="77">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="78">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="79">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="80">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="81">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="82">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="83">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="84">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="85">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="86">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="87">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="88">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="89">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="90">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="91">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="92">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="93">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="94">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="95">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="96">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="97">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="98">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="99">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="100">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="101">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="102">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="103">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="104">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="105">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="106">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="107">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="108">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="109">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="110">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="111">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="112">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="113">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="114">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="115">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="116">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="117">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="118">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="119">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="120">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="121">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="122">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="123">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="124">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="125">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="126">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="127">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="128">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="129">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="130">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="131">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="132">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="133">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="134">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="135">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="136">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="137">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="138">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="139">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="140">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="141">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="142">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="143">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="144">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="145">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="146">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="147">шт</RXXXXG4S>
+    <RXXXXG105_2S ROWNUM="1">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="2">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="3">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="4">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="5">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="6">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="7">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="8">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="9">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="10">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="11">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="12">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="13">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="14">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="15">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="16">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="17">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="18">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="19">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="20">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="21">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="22">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="23">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="24">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="25">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="26">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="27">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="28">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="29">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="30">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="31">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="32">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="33">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="34">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="35">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="36">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="37">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="38">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="39">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="40">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="41">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="42">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="43">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="44">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="45">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="46">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="47">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="48">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="49">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="50">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="51">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="52">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="53">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="54">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="55">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="56">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="57">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="58">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="59">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="60">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="61">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="62">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="63">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="64">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="65">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="66">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="67">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="68">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="69">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="70">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="71">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="72">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="73">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="74">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="75">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="76">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="77">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="78">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="79">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="80">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="81">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="82">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="83">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="84">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="85">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="86">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="87">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="88">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="89">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="90">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="91">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="92">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="93">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="94">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="95">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="96">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="97">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="98">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="99">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="100">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="101">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="102">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="103">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="104">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="105">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="106">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="107">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="108">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="109">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="110">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="111">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="112">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="113">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="114">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="115">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="116">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="117">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="118">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="119">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="120">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="121">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="122">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="123">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="124">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="125">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="126">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="127">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="128">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="129">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="130">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="131">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="132">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="133">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="134">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="135">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="136">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="137">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="138">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="139">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="140">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="141">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="142">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="143">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="144">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="145">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="146">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="147">2009</RXXXXG105_2S>
+    <RXXXXG5 ROWNUM="1">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="2">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="3">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="4">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="5">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="6">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="7">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="8">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="9">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="10">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="11">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="12">4</RXXXXG5>
+    <RXXXXG5 ROWNUM="13">2</RXXXXG5>
+    <RXXXXG5 ROWNUM="14">39</RXXXXG5>
+    <RXXXXG5 ROWNUM="15">38</RXXXXG5>
+    <RXXXXG5 ROWNUM="16">55</RXXXXG5>
+    <RXXXXG5 ROWNUM="17">55</RXXXXG5>
+    <RXXXXG5 ROWNUM="18">64</RXXXXG5>
+    <RXXXXG5 ROWNUM="19">17</RXXXXG5>
+    <RXXXXG5 ROWNUM="20">5</RXXXXG5>
+    <RXXXXG5 ROWNUM="21">10</RXXXXG5>
+    <RXXXXG5 ROWNUM="22">6</RXXXXG5>
+    <RXXXXG5 ROWNUM="23">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="24">35</RXXXXG5>
+    <RXXXXG5 ROWNUM="25">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="26">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="27">10</RXXXXG5>
+    <RXXXXG5 ROWNUM="28">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="29">17</RXXXXG5>
+    <RXXXXG5 ROWNUM="30">2</RXXXXG5>
+    <RXXXXG5 ROWNUM="31">6</RXXXXG5>
+    <RXXXXG5 ROWNUM="32">26</RXXXXG5>
+    <RXXXXG5 ROWNUM="33">91</RXXXXG5>
+    <RXXXXG5 ROWNUM="34">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="35">11</RXXXXG5>
+    <RXXXXG5 ROWNUM="36">5</RXXXXG5>
+    <RXXXXG5 ROWNUM="37">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="38">2</RXXXXG5>
+    <RXXXXG5 ROWNUM="39">6</RXXXXG5>
+    <RXXXXG5 ROWNUM="40">89</RXXXXG5>
+    <RXXXXG5 ROWNUM="41">15</RXXXXG5>
+    <RXXXXG5 ROWNUM="42">43</RXXXXG5>
+    <RXXXXG5 ROWNUM="43">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="44">10</RXXXXG5>
+    <RXXXXG5 ROWNUM="45">5</RXXXXG5>
+    <RXXXXG5 ROWNUM="46">2</RXXXXG5>
+    <RXXXXG5 ROWNUM="47">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="48">5</RXXXXG5>
+    <RXXXXG5 ROWNUM="49">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="50">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="51">5</RXXXXG5>
+    <RXXXXG5 ROWNUM="52">37</RXXXXG5>
+    <RXXXXG5 ROWNUM="53">7</RXXXXG5>
+    <RXXXXG5 ROWNUM="54">4</RXXXXG5>
+    <RXXXXG5 ROWNUM="55">5</RXXXXG5>
+    <RXXXXG5 ROWNUM="56">24</RXXXXG5>
+    <RXXXXG5 ROWNUM="57">41</RXXXXG5>
+    <RXXXXG5 ROWNUM="58">30</RXXXXG5>
+    <RXXXXG5 ROWNUM="59">20</RXXXXG5>
+    <RXXXXG5 ROWNUM="60">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="61">39</RXXXXG5>
+    <RXXXXG5 ROWNUM="62">3</RXXXXG5>
+    <RXXXXG5 ROWNUM="63">16</RXXXXG5>
+    <RXXXXG5 ROWNUM="64">17</RXXXXG5>
+    <RXXXXG5 ROWNUM="65">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="66">3</RXXXXG5>
+    <RXXXXG5 ROWNUM="67">9</RXXXXG5>
+    <RXXXXG5 ROWNUM="68">12</RXXXXG5>
+    <RXXXXG5 ROWNUM="69">4</RXXXXG5>
+    <RXXXXG5 ROWNUM="70">2</RXXXXG5>
+    <RXXXXG5 ROWNUM="71">2</RXXXXG5>
+    <RXXXXG5 ROWNUM="72">21</RXXXXG5>
+    <RXXXXG5 ROWNUM="73">2</RXXXXG5>
+    <RXXXXG5 ROWNUM="74">2</RXXXXG5>
+    <RXXXXG5 ROWNUM="75">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="76">4</RXXXXG5>
+    <RXXXXG5 ROWNUM="77">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="78">32</RXXXXG5>
+    <RXXXXG5 ROWNUM="79">7</RXXXXG5>
+    <RXXXXG5 ROWNUM="80">7</RXXXXG5>
+    <RXXXXG5 ROWNUM="81">3</RXXXXG5>
+    <RXXXXG5 ROWNUM="82">12</RXXXXG5>
+    <RXXXXG5 ROWNUM="83">5</RXXXXG5>
+    <RXXXXG5 ROWNUM="84">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="85">5</RXXXXG5>
+    <RXXXXG5 ROWNUM="86">26</RXXXXG5>
+    <RXXXXG5 ROWNUM="87">2</RXXXXG5>
+    <RXXXXG5 ROWNUM="88">3</RXXXXG5>
+    <RXXXXG5 ROWNUM="89">10</RXXXXG5>
+    <RXXXXG5 ROWNUM="90">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="91">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="92">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="93">2</RXXXXG5>
+    <RXXXXG5 ROWNUM="94">30</RXXXXG5>
+    <RXXXXG5 ROWNUM="95">10</RXXXXG5>
+    <RXXXXG5 ROWNUM="96">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="97">5</RXXXXG5>
+    <RXXXXG5 ROWNUM="98">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="99">21</RXXXXG5>
+    <RXXXXG5 ROWNUM="100">8</RXXXXG5>
+    <RXXXXG5 ROWNUM="101">15</RXXXXG5>
+    <RXXXXG5 ROWNUM="102">3</RXXXXG5>
+    <RXXXXG5 ROWNUM="103">29</RXXXXG5>
+    <RXXXXG5 ROWNUM="104">8</RXXXXG5>
+    <RXXXXG5 ROWNUM="105">8</RXXXXG5>
+    <RXXXXG5 ROWNUM="106">6</RXXXXG5>
+    <RXXXXG5 ROWNUM="107">8</RXXXXG5>
+    <RXXXXG5 ROWNUM="108">3</RXXXXG5>
+    <RXXXXG5 ROWNUM="109">16</RXXXXG5>
+    <RXXXXG5 ROWNUM="110">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="111">2</RXXXXG5>
+    <RXXXXG5 ROWNUM="112">4</RXXXXG5>
+    <RXXXXG5 ROWNUM="113">98</RXXXXG5>
+    <RXXXXG5 ROWNUM="114">52</RXXXXG5>
+    <RXXXXG5 ROWNUM="115">20</RXXXXG5>
+    <RXXXXG5 ROWNUM="116">9</RXXXXG5>
+    <RXXXXG5 ROWNUM="117">19</RXXXXG5>
+    <RXXXXG5 ROWNUM="118">14</RXXXXG5>
+    <RXXXXG5 ROWNUM="119">11</RXXXXG5>
+    <RXXXXG5 ROWNUM="120">3</RXXXXG5>
+    <RXXXXG5 ROWNUM="121">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="122">3</RXXXXG5>
+    <RXXXXG5 ROWNUM="123">4</RXXXXG5>
+    <RXXXXG5 ROWNUM="124">3</RXXXXG5>
+    <RXXXXG5 ROWNUM="125">4</RXXXXG5>
+    <RXXXXG5 ROWNUM="126">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="127">18</RXXXXG5>
+    <RXXXXG5 ROWNUM="128">4</RXXXXG5>
+    <RXXXXG5 ROWNUM="129">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="130">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="131">4</RXXXXG5>
+    <RXXXXG5 ROWNUM="132">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="133">6</RXXXXG5>
+    <RXXXXG5 ROWNUM="134">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="135">11</RXXXXG5>
+    <RXXXXG5 ROWNUM="136">13</RXXXXG5>
+    <RXXXXG5 ROWNUM="137">10</RXXXXG5>
+    <RXXXXG5 ROWNUM="138">9</RXXXXG5>
+    <RXXXXG5 ROWNUM="139">2</RXXXXG5>
+    <RXXXXG5 ROWNUM="140">4</RXXXXG5>
+    <RXXXXG5 ROWNUM="141">2</RXXXXG5>
+    <RXXXXG5 ROWNUM="142">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="143">2</RXXXXG5>
+    <RXXXXG5 ROWNUM="144">12</RXXXXG5>
+    <RXXXXG5 ROWNUM="145">14</RXXXXG5>
+    <RXXXXG5 ROWNUM="146">10</RXXXXG5>
+    <RXXXXG5 ROWNUM="147">5</RXXXXG5>
+    <RXXXXG6 ROWNUM="1">8659.162</RXXXXG6>
+    <RXXXXG6 ROWNUM="2">8659.162</RXXXXG6>
+    <RXXXXG6 ROWNUM="3">8659.162</RXXXXG6>
+    <RXXXXG6 ROWNUM="4">7326.62</RXXXXG6>
+    <RXXXXG6 ROWNUM="5">7326.62</RXXXXG6>
+    <RXXXXG6 ROWNUM="6">5153.173</RXXXXG6>
+    <RXXXXG6 ROWNUM="7">5153.173</RXXXXG6>
+    <RXXXXG6 ROWNUM="8">5153.173</RXXXXG6>
+    <RXXXXG6 ROWNUM="9">4907.784</RXXXXG6>
+    <RXXXXG6 ROWNUM="10">7882.898</RXXXXG6>
+    <RXXXXG6 ROWNUM="11">7335.052</RXXXXG6>
+    <RXXXXG6 ROWNUM="12">141.066</RXXXXG6>
+    <RXXXXG6 ROWNUM="13">362.029</RXXXXG6>
+    <RXXXXG6 ROWNUM="14">4.481</RXXXXG6>
+    <RXXXXG6 ROWNUM="15">2.628</RXXXXG6>
+    <RXXXXG6 ROWNUM="16">5.811</RXXXXG6>
+    <RXXXXG6 ROWNUM="17">3.995</RXXXXG6>
+    <RXXXXG6 ROWNUM="18">11.625</RXXXXG6>
+    <RXXXXG6 ROWNUM="19">46.704</RXXXXG6>
+    <RXXXXG6 ROWNUM="20">1.997</RXXXXG6>
+    <RXXXXG6 ROWNUM="21">39.948</RXXXXG6>
+    <RXXXXG6 ROWNUM="22">39.116</RXXXXG6>
+    <RXXXXG6 ROWNUM="23">209.727</RXXXXG6>
+    <RXXXXG6 ROWNUM="24">0.428</RXXXXG6>
+    <RXXXXG6 ROWNUM="25">34.954</RXXXXG6>
+    <RXXXXG6 ROWNUM="26">349.545</RXXXXG6>
+    <RXXXXG6 ROWNUM="27">9.488</RXXXXG6>
+    <RXXXXG6 ROWNUM="28">23.762</RXXXXG6>
+    <RXXXXG6 ROWNUM="29">0.879</RXXXXG6>
+    <RXXXXG6 ROWNUM="30">11.875</RXXXXG6>
+    <RXXXXG6 ROWNUM="31">129.341</RXXXXG6>
+    <RXXXXG6 ROWNUM="32">70.65</RXXXXG6>
+    <RXXXXG6 ROWNUM="33">237.241</RXXXXG6>
+    <RXXXXG6 ROWNUM="34">536.9</RXXXXG6>
+    <RXXXXG6 ROWNUM="35">265.515</RXXXXG6>
+    <RXXXXG6 ROWNUM="36">274.886</RXXXXG6>
+    <RXXXXG6 ROWNUM="37">82.8</RXXXXG6>
+    <RXXXXG6 ROWNUM="38">6.425</RXXXXG6>
+    <RXXXXG6 ROWNUM="39">153.3</RXXXXG6>
+    <RXXXXG6 ROWNUM="40">43.427</RXXXXG6>
+    <RXXXXG6 ROWNUM="41">19.926</RXXXXG6>
+    <RXXXXG6 ROWNUM="42">56.29</RXXXXG6>
+    <RXXXXG6 ROWNUM="43">136.7</RXXXXG6>
+    <RXXXXG6 ROWNUM="44">1.7</RXXXXG6>
+    <RXXXXG6 ROWNUM="45">1.68</RXXXXG6>
+    <RXXXXG6 ROWNUM="46">18.55</RXXXXG6>
+    <RXXXXG6 ROWNUM="47">90.185</RXXXXG6>
+    <RXXXXG6 ROWNUM="48">14.38</RXXXXG6>
+    <RXXXXG6 ROWNUM="49">188.267</RXXXXG6>
+    <RXXXXG6 ROWNUM="50">20.364</RXXXXG6>
+    <RXXXXG6 ROWNUM="51">8.977</RXXXXG6>
+    <RXXXXG6 ROWNUM="52">24.7</RXXXXG6>
+    <RXXXXG6 ROWNUM="53">66.036</RXXXXG6>
+    <RXXXXG6 ROWNUM="54">1321.675</RXXXXG6>
+    <RXXXXG6 ROWNUM="55">170.1</RXXXXG6>
+    <RXXXXG6 ROWNUM="56">84.771</RXXXXG6>
+    <RXXXXG6 ROWNUM="57">2.828</RXXXXG6>
+    <RXXXXG6 ROWNUM="58">4.24</RXXXXG6>
+    <RXXXXG6 ROWNUM="59">0.946</RXXXXG6>
+    <RXXXXG6 ROWNUM="60">12.337</RXXXXG6>
+    <RXXXXG6 ROWNUM="61">196.456</RXXXXG6>
+    <RXXXXG6 ROWNUM="62">723.079</RXXXXG6>
+    <RXXXXG6 ROWNUM="63">24.043</RXXXXG6>
+    <RXXXXG6 ROWNUM="64">25.772</RXXXXG6>
+    <RXXXXG6 ROWNUM="65">32.058</RXXXXG6>
+    <RXXXXG6 ROWNUM="66">18.517</RXXXXG6>
+    <RXXXXG6 ROWNUM="67">19.671</RXXXXG6>
+    <RXXXXG6 ROWNUM="68">36.155</RXXXXG6>
+    <RXXXXG6 ROWNUM="69">49.453</RXXXXG6>
+    <RXXXXG6 ROWNUM="70">11.221</RXXXXG6>
+    <RXXXXG6 ROWNUM="71">7.075</RXXXXG6>
+    <RXXXXG6 ROWNUM="72">64.971</RXXXXG6>
+    <RXXXXG6 ROWNUM="73">66.55</RXXXXG6>
+    <RXXXXG6 ROWNUM="74">66.55</RXXXXG6>
+    <RXXXXG6 ROWNUM="75">164.45</RXXXXG6>
+    <RXXXXG6 ROWNUM="76">43.997</RXXXXG6>
+    <RXXXXG6 ROWNUM="77">814</RXXXXG6>
+    <RXXXXG6 ROWNUM="78">11.462</RXXXXG6>
+    <RXXXXG6 ROWNUM="79">24.8</RXXXXG6>
+    <RXXXXG6 ROWNUM="80">136.807</RXXXXG6>
+    <RXXXXG6 ROWNUM="81">210.885</RXXXXG6>
+    <RXXXXG6 ROWNUM="82">205.829</RXXXXG6>
+    <RXXXXG6 ROWNUM="83">11.266</RXXXXG6>
+    <RXXXXG6 ROWNUM="84">212.329</RXXXXG6>
+    <RXXXXG6 ROWNUM="85">666.996</RXXXXG6>
+    <RXXXXG6 ROWNUM="86">380.733</RXXXXG6>
+    <RXXXXG6 ROWNUM="87">10.775</RXXXXG6>
+    <RXXXXG6 ROWNUM="88">42.286</RXXXXG6>
+    <RXXXXG6 ROWNUM="89">171.731</RXXXXG6>
+    <RXXXXG6 ROWNUM="90">49.228</RXXXXG6>
+    <RXXXXG6 ROWNUM="91">6.95</RXXXXG6>
+    <RXXXXG6 ROWNUM="92">9.829</RXXXXG6>
+    <RXXXXG6 ROWNUM="93">10.063</RXXXXG6>
+    <RXXXXG6 ROWNUM="94">10.968</RXXXXG6>
+    <RXXXXG6 ROWNUM="95">10.484</RXXXXG6>
+    <RXXXXG6 ROWNUM="96">4.212</RXXXXG6>
+    <RXXXXG6 ROWNUM="97">25.95</RXXXXG6>
+    <RXXXXG6 ROWNUM="98">38.15</RXXXXG6>
+    <RXXXXG6 ROWNUM="99">54.838</RXXXXG6>
+    <RXXXXG6 ROWNUM="100">33.809</RXXXXG6>
+    <RXXXXG6 ROWNUM="101">2.742</RXXXXG6>
+    <RXXXXG6 ROWNUM="102">233.544</RXXXXG6>
+    <RXXXXG6 ROWNUM="103">2.013</RXXXXG6>
+    <RXXXXG6 ROWNUM="104">94.877</RXXXXG6>
+    <RXXXXG6 ROWNUM="105">29.193</RXXXXG6>
+    <RXXXXG6 ROWNUM="106">19.462</RXXXXG6>
+    <RXXXXG6 ROWNUM="107">21.895</RXXXXG6>
+    <RXXXXG6 ROWNUM="108">116.772</RXXXXG6>
+    <RXXXXG6 ROWNUM="109">21.895</RXXXXG6>
+    <RXXXXG6 ROWNUM="110">1576.425</RXXXXG6>
+    <RXXXXG6 ROWNUM="111">233.544</RXXXXG6>
+    <RXXXXG6 ROWNUM="112">1109.336</RXXXXG6>
+    <RXXXXG6 ROWNUM="113">129.879</RXXXXG6>
+    <RXXXXG6 ROWNUM="114">655.721</RXXXXG6>
+    <RXXXXG6 ROWNUM="115">40.87</RXXXXG6>
+    <RXXXXG6 ROWNUM="116">6.487</RXXXXG6>
+    <RXXXXG6 ROWNUM="117">73.751</RXXXXG6>
+    <RXXXXG6 ROWNUM="118">1080.224</RXXXXG6>
+    <RXXXXG6 ROWNUM="119">86.747</RXXXXG6>
+    <RXXXXG6 ROWNUM="120">172.779</RXXXXG6>
+    <RXXXXG6 ROWNUM="121">81.74</RXXXXG6>
+    <RXXXXG6 ROWNUM="122">27.247</RXXXXG6>
+    <RXXXXG6 ROWNUM="123">4</RXXXXG6>
+    <RXXXXG6 ROWNUM="124">81.74</RXXXXG6>
+    <RXXXXG6 ROWNUM="125">20.435</RXXXXG6>
+    <RXXXXG6 ROWNUM="126">735.659</RXXXXG6>
+    <RXXXXG6 ROWNUM="127">140.774</RXXXXG6>
+    <RXXXXG6 ROWNUM="128">1941.321</RXXXXG6>
+    <RXXXXG6 ROWNUM="129">326.959</RXXXXG6>
+    <RXXXXG6 ROWNUM="130">326.959</RXXXXG6>
+    <RXXXXG6 ROWNUM="131">40.87</RXXXXG6>
+    <RXXXXG6 ROWNUM="132">81.74</RXXXXG6>
+    <RXXXXG6 ROWNUM="133">54.493</RXXXXG6>
+    <RXXXXG6 ROWNUM="134">4</RXXXXG6>
+    <RXXXXG6 ROWNUM="135">1671.951</RXXXXG6>
+    <RXXXXG6 ROWNUM="136">899.138</RXXXXG6>
+    <RXXXXG6 ROWNUM="137">514.961</RXXXXG6>
+    <RXXXXG6 ROWNUM="138">326.959</RXXXXG6>
+    <RXXXXG6 ROWNUM="139">1757.407</RXXXXG6>
+    <RXXXXG6 ROWNUM="140">1696.102</RXXXXG6>
+    <RXXXXG6 ROWNUM="141">286.089</RXXXXG6>
+    <RXXXXG6 ROWNUM="142">326.959</RXXXXG6>
+    <RXXXXG6 ROWNUM="143">81.74</RXXXXG6>
+    <RXXXXG6 ROWNUM="144">115.798</RXXXXG6>
+    <RXXXXG6 ROWNUM="145">262.735</RXXXXG6>
+    <RXXXXG6 ROWNUM="146">89.914</RXXXXG6>
+    <RXXXXG6 ROWNUM="147">98.088</RXXXXG6>
+    <RXXXXG008 ROWNUM="1">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="2">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="3">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="4">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="5">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="6">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="7">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="8">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="9">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="10">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="11">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="12">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="13">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="14">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="15">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="16">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="17">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="18">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="19">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="20">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="21">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="22">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="23">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="24">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="25">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="26">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="27">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="28">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="29">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="30">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="31">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="32">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="33">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="34">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="35">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="36">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="37">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="38">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="39">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="40">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="41">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="42">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="43">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="44">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="45">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="46">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="47">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="48">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="49">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="50">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="51">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="52">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="53">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="54">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="55">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="56">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="57">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="58">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="59">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="60">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="61">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="62">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="63">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="64">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="65">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="66">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="67">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="68">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="69">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="70">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="71">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="72">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="73">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="74">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="75">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="76">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="77">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="78">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="79">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="80">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="81">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="82">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="83">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="84">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="85">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="86">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="87">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="88">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="89">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="90">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="91">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="92">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="93">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="94">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="95">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="96">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="97">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="98">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="99">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="100">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="101">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="102">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="103">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="104">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="105">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="106">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="107">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="108">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="109">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="110">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="111">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="112">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="113">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="114">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="115">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="116">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="117">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="118">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="119">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="120">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="121">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="122">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="123">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="124">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="125">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="126">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="127">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="128">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="129">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="130">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="131">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="132">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="133">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="134">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="135">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="136">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="137">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="138">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="139">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="140">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="141">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="142">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="143">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="144">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="145">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="146">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="147">20</RXXXXG008>
+    <RXXXXG009 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="7" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="8" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="9" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="10" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="11" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="12" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="13" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="14" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="15" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="16" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="17" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="18" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="19" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="20" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="21" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="22" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="23" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="24" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="25" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="26" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="27" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="28" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="29" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="30" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="31" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="32" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="33" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="34" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="35" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="36" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="37" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="38" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="39" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="40" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="41" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="42" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="43" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="44" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="45" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="46" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="47" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="48" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="49" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="50" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="51" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="52" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="53" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="54" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="55" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="56" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="57" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="58" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="59" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="60" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="61" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="62" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="63" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="64" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="65" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="66" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="67" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="68" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="69" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="70" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="71" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="72" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="73" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="74" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="75" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="76" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="77" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="78" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="79" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="80" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="81" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="82" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="83" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="84" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="85" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="86" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="87" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="88" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="89" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="90" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="91" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="92" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="93" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="94" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="95" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="96" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="97" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="98" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="99" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="100" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="101" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="102" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="103" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="104" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="105" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="106" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="107" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="108" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="109" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="110" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="111" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="112" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="113" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="114" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="115" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="116" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="117" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="118" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="119" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="120" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="121" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="122" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="123" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="124" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="125" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="126" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="127" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="128" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="129" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="130" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="131" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="132" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="133" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="134" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="135" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="136" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="137" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="138" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="139" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="140" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="141" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="142" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="143" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="144" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="145" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="146" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="147" xsi:nil="true" />
+    <RXXXXG010 ROWNUM="1">8659.16</RXXXXG010>
+    <RXXXXG010 ROWNUM="2">8659.16</RXXXXG010>
+    <RXXXXG010 ROWNUM="3">8659.16</RXXXXG010>
+    <RXXXXG010 ROWNUM="4">7326.62</RXXXXG010>
+    <RXXXXG010 ROWNUM="5">7326.62</RXXXXG010>
+    <RXXXXG010 ROWNUM="6">5153.17</RXXXXG010>
+    <RXXXXG010 ROWNUM="7">5153.17</RXXXXG010>
+    <RXXXXG010 ROWNUM="8">5153.17</RXXXXG010>
+    <RXXXXG010 ROWNUM="9">4907.78</RXXXXG010>
+    <RXXXXG010 ROWNUM="10">7882.90</RXXXXG010>
+    <RXXXXG010 ROWNUM="11">7335.05</RXXXXG010>
+    <RXXXXG010 ROWNUM="12">564.26</RXXXXG010>
+    <RXXXXG010 ROWNUM="13">724.06</RXXXXG010>
+    <RXXXXG010 ROWNUM="14">174.76</RXXXXG010>
+    <RXXXXG010 ROWNUM="15">99.86</RXXXXG010>
+    <RXXXXG010 ROWNUM="16">319.61</RXXXXG010>
+    <RXXXXG010 ROWNUM="17">219.73</RXXXXG010>
+    <RXXXXG010 ROWNUM="18">744.00</RXXXXG010>
+    <RXXXXG010 ROWNUM="19">793.97</RXXXXG010>
+    <RXXXXG010 ROWNUM="20">9.99</RXXXXG010>
+    <RXXXXG010 ROWNUM="21">399.48</RXXXXG010>
+    <RXXXXG010 ROWNUM="22">234.70</RXXXXG010>
+    <RXXXXG010 ROWNUM="23">209.73</RXXXXG010>
+    <RXXXXG010 ROWNUM="24">14.98</RXXXXG010>
+    <RXXXXG010 ROWNUM="25">34.95</RXXXXG010>
+    <RXXXXG010 ROWNUM="26">349.55</RXXXXG010>
+    <RXXXXG010 ROWNUM="27">94.88</RXXXXG010>
+    <RXXXXG010 ROWNUM="28">23.76</RXXXXG010>
+    <RXXXXG010 ROWNUM="29">14.94</RXXXXG010>
+    <RXXXXG010 ROWNUM="30">23.75</RXXXXG010>
+    <RXXXXG010 ROWNUM="31">776.05</RXXXXG010>
+    <RXXXXG010 ROWNUM="32">1836.90</RXXXXG010>
+    <RXXXXG010 ROWNUM="33">21588.93</RXXXXG010>
+    <RXXXXG010 ROWNUM="34">536.90</RXXXXG010>
+    <RXXXXG010 ROWNUM="35">2920.67</RXXXXG010>
+    <RXXXXG010 ROWNUM="36">1374.43</RXXXXG010>
+    <RXXXXG010 ROWNUM="37">82.80</RXXXXG010>
+    <RXXXXG010 ROWNUM="38">12.85</RXXXXG010>
+    <RXXXXG010 ROWNUM="39">919.80</RXXXXG010>
+    <RXXXXG010 ROWNUM="40">3865.00</RXXXXG010>
+    <RXXXXG010 ROWNUM="41">298.89</RXXXXG010>
+    <RXXXXG010 ROWNUM="42">2420.47</RXXXXG010>
+    <RXXXXG010 ROWNUM="43">136.70</RXXXXG010>
+    <RXXXXG010 ROWNUM="44">17.00</RXXXXG010>
+    <RXXXXG010 ROWNUM="45">8.40</RXXXXG010>
+    <RXXXXG010 ROWNUM="46">37.10</RXXXXG010>
+    <RXXXXG010 ROWNUM="47">90.19</RXXXXG010>
+    <RXXXXG010 ROWNUM="48">71.90</RXXXXG010>
+    <RXXXXG010 ROWNUM="49">188.27</RXXXXG010>
+    <RXXXXG010 ROWNUM="50">20.36</RXXXXG010>
+    <RXXXXG010 ROWNUM="51">44.89</RXXXXG010>
+    <RXXXXG010 ROWNUM="52">913.90</RXXXXG010>
+    <RXXXXG010 ROWNUM="53">462.25</RXXXXG010>
+    <RXXXXG010 ROWNUM="54">5286.70</RXXXXG010>
+    <RXXXXG010 ROWNUM="55">850.50</RXXXXG010>
+    <RXXXXG010 ROWNUM="56">2034.50</RXXXXG010>
+    <RXXXXG010 ROWNUM="57">115.95</RXXXXG010>
+    <RXXXXG010 ROWNUM="58">127.20</RXXXXG010>
+    <RXXXXG010 ROWNUM="59">18.92</RXXXXG010>
+    <RXXXXG010 ROWNUM="60">12.34</RXXXXG010>
+    <RXXXXG010 ROWNUM="61">7661.78</RXXXXG010>
+    <RXXXXG010 ROWNUM="62">2169.24</RXXXXG010>
+    <RXXXXG010 ROWNUM="63">384.69</RXXXXG010>
+    <RXXXXG010 ROWNUM="64">438.12</RXXXXG010>
+    <RXXXXG010 ROWNUM="65">32.06</RXXXXG010>
+    <RXXXXG010 ROWNUM="66">55.55</RXXXXG010>
+    <RXXXXG010 ROWNUM="67">177.04</RXXXXG010>
+    <RXXXXG010 ROWNUM="68">433.86</RXXXXG010>
+    <RXXXXG010 ROWNUM="69">197.81</RXXXXG010>
+    <RXXXXG010 ROWNUM="70">22.44</RXXXXG010>
+    <RXXXXG010 ROWNUM="71">14.15</RXXXXG010>
+    <RXXXXG010 ROWNUM="72">1364.39</RXXXXG010>
+    <RXXXXG010 ROWNUM="73">133.10</RXXXXG010>
+    <RXXXXG010 ROWNUM="74">133.10</RXXXXG010>
+    <RXXXXG010 ROWNUM="75">164.45</RXXXXG010>
+    <RXXXXG010 ROWNUM="76">175.99</RXXXXG010>
+    <RXXXXG010 ROWNUM="77">814.00</RXXXXG010>
+    <RXXXXG010 ROWNUM="78">366.78</RXXXXG010>
+    <RXXXXG010 ROWNUM="79">173.60</RXXXXG010>
+    <RXXXXG010 ROWNUM="80">957.65</RXXXXG010>
+    <RXXXXG010 ROWNUM="81">632.66</RXXXXG010>
+    <RXXXXG010 ROWNUM="82">2469.95</RXXXXG010>
+    <RXXXXG010 ROWNUM="83">56.33</RXXXXG010>
+    <RXXXXG010 ROWNUM="84">212.33</RXXXXG010>
+    <RXXXXG010 ROWNUM="85">3334.98</RXXXXG010>
+    <RXXXXG010 ROWNUM="86">9899.06</RXXXXG010>
+    <RXXXXG010 ROWNUM="87">21.55</RXXXXG010>
+    <RXXXXG010 ROWNUM="88">126.86</RXXXXG010>
+    <RXXXXG010 ROWNUM="89">1717.31</RXXXXG010>
+    <RXXXXG010 ROWNUM="90">49.23</RXXXXG010>
+    <RXXXXG010 ROWNUM="91">6.95</RXXXXG010>
+    <RXXXXG010 ROWNUM="92">9.83</RXXXXG010>
+    <RXXXXG010 ROWNUM="93">20.13</RXXXXG010>
+    <RXXXXG010 ROWNUM="94">329.04</RXXXXG010>
+    <RXXXXG010 ROWNUM="95">104.84</RXXXXG010>
+    <RXXXXG010 ROWNUM="96">4.21</RXXXXG010>
+    <RXXXXG010 ROWNUM="97">129.75</RXXXXG010>
+    <RXXXXG010 ROWNUM="98">38.15</RXXXXG010>
+    <RXXXXG010 ROWNUM="99">1151.60</RXXXXG010>
+    <RXXXXG010 ROWNUM="100">270.47</RXXXXG010>
+    <RXXXXG010 ROWNUM="101">41.13</RXXXXG010>
+    <RXXXXG010 ROWNUM="102">700.63</RXXXXG010>
+    <RXXXXG010 ROWNUM="103">58.38</RXXXXG010>
+    <RXXXXG010 ROWNUM="104">759.02</RXXXXG010>
+    <RXXXXG010 ROWNUM="105">233.54</RXXXXG010>
+    <RXXXXG010 ROWNUM="106">116.77</RXXXXG010>
+    <RXXXXG010 ROWNUM="107">175.16</RXXXXG010>
+    <RXXXXG010 ROWNUM="108">350.32</RXXXXG010>
+    <RXXXXG010 ROWNUM="109">350.32</RXXXXG010>
+    <RXXXXG010 ROWNUM="110">1576.43</RXXXXG010>
+    <RXXXXG010 ROWNUM="111">467.09</RXXXXG010>
+    <RXXXXG010 ROWNUM="112">4437.34</RXXXXG010>
+    <RXXXXG010 ROWNUM="113">12728.14</RXXXXG010>
+    <RXXXXG010 ROWNUM="114">34097.49</RXXXXG010>
+    <RXXXXG010 ROWNUM="115">817.40</RXXXXG010>
+    <RXXXXG010 ROWNUM="116">58.38</RXXXXG010>
+    <RXXXXG010 ROWNUM="117">1401.27</RXXXXG010>
+    <RXXXXG010 ROWNUM="118">15123.14</RXXXXG010>
+    <RXXXXG010 ROWNUM="119">954.22</RXXXXG010>
+    <RXXXXG010 ROWNUM="120">518.34</RXXXXG010>
+    <RXXXXG010 ROWNUM="121">81.74</RXXXXG010>
+    <RXXXXG010 ROWNUM="122">81.74</RXXXXG010>
+    <RXXXXG010 ROWNUM="123">16.00</RXXXXG010>
+    <RXXXXG010 ROWNUM="124">245.22</RXXXXG010>
+    <RXXXXG010 ROWNUM="125">81.74</RXXXXG010>
+    <RXXXXG010 ROWNUM="126">735.66</RXXXXG010>
+    <RXXXXG010 ROWNUM="127">2533.93</RXXXXG010>
+    <RXXXXG010 ROWNUM="128">7765.28</RXXXXG010>
+    <RXXXXG010 ROWNUM="129">326.96</RXXXXG010>
+    <RXXXXG010 ROWNUM="130">326.96</RXXXXG010>
+    <RXXXXG010 ROWNUM="131">163.48</RXXXXG010>
+    <RXXXXG010 ROWNUM="132">81.74</RXXXXG010>
+    <RXXXXG010 ROWNUM="133">326.96</RXXXXG010>
+    <RXXXXG010 ROWNUM="134">4.00</RXXXXG010>
+    <RXXXXG010 ROWNUM="135">18391.46</RXXXXG010>
+    <RXXXXG010 ROWNUM="136">11688.79</RXXXXG010>
+    <RXXXXG010 ROWNUM="137">5149.61</RXXXXG010>
+    <RXXXXG010 ROWNUM="138">2942.63</RXXXXG010>
+    <RXXXXG010 ROWNUM="139">3514.81</RXXXXG010>
+    <RXXXXG010 ROWNUM="140">6784.41</RXXXXG010>
+    <RXXXXG010 ROWNUM="141">572.18</RXXXXG010>
+    <RXXXXG010 ROWNUM="142">326.96</RXXXXG010>
+    <RXXXXG010 ROWNUM="143">163.48</RXXXXG010>
+    <RXXXXG010 ROWNUM="144">1389.58</RXXXXG010>
+    <RXXXXG010 ROWNUM="145">3678.29</RXXXXG010>
+    <RXXXXG010 ROWNUM="146">899.14</RXXXXG010>
+    <RXXXXG010 ROWNUM="147">490.44</RXXXXG010>
+    <RXXXXG11_10 ROWNUM="1">1731.832</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="2">1731.832</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="3">1731.832</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="4">1465.324</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="5">1465.324</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="6">1030.634</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="7">1030.634</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="8">1030.634</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="9">981.556</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="10">1576.58</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="11">1467.01</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="12">112.852</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="13">144.812</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="14">34.952</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="15">19.972</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="16">63.922</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="17">43.946</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="18">148.8</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="19">158.794</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="20">1.998</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="21">79.896</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="22">46.94</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="23">41.946</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="24">2.996</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="25">6.99</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="26">69.91</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="27">18.976</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="28">4.752</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="29">2.988</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="30">4.75</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="31">155.21</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="32">367.38</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="33">4317.786</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="34">107.38</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="35">584.134</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="36">274.886</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="37">16.56</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="38">2.57</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="39">183.96</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="40">773</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="41">59.778</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="42">484.094</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="43">27.34</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="44">3.4</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="45">1.68</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="46">7.42</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="47">18.038</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="48">14.38</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="49">37.654</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="50">4.072</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="51">8.978</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="52">182.78</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="53">92.45</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="54">1057.34</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="55">170.1</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="56">406.9</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="57">23.19</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="58">25.44</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="59">3.784</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="60">2.468</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="61">1532.356</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="62">433.848</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="63">76.938</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="64">87.624</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="65">6.412</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="66">11.11</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="67">35.408</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="68">86.772</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="69">39.562</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="70">4.488</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="71">2.83</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="72">272.878</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="73">26.62</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="74">26.62</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="75">32.89</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="76">35.198</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="77">162.8</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="78">73.356</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="79">34.72</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="80">191.53</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="81">126.532</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="82">493.99</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="83">11.266</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="84">42.466</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="85">666.996</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="86">1979.812</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="87">4.31</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="88">25.372</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="89">343.462</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="90">9.846</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="91">1.39</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="92">1.966</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="93">4.026</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="94">65.808</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="95">20.968</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="96">0.842</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="97">25.95</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="98">7.63</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="99">230.32</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="100">54.094</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="101">8.226</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="102">140.126</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="103">11.676</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="104">151.804</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="105">46.708</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="106">23.354</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="107">35.032</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="108">70.064</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="109">70.064</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="110">315.286</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="111">93.418</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="112">887.468</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="113">2545.628</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="114">6819.498</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="115">163.48</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="116">11.676</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="117">280.254</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="118">3024.628</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="119">190.844</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="120">103.668</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="121">16.348</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="122">16.348</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="123">3.2</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="124">49.044</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="125">16.348</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="126">147.132</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="127">506.786</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="128">1553.056</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="129">65.392</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="130">65.392</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="131">32.696</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="132">16.348</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="133">65.392</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="134">0.8</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="135">3678.292</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="136">2337.758</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="137">1029.922</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="138">588.526</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="139">702.962</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="140">1356.882</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="141">114.436</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="142">65.392</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="143">32.696</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="144">277.916</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="145">735.658</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="146">179.828</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="147">98.088</RXXXXG11_10>
+    <RXXXXG011 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="7" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="8" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="9" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="10" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="11" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="12" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="13" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="14" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="15" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="16" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="17" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="18" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="19" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="20" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="21" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="22" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="23" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="24" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="25" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="26" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="27" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="28" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="29" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="30" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="31" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="32" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="33" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="34" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="35" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="36" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="37" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="38" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="39" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="40" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="41" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="42" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="43" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="44" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="45" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="46" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="47" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="48" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="49" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="50" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="51" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="52" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="53" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="54" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="55" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="56" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="57" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="58" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="59" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="60" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="61" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="62" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="63" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="64" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="65" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="66" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="67" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="68" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="69" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="70" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="71" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="72" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="73" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="74" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="75" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="76" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="77" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="78" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="79" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="80" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="81" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="82" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="83" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="84" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="85" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="86" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="87" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="88" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="89" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="90" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="91" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="92" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="93" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="94" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="95" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="96" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="97" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="98" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="99" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="100" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="101" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="102" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="103" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="104" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="105" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="106" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="107" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="108" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="109" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="110" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="111" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="112" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="113" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="114" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="115" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="116" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="117" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="118" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="119" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="120" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="121" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="122" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="123" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="124" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="125" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="126" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="127" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="128" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="129" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="130" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="131" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="132" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="133" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="134" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="135" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="136" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="137" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="138" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="139" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="140" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="141" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="142" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="143" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="144" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="145" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="146" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="147" xsi:nil="true" />
+    <HBOS>І.М. ГОРБАЧ</HBOS>
+    <HKBOS>3004813329</HKBOS>
+    <R003G10S xsi:nil="true" />
+  </DECLARBODY>
+</DECLAR>
