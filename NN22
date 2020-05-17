@@ -1,0 +1,141 @@
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1201010.XSD">
+  <DECLARHEAD>
+    <TIN>43194350</TIN>
+    <C_DOC>J12</C_DOC>
+    <C_DOC_SUB>010</C_DOC_SUB>
+    <C_DOC_VER>10</C_DOC_VER>
+    <C_DOC_TYPE>0</C_DOC_TYPE>
+    <C_DOC_CNT>20</C_DOC_CNT>
+    <C_REG>20</C_REG>
+    <C_RAJ>31</C_RAJ>
+    <PERIOD_MONTH>4</PERIOD_MONTH>
+    <PERIOD_TYPE>1</PERIOD_TYPE>
+    <PERIOD_YEAR>2020</PERIOD_YEAR>
+    <C_STI_ORIG>2031</C_STI_ORIG>
+    <C_DOC_STAN>1</C_DOC_STAN>
+    <LINKED_DOCS xsi:nil="true" />
+    <D_FILL>05052020</D_FILL>
+    <SOFTWARE>MEDOC</SOFTWARE>
+  </DECLARHEAD>
+  <DECLARBODY>
+    <R01G1 xsi:nil="true" />
+    <R03G10S xsi:nil="true" />
+    <HORIG1 xsi:nil="true" />
+    <HTYPR xsi:nil="true" />
+    <HFILL>17042020</HFILL>
+    <HNUM>22</HNUM>
+    <HNUM1 xsi:nil="true" />
+    <HNAMESEL>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ "ВОРТЕКС СЕРВІС"</HNAMESEL>
+    <HNAMEBUY>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "БРІЛОС"</HNAMEBUY>
+    <HKSEL>431943520318</HKSEL>
+    <HNUM2 xsi:nil="true" />
+    <HTINSEL>43194350</HTINSEL>
+    <HKBUY>419308326574</HKBUY>
+    <HFBUY xsi:nil="true" />
+    <HTINBUY>41930834</HTINBUY>
+    <R04G11>100112.48</R04G11>
+    <R03G11>16685.41</R03G11>
+    <R03G7>16685.41</R03G7>
+    <R03G109 xsi:nil="true" />
+    <R01G7>83427.07</R01G7>
+    <R01G109 xsi:nil="true" />
+    <R01G9 xsi:nil="true" />
+    <R01G8 xsi:nil="true" />
+    <R01G10 xsi:nil="true" />
+    <R02G11 xsi:nil="true" />
+    <RXXXXG3S ROWNUM="1">Купальники трикотажні жіночі, виготовлені з ниток поліаміду - 82 +/- 1% та еластомірної нитки поліуретану - 18 +/- 1%</RXXXXG3S>
+    <RXXXXG3S ROWNUM="2">Пристрій електронагрівальний, побутовий: стерилізатор манікюрних інструментів "сухожар", матеріал-пластик, напруга 220В (50 / 60Гц) (120шт.)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="3">Соковижималка сталева ручна побутова механічна (44шт.) - 252 кг;</RXXXXG3S>
+    <RXXXXG3S ROWNUM="4">Принтер для друку етикеток і квитанцій, з автообрізкою, з можливістю підключення до машин автоматичної обробки інформації через кабельні з'єднання, напруги 220В / 50Гц</RXXXXG3S>
+    <RXXXXG3S ROWNUM="5">Окуляри в металевій оправі з пластиковою лінзою</RXXXXG3S>
+    <RXXXXG3S ROWNUM="6">Контролер управління акумулятором електровелосипеда, не програмований, розрахований на напругу менш 1000В</RXXXXG3S>
+    <RXXXXG3S ROWNUM="7">Частини ручних механічних пристроїв з недорогоцінних металів: насадки для металевих шприців</RXXXXG3S>
+    <RXXXXG4 ROWNUM="1">6112419000</RXXXXG4>
+    <RXXXXG4 ROWNUM="2">8516797000</RXXXXG4>
+    <RXXXXG4 ROWNUM="3">8210000000</RXXXXG4>
+    <RXXXXG4 ROWNUM="4">8443321000</RXXXXG4>
+    <RXXXXG4 ROWNUM="5">9004901000</RXXXXG4>
+    <RXXXXG4 ROWNUM="6">8537109990</RXXXXG4>
+    <RXXXXG4 ROWNUM="7">8210000000</RXXXXG4>
+    <RXXXXG32 ROWNUM="1">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="2">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="3">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="4">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="5">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="6">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="7">1</RXXXXG32>
+    <RXXXXG33 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="7" xsi:nil="true" />
+    <RXXXXG4S ROWNUM="1">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="2">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="3">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="4">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="5">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="6">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="7">шт</RXXXXG4S>
+    <RXXXXG105_2S ROWNUM="1">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="2">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="3">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="4">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="5">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="6">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="7">2009</RXXXXG105_2S>
+    <RXXXXG5 ROWNUM="1">1652</RXXXXG5>
+    <RXXXXG5 ROWNUM="2">515</RXXXXG5>
+    <RXXXXG5 ROWNUM="3">252</RXXXXG5>
+    <RXXXXG5 ROWNUM="4">36</RXXXXG5>
+    <RXXXXG5 ROWNUM="5">3.5</RXXXXG5>
+    <RXXXXG5 ROWNUM="6">3</RXXXXG5>
+    <RXXXXG5 ROWNUM="7">10</RXXXXG5>
+    <RXXXXG6 ROWNUM="1">19.731</RXXXXG6>
+    <RXXXXG6 ROWNUM="2">54.966</RXXXXG6>
+    <RXXXXG6 ROWNUM="3">74.585</RXXXXG6>
+    <RXXXXG6 ROWNUM="4">86.857</RXXXXG6>
+    <RXXXXG6 ROWNUM="5">94.596</RXXXXG6>
+    <RXXXXG6 ROWNUM="6">40.717</RXXXXG6>
+    <RXXXXG6 ROWNUM="7">14.846</RXXXXG6>
+    <RXXXXG008 ROWNUM="1">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="2">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="3">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="4">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="5">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="6">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="7">20</RXXXXG008>
+    <RXXXXG009 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="7" xsi:nil="true" />
+    <RXXXXG010 ROWNUM="1">32595.61</RXXXXG010>
+    <RXXXXG010 ROWNUM="2">28307.49</RXXXXG010>
+    <RXXXXG010 ROWNUM="3">18795.42</RXXXXG010>
+    <RXXXXG010 ROWNUM="4">3126.85</RXXXXG010>
+    <RXXXXG010 ROWNUM="5">331.09</RXXXXG010>
+    <RXXXXG010 ROWNUM="6">122.15</RXXXXG010>
+    <RXXXXG010 ROWNUM="7">148.46</RXXXXG010>
+    <RXXXXG11_10 ROWNUM="1">6519.122</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="2">5661.498</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="3">3759.084</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="4">625.37</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="5">66.218</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="6">24.43</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="7">29.692</RXXXXG11_10>
+    <RXXXXG011 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="7" xsi:nil="true" />
+    <HBOS>І.М. ГОРБАЧ</HBOS>
+    <HKBOS>3004813329</HKBOS>
+    <R003G10S xsi:nil="true" />
+  </DECLARBODY>
+</DECLAR>
