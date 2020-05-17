@@ -1,0 +1,141 @@
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1201010.XSD">
+  <DECLARHEAD>
+    <TIN>43194350</TIN>
+    <C_DOC>J12</C_DOC>
+    <C_DOC_SUB>010</C_DOC_SUB>
+    <C_DOC_VER>10</C_DOC_VER>
+    <C_DOC_TYPE>0</C_DOC_TYPE>
+    <C_DOC_CNT>7</C_DOC_CNT>
+    <C_REG>20</C_REG>
+    <C_RAJ>31</C_RAJ>
+    <PERIOD_MONTH>4</PERIOD_MONTH>
+    <PERIOD_TYPE>1</PERIOD_TYPE>
+    <PERIOD_YEAR>2020</PERIOD_YEAR>
+    <C_STI_ORIG>2031</C_STI_ORIG>
+    <C_DOC_STAN>1</C_DOC_STAN>
+    <LINKED_DOCS xsi:nil="true" />
+    <D_FILL>30042020</D_FILL>
+    <SOFTWARE>MEDOC</SOFTWARE>
+  </DECLARHEAD>
+  <DECLARBODY>
+    <R01G1 xsi:nil="true" />
+    <R03G10S xsi:nil="true" />
+    <HORIG1 xsi:nil="true" />
+    <HTYPR xsi:nil="true" />
+    <HFILL>28042020</HFILL>
+    <HNUM>7</HNUM>
+    <HNUM1 xsi:nil="true" />
+    <HNAMESEL>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ "ВОРТЕКС СЕРВІС"</HNAMESEL>
+    <HNAMEBUY>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "СУМСЬКИЙ ЕКСПЕРТНИЙ БУДІВЕЛЬНО-ТЕХНІЧНИЙ ЦЕНТР"</HNAMEBUY>
+    <HKSEL>431943520318</HKSEL>
+    <HNUM2 xsi:nil="true" />
+    <HTINSEL>43194350</HTINSEL>
+    <HKBUY>381371218198</HKBUY>
+    <HFBUY xsi:nil="true" />
+    <HTINBUY>38137128</HTINBUY>
+    <R04G11>188434.91</R04G11>
+    <R03G11>31405.82</R03G11>
+    <R03G7>31405.82</R03G7>
+    <R03G109 xsi:nil="true" />
+    <R01G7>157029.09</R01G7>
+    <R01G109 xsi:nil="true" />
+    <R01G9 xsi:nil="true" />
+    <R01G8 xsi:nil="true" />
+    <R01G10 xsi:nil="true" />
+    <R02G11 xsi:nil="true" />
+    <RXXXXG3S ROWNUM="1">Сополімери поліпропілену в гранулах, призначений для виробництва литих і екструзійних виробів</RXXXXG3S>
+    <RXXXXG3S ROWNUM="2">Фітинги та кріпильні комплекти пластикові, призначені для постійного встановлення на стінах будівель: тримач термодатчика</RXXXXG3S>
+    <RXXXXG3S ROWNUM="3">Фурнітура галантерейна і швейна, пластикова: фіксатори для стрічок</RXXXXG3S>
+    <RXXXXG3S ROWNUM="4">Вироби із пластику: прокладка</RXXXXG3S>
+    <RXXXXG3S ROWNUM="5">Шланг з вулканізованої непористої гуми, армований металом, з фітингами</RXXXXG3S>
+    <RXXXXG3S ROWNUM="6">Каталоги рекламні товарні, без вказівки цін</RXXXXG3S>
+    <RXXXXG3S ROWNUM="7">Автоматична горизонтальна пакувальна машина</RXXXXG3S>
+    <RXXXXG4 ROWNUM="1">3902300090</RXXXXG4>
+    <RXXXXG4 ROWNUM="2">3925901000</RXXXXG4>
+    <RXXXXG4 ROWNUM="3">3926909790</RXXXXG4>
+    <RXXXXG4 ROWNUM="4">3926909790</RXXXXG4>
+    <RXXXXG4 ROWNUM="5">4009220000</RXXXXG4>
+    <RXXXXG4 ROWNUM="6">4911109000</RXXXXG4>
+    <RXXXXG4 ROWNUM="7">8422300099</RXXXXG4>
+    <RXXXXG32 ROWNUM="1">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="2">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="3">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="4">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="5">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="6">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="7">1</RXXXXG32>
+    <RXXXXG33 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="7" xsi:nil="true" />
+    <RXXXXG4S ROWNUM="1">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="2">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="3">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="4">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="5">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="6">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="7">шт</RXXXXG4S>
+    <RXXXXG105_2S ROWNUM="1">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="2">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="3">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="4">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="5">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="6">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="7">2009</RXXXXG105_2S>
+    <RXXXXG5 ROWNUM="1">50</RXXXXG5>
+    <RXXXXG5 ROWNUM="2">11</RXXXXG5>
+    <RXXXXG5 ROWNUM="3">116</RXXXXG5>
+    <RXXXXG5 ROWNUM="4">3.5</RXXXXG5>
+    <RXXXXG5 ROWNUM="5">7</RXXXXG5>
+    <RXXXXG5 ROWNUM="6">0.5</RXXXXG5>
+    <RXXXXG5 ROWNUM="7">1</RXXXXG5>
+    <RXXXXG6 ROWNUM="1">42.752</RXXXXG6>
+    <RXXXXG6 ROWNUM="2">35.845</RXXXXG6>
+    <RXXXXG6 ROWNUM="3">41.464</RXXXXG6>
+    <RXXXXG6 ROWNUM="4">25.19</RXXXXG6>
+    <RXXXXG6 ROWNUM="5">32.843</RXXXXG6>
+    <RXXXXG6 ROWNUM="6">13</RXXXXG6>
+    <RXXXXG6 ROWNUM="7">149362.8</RXXXXG6>
+    <RXXXXG008 ROWNUM="1">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="2">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="3">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="4">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="5">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="6">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="7">20</RXXXXG008>
+    <RXXXXG009 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="7" xsi:nil="true" />
+    <RXXXXG010 ROWNUM="1">2137.60</RXXXXG010>
+    <RXXXXG010 ROWNUM="2">394.30</RXXXXG010>
+    <RXXXXG010 ROWNUM="3">4809.82</RXXXXG010>
+    <RXXXXG010 ROWNUM="4">88.17</RXXXXG010>
+    <RXXXXG010 ROWNUM="5">229.90</RXXXXG010>
+    <RXXXXG010 ROWNUM="6">6.50</RXXXXG010>
+    <RXXXXG010 ROWNUM="7">149362.80</RXXXXG010>
+    <RXXXXG11_10 ROWNUM="1">427.52</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="2">78.86</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="3">961.964</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="4">17.634</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="5">45.98</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="6">1.3</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="7">29872.56</RXXXXG11_10>
+    <RXXXXG011 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="7" xsi:nil="true" />
+    <HBOS>І.М. ГОРБАЧ</HBOS>
+    <HKBOS>3004813329</HKBOS>
+    <R003G10S xsi:nil="true" />
+  </DECLARBODY>
+</DECLAR>
