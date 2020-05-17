@@ -1,0 +1,284 @@
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1201010.XSD">
+  <DECLARHEAD>
+    <TIN>43194350</TIN>
+    <C_DOC>J12</C_DOC>
+    <C_DOC_SUB>010</C_DOC_SUB>
+    <C_DOC_VER>10</C_DOC_VER>
+    <C_DOC_TYPE>0</C_DOC_TYPE>
+    <C_DOC_CNT>25</C_DOC_CNT>
+    <C_REG>20</C_REG>
+    <C_RAJ>31</C_RAJ>
+    <PERIOD_MONTH>4</PERIOD_MONTH>
+    <PERIOD_TYPE>1</PERIOD_TYPE>
+    <PERIOD_YEAR>2020</PERIOD_YEAR>
+    <C_STI_ORIG>2031</C_STI_ORIG>
+    <C_DOC_STAN>1</C_DOC_STAN>
+    <LINKED_DOCS xsi:nil="true" />
+    <D_FILL>07052020</D_FILL>
+    <SOFTWARE>MEDOC</SOFTWARE>
+  </DECLARHEAD>
+  <DECLARBODY>
+    <R01G1 xsi:nil="true" />
+    <R03G10S xsi:nil="true" />
+    <HORIG1 xsi:nil="true" />
+    <HTYPR xsi:nil="true" />
+    <HFILL>28042020</HFILL>
+    <HNUM>29</HNUM>
+    <HNUM1 xsi:nil="true" />
+    <HNAMESEL>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ "ВОРТЕКС СЕРВІС"</HNAMESEL>
+    <HNAMEBUY>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "МОЛЬВІВ-ГРУП"</HNAMEBUY>
+    <HKSEL>431943520318</HKSEL>
+    <HNUM2 xsi:nil="true" />
+    <HTINSEL>43194350</HTINSEL>
+    <HKBUY>402638013058</HKBUY>
+    <HFBUY xsi:nil="true" />
+    <HTINBUY>40263803</HTINBUY>
+    <R04G11>111917.74</R04G11>
+    <R03G11>18652.96</R03G11>
+    <R03G7>18652.96</R03G7>
+    <R03G109 xsi:nil="true" />
+    <R01G7>93264.78</R01G7>
+    <R01G109 xsi:nil="true" />
+    <R01G9 xsi:nil="true" />
+    <R01G8 xsi:nil="true" />
+    <R01G10 xsi:nil="true" />
+    <R02G11 xsi:nil="true" />
+    <RXXXXG3S ROWNUM="1">Принтер для друку етикеток і квитанцій, з автообрізкою, з можливістю підключення до машин автоматичної обробки інформації через кабельні з'єднання, напруги 220В / 50Гц</RXXXXG3S>
+    <RXXXXG3S ROWNUM="2">Принтер для друку етикеток і квитанцій, з автообрізкою, з можливістю підключення до машин автоматичної обробки інформації через кабельні з'єднання, напруги 220В / 50Гц</RXXXXG3S>
+    <RXXXXG3S ROWNUM="3">Принтер для друку етикеток і квитанцій, з автообрізкою, з можливістю підключення до машин автоматичної обробки інформації через кабельні з'єднання, напруги 220В / 50Гц</RXXXXG3S>
+    <RXXXXG3S ROWNUM="4">Принтер для друку етикеток і квитанцій, з автообрізкою, з можливістю підключення до машин автоматичної обробки інформації через кабельні з'єднання, напруги 220В / 50Гц</RXXXXG3S>
+    <RXXXXG3S ROWNUM="5">Принтер для друку етикеток і квитанцій, з автообрізкою, з можливістю підключення до машин автоматичної обробки інформації через кабельні з'єднання, напруги 220В / 50Гц</RXXXXG3S>
+    <RXXXXG3S ROWNUM="6">Принтер для друку етикеток і квитанцій, з автообрізкою, з можливістю підключення до машин автоматичної обробки інформації через кабельні з'єднання, напруги 220В / 50Гц</RXXXXG3S>
+    <RXXXXG3S ROWNUM="7">Принтер для друку етикеток і квитанцій, з автообрізкою, з можливістю підключення до машин автоматичної обробки інформації через кабельні з'єднання, напруги 220В / 50Гц</RXXXXG3S>
+    <RXXXXG3S ROWNUM="8">Принтер для друку етикеток і квитанцій, з автообрізкою, з можливістю підключення до машин автоматичної обробки інформації через кабельні з'єднання, напруги 220В / 50Гц</RXXXXG3S>
+    <RXXXXG3S ROWNUM="9">Верстат настільний для заточування різального інструменту, без ЧПУ, потужність 700Вт, напруга 220В</RXXXXG3S>
+    <RXXXXG3S ROWNUM="10">Серветки трикотажні, призначені для протирання пилу з лінз окулярів</RXXXXG3S>
+    <RXXXXG3S ROWNUM="11">Машинка швейна промислова, напівавтоматична, "оверлок", потужність 550Вт, напруга 220Вт / 50Гц, в частково розібраному вигляді, з комплектом ЗІП</RXXXXG3S>
+    <RXXXXG3S ROWNUM="12">Пристрій електронагрівальний, побутове: УФ сушка-лампа для нігтів для сушки гель-лаку, матеріал-пластик, напруга 100-240В (50 / 60Гц) (120шт.)</RXXXXG3S>
+    <RXXXXG3S ROWNUM="13">Устаткування для сільського господарства, машини для приготування кормів для тварин, торгова назва: кормоподрюбнювач , напруга мережі 220 / В, частота струму 50 / 60Гц</RXXXXG3S>
+    <RXXXXG3S ROWNUM="14">Устаткування для сільського господарства, машини для приготування кормів для тварин, торгова назва: кормоподрюбнювач , напруга мережі 220 / В, частота струму 50 / 60Гц</RXXXXG3S>
+    <RXXXXG3S ROWNUM="15">Устаткування для сільського господарства, машини для приготування кормів для тварин, торгова назва: кормоподрюбнювач , напруга мережі 220 / В, частота струму 50 / 60Гц</RXXXXG3S>
+    <RXXXXG3S ROWNUM="16">Устаткування для сільського господарства, машини для приготування кормів для тварин, торгова назва: кормоподрюбнювач , напруга мережі 220 / В, частота струму 50 / 60Гц</RXXXXG3S>
+    <RXXXXG3S ROWNUM="17">Машини електромеханічні побутові, з вмонтованим електродвигуном 220В (50 / 60Гц), міксери харчових продуктів: молочний шейкер-морозивниця з ЗІП</RXXXXG3S>
+    <RXXXXG3S ROWNUM="18">Ручні механічні пристрої з недорогоцінних металіві: металеві шприци</RXXXXG3S>
+    <RXXXXG4 ROWNUM="1">8443321000</RXXXXG4>
+    <RXXXXG4 ROWNUM="2">8443321000</RXXXXG4>
+    <RXXXXG4 ROWNUM="3">8443321000</RXXXXG4>
+    <RXXXXG4 ROWNUM="4">8443321000</RXXXXG4>
+    <RXXXXG4 ROWNUM="5">8443321000</RXXXXG4>
+    <RXXXXG4 ROWNUM="6">8443321000</RXXXXG4>
+    <RXXXXG4 ROWNUM="7">8443321000</RXXXXG4>
+    <RXXXXG4 ROWNUM="8">8443321000</RXXXXG4>
+    <RXXXXG4 ROWNUM="9">8460390000</RXXXXG4>
+    <RXXXXG4 ROWNUM="10">6307101000</RXXXXG4>
+    <RXXXXG4 ROWNUM="11">8452290000</RXXXXG4>
+    <RXXXXG4 ROWNUM="12">8516797000</RXXXXG4>
+    <RXXXXG4 ROWNUM="13">8436100000</RXXXXG4>
+    <RXXXXG4 ROWNUM="14">8436100000</RXXXXG4>
+    <RXXXXG4 ROWNUM="15">8436100000</RXXXXG4>
+    <RXXXXG4 ROWNUM="16">8436100000</RXXXXG4>
+    <RXXXXG4 ROWNUM="17">8509400000</RXXXXG4>
+    <RXXXXG4 ROWNUM="18">8210000000</RXXXXG4>
+    <RXXXXG32 ROWNUM="1">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="2">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="3">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="4">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="5">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="6">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="7">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="8">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="9">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="10">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="11">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="12">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="13">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="14">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="15">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="16">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="17">1</RXXXXG32>
+    <RXXXXG32 ROWNUM="18">1</RXXXXG32>
+    <RXXXXG33 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="7" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="8" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="9" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="10" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="11" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="12" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="13" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="14" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="15" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="16" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="17" xsi:nil="true" />
+    <RXXXXG33 ROWNUM="18" xsi:nil="true" />
+    <RXXXXG4S ROWNUM="1">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="2">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="3">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="4">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="5">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="6">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="7">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="8">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="9">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="10">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="11">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="12">кг</RXXXXG4S>
+    <RXXXXG4S ROWNUM="13">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="14">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="15">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="16">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="17">шт</RXXXXG4S>
+    <RXXXXG4S ROWNUM="18">шт</RXXXXG4S>
+    <RXXXXG105_2S ROWNUM="1">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="2">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="3">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="4">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="5">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="6">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="7">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="8">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="9">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="10">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="11">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="12">0301</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="13">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="14">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="15">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="16">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="17">2009</RXXXXG105_2S>
+    <RXXXXG105_2S ROWNUM="18">2009</RXXXXG105_2S>
+    <RXXXXG5 ROWNUM="1">60</RXXXXG5>
+    <RXXXXG5 ROWNUM="2">16</RXXXXG5>
+    <RXXXXG5 ROWNUM="3">72</RXXXXG5>
+    <RXXXXG5 ROWNUM="4">30</RXXXXG5>
+    <RXXXXG5 ROWNUM="5">108</RXXXXG5>
+    <RXXXXG5 ROWNUM="6">108</RXXXXG5>
+    <RXXXXG5 ROWNUM="7">24</RXXXXG5>
+    <RXXXXG5 ROWNUM="8">48</RXXXXG5>
+    <RXXXXG5 ROWNUM="9">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="10">22</RXXXXG5>
+    <RXXXXG5 ROWNUM="11">1</RXXXXG5>
+    <RXXXXG5 ROWNUM="12">90</RXXXXG5>
+    <RXXXXG5 ROWNUM="13">8</RXXXXG5>
+    <RXXXXG5 ROWNUM="14">4</RXXXXG5>
+    <RXXXXG5 ROWNUM="15">3</RXXXXG5>
+    <RXXXXG5 ROWNUM="16">3</RXXXXG5>
+    <RXXXXG5 ROWNUM="17">100</RXXXXG5>
+    <RXXXXG5 ROWNUM="18">10</RXXXXG5>
+    <RXXXXG6 ROWNUM="1">92.092</RXXXXG6>
+    <RXXXXG6 ROWNUM="2">254.323</RXXXXG6>
+    <RXXXXG6 ROWNUM="3">71.389</RXXXXG6>
+    <RXXXXG6 ROWNUM="4">142.778</RXXXXG6>
+    <RXXXXG6 ROWNUM="5">61.474</RXXXXG6>
+    <RXXXXG6 ROWNUM="6">63.853</RXXXXG6>
+    <RXXXXG6 ROWNUM="7">101.729</RXXXXG6>
+    <RXXXXG6 ROWNUM="8">97.268</RXXXXG6>
+    <RXXXXG6 ROWNUM="9">197.4</RXXXXG6>
+    <RXXXXG6 ROWNUM="10">88.773</RXXXXG6>
+    <RXXXXG6 ROWNUM="11">5074.05</RXXXXG6>
+    <RXXXXG6 ROWNUM="12">50.777</RXXXXG6>
+    <RXXXXG6 ROWNUM="13">745.013</RXXXXG6>
+    <RXXXXG6 ROWNUM="14">1490.026</RXXXXG6>
+    <RXXXXG6 ROWNUM="15">1480.536</RXXXXG6>
+    <RXXXXG6 ROWNUM="16">1746.273</RXXXXG6>
+    <RXXXXG6 ROWNUM="17">128.72</RXXXXG6>
+    <RXXXXG6 ROWNUM="18">733.405</RXXXXG6>
+    <RXXXXG008 ROWNUM="1">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="2">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="3">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="4">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="5">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="6">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="7">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="8">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="9">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="10">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="11">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="12">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="13">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="14">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="15">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="16">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="17">20</RXXXXG008>
+    <RXXXXG008 ROWNUM="18">20</RXXXXG008>
+    <RXXXXG009 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="7" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="8" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="9" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="10" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="11" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="12" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="13" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="14" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="15" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="16" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="17" xsi:nil="true" />
+    <RXXXXG009 ROWNUM="18" xsi:nil="true" />
+    <RXXXXG010 ROWNUM="1">5525.52</RXXXXG010>
+    <RXXXXG010 ROWNUM="2">4069.17</RXXXXG010>
+    <RXXXXG010 ROWNUM="3">5140.01</RXXXXG010>
+    <RXXXXG010 ROWNUM="4">4283.34</RXXXXG010>
+    <RXXXXG010 ROWNUM="5">6639.19</RXXXXG010>
+    <RXXXXG010 ROWNUM="6">6896.12</RXXXXG010>
+    <RXXXXG010 ROWNUM="7">2441.50</RXXXXG010>
+    <RXXXXG010 ROWNUM="8">4668.86</RXXXXG010>
+    <RXXXXG010 ROWNUM="9">197.40</RXXXXG010>
+    <RXXXXG010 ROWNUM="10">1953.01</RXXXXG010>
+    <RXXXXG010 ROWNUM="11">5074.05</RXXXXG010>
+    <RXXXXG010 ROWNUM="12">4569.93</RXXXXG010>
+    <RXXXXG010 ROWNUM="13">5960.10</RXXXXG010>
+    <RXXXXG010 ROWNUM="14">5960.10</RXXXXG010>
+    <RXXXXG010 ROWNUM="15">4441.61</RXXXXG010>
+    <RXXXXG010 ROWNUM="16">5238.82</RXXXXG010>
+    <RXXXXG010 ROWNUM="17">12872.00</RXXXXG010>
+    <RXXXXG010 ROWNUM="18">7334.05</RXXXXG010>
+    <RXXXXG11_10 ROWNUM="1">1105.104</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="2">813.834</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="3">1028.002</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="4">856.668</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="5">1327.838</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="6">1379.224</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="7">488.3</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="8">933.772</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="9">39.48</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="10">390.602</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="11">1014.81</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="12">913.986</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="13">1192.02</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="14">1192.02</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="15">888.322</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="16">1047.764</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="17">2574.4</RXXXXG11_10>
+    <RXXXXG11_10 ROWNUM="18">1466.81</RXXXXG11_10>
+    <RXXXXG011 ROWNUM="1" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="2" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="3" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="4" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="5" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="6" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="7" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="8" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="9" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="10" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="11" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="12" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="13" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="14" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="15" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="16" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="17" xsi:nil="true" />
+    <RXXXXG011 ROWNUM="18" xsi:nil="true" />
+    <HBOS>І.М. ГОРБАЧ</HBOS>
+    <HKBOS>3004813329</HKBOS>
+    <R003G10S xsi:nil="true" />
+  </DECLARBODY>
+</DECLAR>
