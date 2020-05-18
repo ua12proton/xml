@@ -1,999 +1,342 @@
 <?xml version="1.0" encoding="windows-1251"?>
-<ccd version="2">
-  <ccd_submitted>20200518T132321</ccd_submitted>
-  <guid>94b73f69-5070-4a78-a499-0a3bfd26ee19</guid>
-  <ccd_typeid>223</ccd_typeid>
-  <ccd_registered>20200518T165310</ccd_registered>
-  <ccd_status>R</ccd_status>
-  <ccd_01_01> ІМ</ccd_01_01>
-  <ccd_01_02>40</ccd_01_02>
-  <ccd_01_03>ДЕ</ccd_01_03>
-  <ccd_md8>0</ccd_md8>
-  <ccd_03_01>3</ccd_03_01>
-  <ccd_04_01>1</ccd_04_01>
-  <ccd_04_02>0</ccd_04_02>
-  <ccd_05_01>7</ccd_05_01>
-  <ccd_06_01>1226</ccd_06_01>
-  <ccd_07_01>UA807200</ccd_07_01>
-  <ccd_07_02>2020</ccd_07_02>
-  <ccd_07_03>7589</ccd_07_03>
-  <ccd_07_04>1073</ccd_07_04>
-  <ccd_11_01>CN</ccd_11_01>
-  <ccd_12_01>1464970.40</ccd_12_01>
-  <ccd_15_01>CN</ccd_15_01>
-  <ccd_18_04>0</ccd_18_04>
-  <ccd_19_01>1</ccd_19_01>
-  <ccd_20_01>CPT</ccd_20_01>
-  <ccd_20_cnt>UA</ccd_20_cnt>
-  <ccd_20_02>м.Харків</ccd_20_02>
-  <ccd_21_04>0</ccd_21_04>
-  <ccd_22_01>USD</ccd_22_01>
-  <ccd_22_cur>840</ccd_22_cur>
-  <ccd_22_date>20200518T132321</ccd_22_date>
-  <ccd_22_02>52548.2000</ccd_22_02>
-  <ccd_22_03>52548.2000</ccd_22_03>
-  <ccd_23_01>26.63800000</ccd_23_01>
-  <ccd_24_01>11</ccd_24_01>
-  <ccd_24_02>USD</ccd_24_02>
-  <ccd_25_01>11</ccd_25_01>
-  <ccd_26_01>31</ccd_26_01>
-  <ccd_29_01>UA500040</ccd_29_01>
-  <ccd_54_02>Лисенко А.В.</ccd_54_02>
-  <ccd_54_04>3332704939</ccd_54_04>
-  <ccd_54_05>profi.still.itd@gmail.com</ccd_54_05>
-  <ccd_54_06>+380996769351</ccd_54_06>
-  <ccd_sar_color>0</ccd_sar_color>
-  <ccd_ext_mov>1</ccd_ext_mov>
-  <ccd_int_mov>1</ccd_int_mov>
-  <ccd_cust_dest>807-016-1-1</ccd_cust_dest>
-  <ccd_cr>0</ccd_cr>
-  <ccd_client>
-    <ccd_cl_gr>2</ccd_cl_gr>
-    <ccd_cl_pos>1</ccd_cl_pos>
-    <ccd_cl_cnt>CN</ccd_cl_cnt>
-    <ccd_cl_name>SUZHOU ZHUOFANG IMP. &amp; EXP. CO.,   LTD.</ccd_cl_name>
-    <ccd_cl_adr>2-1-59, NO. 999, XIERHUAN ROAD, SHE NGZE TOWN, WUJIANG CITY, SUZHOU,   CHINA.</ccd_cl_adr>
-  </ccd_client>
-  <ccd_client>
-    <ccd_cl_gr>8</ccd_cl_gr>
-    <ccd_cl_pos>1</ccd_cl_pos>
-    <ccd_cl_cnt>UA</ccd_cl_cnt>
-    <ccd_cl_code>43233703</ccd_cl_code>
-    <ccd_cl_name>ТОВ "ПРОФІСТАЛЬ ЛТД"</ccd_cl_name>
-    <ccd_cl_adr>Україна,61023,м.Харків,вул.Пушкінсь ка,буд.106</ccd_cl_adr>
-    <ccd_cl_uori>UA10043233703</ccd_cl_uori>
-  </ccd_client>
-  <ccd_client>
-    <ccd_cl_gr>9</ccd_cl_gr>
-    <ccd_cl_pos>1</ccd_cl_pos>
-    <ccd_cl_cnt>UA</ccd_cl_cnt>
-    <ccd_cl_code>43233703</ccd_cl_code>
-    <ccd_cl_name>ТОВ "ПРОФІСТАЛЬ ЛТД"</ccd_cl_name>
-    <ccd_cl_adr>Україна,61023,м.Харків,вул.Пушкінсь ка,буд.106</ccd_cl_adr>
-    <ccd_cl_uori>UA10043233703</ccd_cl_uori>
-  </ccd_client>
-  <ccd_client>
-    <ccd_cl_gr>14</ccd_cl_gr>
-    <ccd_cl_pos>1</ccd_cl_pos>
-    <ccd_cl_cnt>UA</ccd_cl_cnt>
-    <ccd_cl_code>43233703</ccd_cl_code>
-    <ccd_cl_name>ТОВ "ПРОФІСТАЛЬ ЛТД"</ccd_cl_name>
-    <ccd_cl_adr>Україна,61023,м.Харків,вул.Пушкінсь ка,буд.106</ccd_cl_adr>
-    <ccd_cl_uori>UA10043233703</ccd_cl_uori>
-  </ccd_client>
-  <ccd_bank>
-    <ccd_bn_gr>28</ccd_bn_gr>
-    <ccd_bn_pos>1</ccd_bn_pos>
-    <ccd_cl_gr>9</ccd_cl_gr>
-    <ccd_cl_pos>1</ccd_cl_pos>
-    <ccd_bn_cnt>UA</ccd_bn_cnt>
-    <ccd_bn_name>ПАТ "ІДЕЯ БАНК"</ccd_bn_name>
-    <ccd_bn_code>19390819</ccd_bn_code>
-    <ccd_bn_mfo>336310</ccd_bn_mfo>
-  </ccd_bank>
-  <ccd_marks>
-    <ccd_mk_type>2</ccd_mk_type>
-    <ccd_mk_cust>807</ccd_mk_cust>
-    <ccd_mk_number>319</ccd_mk_number>
-    <ccd_mk_date>20200518</ccd_mk_date>
-  </ccd_marks>
-  <ccd_marks>
-    <ccd_mk_type>1</ccd_mk_type>
-    <ccd_mk_cust>807</ccd_mk_cust>
-    <ccd_mk_number>324</ccd_mk_number>
-    <ccd_mk_date>20200518</ccd_mk_date>
-  </ccd_marks>
-  <ccd_transport>
-    <ccd_trn_gr>18</ccd_trn_gr>
-    <ccd_trn_name>BH0928EX/BH6249XM</ccd_trn_name>
-    <ccd_trn_cnt>UA</ccd_trn_cnt>
-  </ccd_transport>
-  <ccd_transport>
-    <ccd_trn_gr>21</ccd_trn_gr>
-    <ccd_trn_name>MSC TINA FT014W</ccd_trn_name>
-  </ccd_transport>
-  <ccd_payment>
-    <ccd_pay_code>20</ccd_pay_code>
-    <ccd_pay_sp>01</ccd_pay_sp>
-    <ccd_pay_sum>72810.26</ccd_pay_sum>
-    <ccd_pay_cur>UAH</ccd_pay_cur>
-    <ccd_payer>43233703</ccd_payer>
-  </ccd_payment>
-  <ccd_payment>
-    <ccd_pay_code>28</ccd_pay_code>
-    <ccd_pay_sp>01</ccd_pay_sp>
-    <ccd_pay_sum>307556.12</ccd_pay_sum>
-    <ccd_pay_cur>UAH</ccd_pay_cur>
-    <ccd_payer>43233703</ccd_payer>
-    <ccd_vat_cred_code>43233703</ccd_vat_cred_code>
-  </ccd_payment>
-  <ccd_goods>
-    <ccd_32_01>1</ccd_32_01>
-    <ccd_31_01>1.Тканина текстильна синтетична
-пофарбована, виготовлена з комплексних
-синтетичних нетекстурованих поліефірних
-ниток на 100%, без просочення і
-покриття, шириною більше 30см. 50416,00
-м2. -4825кг.
-Торговельна марка : немає даних
-Країна виробництва : CN
-Виробник : SUZHOU ZHUOFANG IMP. &amp; EXP.
-CO., LTD.</ccd_31_01>
-    <ccd_31_02>1</ccd_31_02>
-    <ccd_31_03>294</ccd_31_03>
-    <ccd_31_03p>0</ccd_31_03p>
-    <ccd_31_04>50416.00000000</ccd_31_04>
-    <ccd_33_01>5407613000</ccd_33_01>
-    <ccd_33_03>0</ccd_33_03>
-    <ccd_34_01>CN</ccd_34_01>
-    <ccd_35_01>4971.50000000</ccd_35_01>
-    <ccd_36_02>0</ccd_36_02>
-    <ccd_36_03>0</ccd_36_03>
-    <ccd_36_04>0</ccd_36_04>
-    <ccd_37_01>40</ccd_37_01>
-    <ccd_37_02>0</ccd_37_02>
-    <ccd_37_03>ZZ</ccd_37_03>
-    <ccd_37_04>00</ccd_37_04>
-    <ccd_38_01>4825.00000000</ccd_38_01>
-    <ccd_41_01>55</ccd_41_01>
-    <ccd_42_01>16405.0000</ccd_42_01>
-    <ccd_42_02>16405.0000</ccd_42_02>
-    <ccd_43_01>6</ccd_43_01>
-    <ccd_45_01>451134.51</ccd_45_01>
-    <ccd_46_01>451.13451</ccd_46_01>
-    <ccd_dcc_method>6</ccd_dcc_method>
-    <ccd_goods_cont>
-      <ccd_cnt_type>221</ccd_cnt_type>
-      <ccd_cnt_name>WFHU5177050</ccd_cnt_name>
-      <ccd_cnt_ispart>2</ccd_cnt_ispart>
-    </ccd_goods_cont>
-    <ccd_goods_dcc>
-      <ccd_dcc_code>89</ccd_dcc_code>
-      <ccd_dcc_cur>840</ccd_dcc_cur>
-      <ccd_dcc_cur_rate>26.63800000</ccd_dcc_cur_rate>
-      <ccd_dcc_price>3.5100</ccd_dcc_price>
-      <ccd_dcc_quant>4825.0000</ccd_dcc_quant>
-      <ccd_dcc_unit>166</ccd_dcc_unit>
-      <ccd_dcc_sum_cur>16935.7500</ccd_dcc_sum_cur>
-      <ccd_dcc_sum>451134.5085</ccd_dcc_sum>
-    </ccd_goods_dcc>
-    <ccd_goods_prv>
-      <ccd_doc_code>1801</ccd_doc_code>
-      <ccd_doc_name>UA807000/2020/908884</ccd_doc_name>
-      <ccd_doc_date_beg>20200515</ccd_doc_date_beg>
-      <ccd_doc_goods>1</ccd_doc_goods>
-    </ccd_goods_prv>
-    <ccd_goods_pay>
-      <ccd_47_code>20</ccd_47_code>
-      <ccd_47_base>451134.510</ccd_47_base>
-      <ccd_47_base_type>UAH</ccd_47_base_type>
-      <ccd_47_tax>5.0000</ccd_47_tax>
-      <ccd_47_tax_type>%</ccd_47_tax_type>
-      <ccd_47_sum>22556.73</ccd_47_sum>
-      <ccd_47_sp>01</ccd_47_sp>
-      <ccd_47_cur>UAH</ccd_47_cur>
-      <ccd_47_hidden>0</ccd_47_hidden>
-    </ccd_goods_pay>
-    <ccd_goods_pay>
-      <ccd_47_code>28</ccd_47_code>
-      <ccd_47_base>473691.240</ccd_47_base>
-      <ccd_47_base_type>UAH</ccd_47_base_type>
-      <ccd_47_tax>20.0000</ccd_47_tax>
-      <ccd_47_tax_type>%</ccd_47_tax_type>
-      <ccd_47_sum>94738.25</ccd_47_sum>
-      <ccd_47_sp>01</ccd_47_sp>
-      <ccd_47_cur>UAH</ccd_47_cur>
-      <ccd_47_hidden>0</ccd_47_hidden>
-    </ccd_goods_pay>
-    <ccd_inv_pos>
-      <ccd_inv_pos>1</ccd_inv_pos>
-      <ccd_inv_name>Тканина текстильна синтетична пофарбована, виготовлена з комплексних синтетичних нетекстурованих поліефірних ниток на 100%, без просочення і покриття, шириною більше 30см. 50416,00 м2.</ccd_inv_name>
-      <ccd_inv_price>3.40000000</ccd_inv_price>
-      <ccd_inv_sum_cur>16405.0000</ccd_inv_sum_cur>
-      <ccd_inv_qty>4825.00000000</ccd_inv_qty>
-      <ccd_inv_unit>166</ccd_inv_unit>
-      <ccd_inv_tm>немає даних</ccd_inv_tm>
-      <ccd_inv_prod_name>SUZHOU ZHUOFANG IMP. &amp; EXP. CO., LTD.</ccd_inv_prod_name>
-      <ccd_inv_prod_cnt>CN</ccd_inv_prod_cnt>
-      <ccd_inv_det>
-        <ccd_id_code>162</ccd_id_code>
-        <ccd_id_value>1</ccd_id_value>
-      </ccd_inv_det>
-      <ccd_inv_det>
-        <ccd_id_code>511</ccd_id_code>
-        <ccd_id_value>7</ccd_id_value>
-      </ccd_inv_det>
-    </ccd_inv_pos>
-    <ccd_goods_pack>
-      <pk_id>1813368</pk_id>
-      <ccd_pk_code>44</ccd_pk_code>
-      <ccd_pk_qty>294.000</ccd_pk_qty>
-    </ccd_goods_pack>
-  </ccd_goods>
-  <ccd_goods>
-    <ccd_32_01>2</ccd_32_01>
-    <ccd_31_01>1.Тканина текстильна синтетична з ниток
-різних кольорів виготовлена з
-комплексних синтетичних поліефірних
-текстурованих ниток на 100%, шириною
-більше 30см. 20895,60 м2. -6491кг.
-Торговельна марка : немає даних
-Країна виробництва : CN
-Виробник : SUZHOU ZHUOFANG IMP. &amp; EXP.
-CO., LTD.</ccd_31_01>
-    <ccd_31_02>1</ccd_31_02>
-    <ccd_31_03>295</ccd_31_03>
-    <ccd_31_03p>0</ccd_31_03p>
-    <ccd_31_04>20895.60000000</ccd_31_04>
-    <ccd_33_01>5407530000</ccd_33_01>
-    <ccd_33_03>0</ccd_33_03>
-    <ccd_34_01>CN</ccd_34_01>
-    <ccd_35_01>6688.00000000</ccd_35_01>
-    <ccd_36_02>0</ccd_36_02>
-    <ccd_36_03>0</ccd_36_03>
-    <ccd_36_04>0</ccd_36_04>
-    <ccd_37_01>40</ccd_37_01>
-    <ccd_37_02>0</ccd_37_02>
-    <ccd_37_03>ZZ</ccd_37_03>
-    <ccd_37_04>00</ccd_37_04>
-    <ccd_38_01>6491.00000000</ccd_38_01>
-    <ccd_41_01>55</ccd_41_01>
-    <ccd_42_01>22069.4000</ccd_42_01>
-    <ccd_42_02>22069.4000</ccd_42_02>
-    <ccd_43_01>6</ccd_43_01>
-    <ccd_45_01>606904.48</ccd_45_01>
-    <ccd_46_01>606.90448</ccd_46_01>
-    <ccd_dcc_method>6</ccd_dcc_method>
-    <ccd_goods_cont>
-      <ccd_cnt_type>221</ccd_cnt_type>
-      <ccd_cnt_name>WFHU5177050</ccd_cnt_name>
-      <ccd_cnt_ispart>2</ccd_cnt_ispart>
-    </ccd_goods_cont>
-    <ccd_goods_dcc>
-      <ccd_dcc_code>89</ccd_dcc_code>
-      <ccd_dcc_cur>840</ccd_dcc_cur>
-      <ccd_dcc_cur_rate>26.63800000</ccd_dcc_cur_rate>
-      <ccd_dcc_price>3.5100</ccd_dcc_price>
-      <ccd_dcc_quant>6491.0000</ccd_dcc_quant>
-      <ccd_dcc_unit>166</ccd_dcc_unit>
-      <ccd_dcc_sum_cur>22783.4100</ccd_dcc_sum_cur>
-      <ccd_dcc_sum>606904.4756</ccd_dcc_sum>
-    </ccd_goods_dcc>
-    <ccd_goods_prv>
-      <ccd_doc_code>1801</ccd_doc_code>
-      <ccd_doc_name>UA807000/2020/908884</ccd_doc_name>
-      <ccd_doc_date_beg>20200515</ccd_doc_date_beg>
-      <ccd_doc_goods>1</ccd_doc_goods>
-    </ccd_goods_prv>
-    <ccd_goods_pay>
-      <ccd_47_code>20</ccd_47_code>
-      <ccd_47_base>606904.480</ccd_47_base>
-      <ccd_47_base_type>UAH</ccd_47_base_type>
-      <ccd_47_tax>5.0000</ccd_47_tax>
-      <ccd_47_tax_type>%</ccd_47_tax_type>
-      <ccd_47_sum>30345.22</ccd_47_sum>
-      <ccd_47_sp>01</ccd_47_sp>
-      <ccd_47_cur>UAH</ccd_47_cur>
-      <ccd_47_hidden>0</ccd_47_hidden>
-    </ccd_goods_pay>
-    <ccd_goods_pay>
-      <ccd_47_code>28</ccd_47_code>
-      <ccd_47_base>637249.700</ccd_47_base>
-      <ccd_47_base_type>UAH</ccd_47_base_type>
-      <ccd_47_tax>20.0000</ccd_47_tax>
-      <ccd_47_tax_type>%</ccd_47_tax_type>
-      <ccd_47_sum>127449.94</ccd_47_sum>
-      <ccd_47_sp>01</ccd_47_sp>
-      <ccd_47_cur>UAH</ccd_47_cur>
-      <ccd_47_hidden>0</ccd_47_hidden>
-    </ccd_goods_pay>
-    <ccd_inv_pos>
-      <ccd_inv_pos>1</ccd_inv_pos>
-      <ccd_inv_name>Тканина текстильна синтетична з ниток різних кольорів виготовлена з комплексних синтетичних поліефірних текстурованих ниток на 100%, шириною більше 30см. 20895,60 м2.</ccd_inv_name>
-      <ccd_inv_price>3.40000000</ccd_inv_price>
-      <ccd_inv_sum_cur>22069.4000</ccd_inv_sum_cur>
-      <ccd_inv_qty>6491.00000000</ccd_inv_qty>
-      <ccd_inv_unit>166</ccd_inv_unit>
-      <ccd_inv_tm>немає даних</ccd_inv_tm>
-      <ccd_inv_prod_name>SUZHOU ZHUOFANG IMP. &amp; EXP. CO., LTD.</ccd_inv_prod_name>
-      <ccd_inv_prod_cnt>CN</ccd_inv_prod_cnt>
-    </ccd_inv_pos>
-    <ccd_goods_pack>
-      <pk_id>1813369</pk_id>
-      <ccd_pk_code>44</ccd_pk_code>
-      <ccd_pk_qty>295.000</ccd_pk_qty>
-    </ccd_goods_pack>
-  </ccd_goods>
-  <ccd_goods>
-    <ccd_32_01>3</ccd_32_01>
-    <ccd_31_01>1.Нитки швейні синтетичні 100%
-поліестер, різних кольорів, розфасовані
-для роздрібної торгівлі на пластикових
-шпулях, масою (включаючи масу шпулі)
-менше 1000 грамів, які пройшли
-завершальну обробку, з кінцевим
-крутінням, призначена для використання
-на швейних машинках. -2940кг.
-Торговельна марка : немає даних
-Країна виробництва : CN
-Виробник : SUZHOU ZHUOFANG IMP. &amp; EXP.
-CO., LTD.</ccd_31_01>
-    <ccd_31_02>1</ccd_31_02>
-    <ccd_31_03>350</ccd_31_03>
-    <ccd_31_03p>0</ccd_31_03p>
-    <ccd_33_01>5401109000</ccd_33_01>
-    <ccd_33_03>0</ccd_33_03>
-    <ccd_34_01>CN</ccd_34_01>
-    <ccd_35_01>3290.00000000</ccd_35_01>
-    <ccd_36_02>0</ccd_36_02>
-    <ccd_36_03>0</ccd_36_03>
-    <ccd_36_04>0</ccd_36_04>
-    <ccd_37_01>40</ccd_37_01>
-    <ccd_37_02>0</ccd_37_02>
-    <ccd_37_03>ZZ</ccd_37_03>
-    <ccd_37_04>00</ccd_37_04>
-    <ccd_38_01>2940.00000000</ccd_38_01>
-    <ccd_42_01>2940.0000</ccd_42_01>
-    <ccd_42_02>2940.0000</ccd_42_02>
-    <ccd_43_01>6</ccd_43_01>
-    <ccd_45_01>83797.82</ccd_45_01>
-    <ccd_46_01>83.79782</ccd_46_01>
-    <ccd_dcc_method>6</ccd_dcc_method>
-    <ccd_goods_cont>
-      <ccd_cnt_type>221</ccd_cnt_type>
-      <ccd_cnt_name>WFHU5177050</ccd_cnt_name>
-      <ccd_cnt_ispart>2</ccd_cnt_ispart>
-    </ccd_goods_cont>
-    <ccd_goods_dcc>
-      <ccd_dcc_code>89</ccd_dcc_code>
-      <ccd_dcc_cur>840</ccd_dcc_cur>
-      <ccd_dcc_cur_rate>26.63800000</ccd_dcc_cur_rate>
-      <ccd_dcc_price>1.0700</ccd_dcc_price>
-      <ccd_dcc_quant>2940.0000</ccd_dcc_quant>
-      <ccd_dcc_unit>166</ccd_dcc_unit>
-      <ccd_dcc_sum_cur>3145.8000</ccd_dcc_sum_cur>
-      <ccd_dcc_sum>83797.8204</ccd_dcc_sum>
-    </ccd_goods_dcc>
-    <ccd_goods_prv>
-      <ccd_doc_code>1801</ccd_doc_code>
-      <ccd_doc_name>UA807000/2020/908884</ccd_doc_name>
-      <ccd_doc_date_beg>20200515</ccd_doc_date_beg>
-      <ccd_doc_goods>2</ccd_doc_goods>
-    </ccd_goods_prv>
-    <ccd_goods_pay>
-      <ccd_47_code>20</ccd_47_code>
-      <ccd_47_base>83797.820</ccd_47_base>
-      <ccd_47_base_type>UAH</ccd_47_base_type>
-      <ccd_47_tax>0.0000</ccd_47_tax>
-      <ccd_47_tax_type>%</ccd_47_tax_type>
-      <ccd_47_sum>0.00</ccd_47_sum>
-      <ccd_47_sp>01</ccd_47_sp>
-      <ccd_47_cur>UAH</ccd_47_cur>
-      <ccd_47_hidden>0</ccd_47_hidden>
-    </ccd_goods_pay>
-    <ccd_goods_pay>
-      <ccd_47_code>28</ccd_47_code>
-      <ccd_47_base>83797.820</ccd_47_base>
-      <ccd_47_base_type>UAH</ccd_47_base_type>
-      <ccd_47_tax>20.0000</ccd_47_tax>
-      <ccd_47_tax_type>%</ccd_47_tax_type>
-      <ccd_47_sum>16759.56</ccd_47_sum>
-      <ccd_47_sp>01</ccd_47_sp>
-      <ccd_47_cur>UAH</ccd_47_cur>
-      <ccd_47_hidden>0</ccd_47_hidden>
-    </ccd_goods_pay>
-    <ccd_inv_pos>
-      <ccd_inv_pos>1</ccd_inv_pos>
-      <ccd_inv_name>Нитки швейні синтетичні 100% поліестер, різних кольорів, розфасовані для роздрібної торгівлі на пластикових шпулях, масою (включаючи масу шпулі) менше 1000 грамів, які пройшли завершальну обробку, з кінцевим крутінням, призначена для використання на швейних машинках.</ccd_inv_name>
-      <ccd_inv_price>1.00000000</ccd_inv_price>
-      <ccd_inv_sum_cur>2940.0000</ccd_inv_sum_cur>
-      <ccd_inv_qty>2940.00000000</ccd_inv_qty>
-      <ccd_inv_unit>166</ccd_inv_unit>
-      <ccd_inv_tm>немає даних</ccd_inv_tm>
-      <ccd_inv_prod_name>SUZHOU ZHUOFANG IMP. &amp; EXP. CO., LTD.</ccd_inv_prod_name>
-      <ccd_inv_prod_cnt>CN</ccd_inv_prod_cnt>
-    </ccd_inv_pos>
-    <ccd_goods_pack>
-      <pk_id>1813370</pk_id>
-      <ccd_pk_code>CT</ccd_pk_code>
-      <ccd_pk_qty>350.000</ccd_pk_qty>
-    </ccd_goods_pack>
-  </ccd_goods>
-  <ccd_goods>
-    <ccd_32_01>4</ccd_32_01>
-    <ccd_31_01>1.Комбінований матеріал штучна шкіра -
-являє собою матеріал з синтетичних
-поліефірних волокон на 100%, в рулонах.
-Кількість синтетичного матеріалу
-становить 47,5 (+/- 1)%, синтетичний
-матеріал з одного боку покритий
-поліуретаном, суцільним не пористим
-покриттям. -5415кг.
-Торговельна марка : немає даних
-Країна виробництва : CN
-Виробник : SUZHOU ZHUOFANG IMP. &amp; EXP.
-CO., LTD.</ccd_31_01>
-    <ccd_31_02>1</ccd_31_02>
-    <ccd_31_03>254</ccd_31_03>
-    <ccd_31_03p>0</ccd_31_03p>
-    <ccd_33_01>3921905590</ccd_33_01>
-    <ccd_33_03>0</ccd_33_03>
-    <ccd_34_01>CN</ccd_34_01>
-    <ccd_35_01>5579.00000000</ccd_35_01>
-    <ccd_36_02>0</ccd_36_02>
-    <ccd_36_03>0</ccd_36_03>
-    <ccd_36_04>0</ccd_36_04>
-    <ccd_37_01>40</ccd_37_01>
-    <ccd_37_02>0</ccd_37_02>
-    <ccd_37_03>ZZ</ccd_37_03>
-    <ccd_37_04>00</ccd_37_04>
-    <ccd_38_01>5415.00000000</ccd_38_01>
-    <ccd_42_01>9205.5000</ccd_42_01>
-    <ccd_42_02>9205.5000</ccd_42_02>
-    <ccd_43_01>6</ccd_43_01>
-    <ccd_45_01>248101.00</ccd_45_01>
-    <ccd_46_01>248.10100</ccd_46_01>
-    <ccd_dcc_method>6</ccd_dcc_method>
-    <ccd_goods_cont>
-      <ccd_cnt_type>221</ccd_cnt_type>
-      <ccd_cnt_name>WFHU5177050</ccd_cnt_name>
-      <ccd_cnt_ispart>2</ccd_cnt_ispart>
-    </ccd_goods_cont>
-    <ccd_goods_dcc>
-      <ccd_dcc_code>89</ccd_dcc_code>
-      <ccd_dcc_cur>840</ccd_dcc_cur>
-      <ccd_dcc_cur_rate>26.63800000</ccd_dcc_cur_rate>
-      <ccd_dcc_price>1.7200</ccd_dcc_price>
-      <ccd_dcc_quant>5415.0000</ccd_dcc_quant>
-      <ccd_dcc_unit>166</ccd_dcc_unit>
-      <ccd_dcc_sum_cur>9313.8000</ccd_dcc_sum_cur>
-      <ccd_dcc_sum>248101.0044</ccd_dcc_sum>
-    </ccd_goods_dcc>
-    <ccd_goods_prv>
-      <ccd_doc_code>1801</ccd_doc_code>
-      <ccd_doc_name>UA807000/2020/908884</ccd_doc_name>
-      <ccd_doc_date_beg>20200515</ccd_doc_date_beg>
-      <ccd_doc_goods>3</ccd_doc_goods>
-    </ccd_goods_prv>
-    <ccd_goods_pay>
-      <ccd_47_code>20</ccd_47_code>
-      <ccd_47_base>248101.000</ccd_47_base>
-      <ccd_47_base_type>UAH</ccd_47_base_type>
-      <ccd_47_tax>5.0000</ccd_47_tax>
-      <ccd_47_tax_type>%</ccd_47_tax_type>
-      <ccd_47_sum>12405.05</ccd_47_sum>
-      <ccd_47_sp>01</ccd_47_sp>
-      <ccd_47_cur>UAH</ccd_47_cur>
-      <ccd_47_hidden>0</ccd_47_hidden>
-    </ccd_goods_pay>
-    <ccd_goods_pay>
-      <ccd_47_code>28</ccd_47_code>
-      <ccd_47_base>260506.050</ccd_47_base>
-      <ccd_47_base_type>UAH</ccd_47_base_type>
-      <ccd_47_tax>20.0000</ccd_47_tax>
-      <ccd_47_tax_type>%</ccd_47_tax_type>
-      <ccd_47_sum>52101.21</ccd_47_sum>
-      <ccd_47_sp>01</ccd_47_sp>
-      <ccd_47_cur>UAH</ccd_47_cur>
-      <ccd_47_hidden>0</ccd_47_hidden>
-    </ccd_goods_pay>
-    <ccd_inv_pos>
-      <ccd_inv_pos>1</ccd_inv_pos>
-      <ccd_inv_name>Комбінований матеріал штучна шкіра - являє собою матеріал з синтетичних поліефірних волокон на 100%, в рулонах. Кількість синтетичного матеріалу становить 47,5 (+/- 1)%, синтетичний матеріал з одного боку покритий поліуретаном, суцільним не пористим покриттям.</ccd_inv_name>
-      <ccd_inv_price>1.70000000</ccd_inv_price>
-      <ccd_inv_sum_cur>9205.5000</ccd_inv_sum_cur>
-      <ccd_inv_qty>5415.00000000</ccd_inv_qty>
-      <ccd_inv_unit>166</ccd_inv_unit>
-      <ccd_inv_tm>немає даних</ccd_inv_tm>
-      <ccd_inv_prod_name>SUZHOU ZHUOFANG IMP. &amp; EXP. CO., LTD.</ccd_inv_prod_name>
-      <ccd_inv_prod_cnt>CN</ccd_inv_prod_cnt>
-    </ccd_inv_pos>
-    <ccd_goods_pack>
-      <pk_id>1813371</pk_id>
-      <ccd_pk_code>44</ccd_pk_code>
-      <ccd_pk_qty>254.000</ccd_pk_qty>
-    </ccd_goods_pack>
-  </ccd_goods>
-  <ccd_goods>
-    <ccd_32_01>5</ccd_32_01>
-    <ccd_31_01>1.Вироби зі скла для лабораторних цілей,
+<ZVIT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>18.05.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>43233703</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.05.2020</PERDATE>
+        <DOCID>b14ccbb7-f039-4e2b-ab86-15fe372a6b94</DOCID>
+        <CHARCODE>J1201010</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" TAB="0" NAME="REP_KS">
+          <VALUE>218355044</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_NAME">
+          <VALUE>ТОВ "ПРОФІСТАЛЬ ЛТД"</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_ADR">
+          <VALUE>Україна,61023,м.Харків,вул.Пушкінсь ка,буд.106</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1">
+          <VALUE>7589</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A5_7">
+          <VALUE>1537776.47</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_7">
+          <VALUE>307555.29</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A6_11">
+          <VALUE>307555.29</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="A7_11">
+          <VALUE>1845331.76</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_INN">
+          <VALUE>432337020313</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N11">
+          <VALUE>18.05.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SN">
+          <VALUE>№7589</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_1I">
+          <VALUE>7589</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="NAKL_TYPE">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="FIRM_EDRPOU">
+          <VALUE>43233703</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N2_11">
+          <VALUE>7589</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N19">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="IDORG">
+          <VALUE>785</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="N21">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="VER">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="SERVICEPRESENCE">
+          <VALUE>Відсутній</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="0" NAME="EDRPOU">
+          <VALUE>43233703</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="RECNO">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A13">
+          <VALUE>Тканина текстильна синтетична пофарбована, виготовлена з комплексних синтетичних нетекстурованих поліефірних ниток на 100%, без просочення і покриття, шириною більше 30см. 50416,00 м2.</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A15">
+          <VALUE>4825</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A16">
+          <VALUE>98.174</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A131">
+          <VALUE>5407613000</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A10">
+          <VALUE>473689.55</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" TAB="1" NAME="TAB1_A20">
+          <VALUE>94737.91</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="RECNO">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A1">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A13">
+          <VALUE>Тканина текстильна синтетична з ниток різних кольорів виготовлена з комплексних синтетичних поліефірних текстурованих ниток на 100%, шириною більше 30см. 20895,60 м2.</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A15">
+          <VALUE>6491</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A16">
+          <VALUE>98.174</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A131">
+          <VALUE>5407530000</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A10">
+          <VALUE>637247.43</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" TAB="1" NAME="TAB1_A20">
+          <VALUE>127449.486</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="RECNO">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A1">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A13">
+          <VALUE>Нитки швейні синтетичні 100% поліестер, різних кольорів, розфасовані для роздрібної торгівлі на пластикових шпулях, масою (включаючи масу шпулі) менше 1000 грамів, які пройшли завершальну обробку, з кінцевим крутінням, призначена для використання на швейних машинках.</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A15">
+          <VALUE>2940</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A16">
+          <VALUE>28.503</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A131">
+          <VALUE>5401109000</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A10">
+          <VALUE>83798.82</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="2" TAB="1" NAME="TAB1_A20">
+          <VALUE>16759.764</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="RECNO">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A1">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A13">
+          <VALUE>Комбінований матеріал штучна шкіра - являє собою матеріал з синтетичних поліефірних волокон на 100%, в рулонах. Кількість синтетичного матеріалу становить 47,5 (+/- 1)%, синтетичний матеріал з одного боку покритий поліуретаном, суцільним не пористим покриттям.</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A15">
+          <VALUE>5415</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A16">
+          <VALUE>48.108</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A131">
+          <VALUE>3921905590</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A10">
+          <VALUE>260504.82</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="3" TAB="1" NAME="TAB1_A20">
+          <VALUE>52100.964</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="RECNO">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A1">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A13">
+          <VALUE>Вироби зі скла для лабораторних цілей,
 флакон скляний для використання в
 лабораторному обладнанні ємністю 30мл з
 дозуючою піпеткою і кришкою, в
 разобанному вигляді на час
-транспортування. -224кг.
-Торговельна марка : немає даних
-Країна виробництва : CN
-Виробник : SUZHOU ZHUOFANG IMP. &amp; EXP.
-CO., LTD.</ccd_31_01>
-    <ccd_31_02>1</ccd_31_02>
-    <ccd_31_03>1</ccd_31_03>
-    <ccd_31_03p>0</ccd_31_03p>
-    <ccd_33_01>7017900000</ccd_33_01>
-    <ccd_33_03>0</ccd_33_03>
-    <ccd_34_01>CN</ccd_34_01>
-    <ccd_35_01>233.00000000</ccd_35_01>
-    <ccd_36_02>0</ccd_36_02>
-    <ccd_36_03>0</ccd_36_03>
-    <ccd_36_04>0</ccd_36_04>
-    <ccd_37_01>40</ccd_37_01>
-    <ccd_37_02>0</ccd_37_02>
-    <ccd_37_03>ZZ</ccd_37_03>
-    <ccd_37_04>00</ccd_37_04>
-    <ccd_38_01>224.00000000</ccd_38_01>
-    <ccd_42_01>380.8000</ccd_42_01>
-    <ccd_42_02>380.8000</ccd_42_02>
-    <ccd_43_01>6</ccd_43_01>
-    <ccd_45_01>12530.52</ccd_45_01>
-    <ccd_46_01>12.53052</ccd_46_01>
-    <ccd_dcc_method>6</ccd_dcc_method>
-    <ccd_goods_cont>
-      <ccd_cnt_type>221</ccd_cnt_type>
-      <ccd_cnt_name>WFHU5177050</ccd_cnt_name>
-      <ccd_cnt_ispart>2</ccd_cnt_ispart>
-    </ccd_goods_cont>
-    <ccd_goods_dcc>
-      <ccd_dcc_code>89</ccd_dcc_code>
-      <ccd_dcc_cur>840</ccd_dcc_cur>
-      <ccd_dcc_cur_rate>26.63800000</ccd_dcc_cur_rate>
-      <ccd_dcc_price>2.1000</ccd_dcc_price>
-      <ccd_dcc_quant>224.0000</ccd_dcc_quant>
-      <ccd_dcc_unit>166</ccd_dcc_unit>
-      <ccd_dcc_sum_cur>470.4000</ccd_dcc_sum_cur>
-      <ccd_dcc_sum>12530.5152</ccd_dcc_sum>
-    </ccd_goods_dcc>
-    <ccd_goods_prv>
-      <ccd_doc_code>1801</ccd_doc_code>
-      <ccd_doc_name>UA807000/2020/908884</ccd_doc_name>
-      <ccd_doc_date_beg>20200515</ccd_doc_date_beg>
-      <ccd_doc_goods>4</ccd_doc_goods>
-    </ccd_goods_prv>
-    <ccd_goods_pay>
-      <ccd_47_code>20</ccd_47_code>
-      <ccd_47_base>12530.520</ccd_47_base>
-      <ccd_47_base_type>UAH</ccd_47_base_type>
-      <ccd_47_tax>10.0000</ccd_47_tax>
-      <ccd_47_tax_type>%</ccd_47_tax_type>
-      <ccd_47_sum>1253.05</ccd_47_sum>
-      <ccd_47_sp>01</ccd_47_sp>
-      <ccd_47_cur>UAH</ccd_47_cur>
-      <ccd_47_hidden>0</ccd_47_hidden>
-    </ccd_goods_pay>
-    <ccd_goods_pay>
-      <ccd_47_code>28</ccd_47_code>
-      <ccd_47_base>13783.570</ccd_47_base>
-      <ccd_47_base_type>UAH</ccd_47_base_type>
-      <ccd_47_tax>20.0000</ccd_47_tax>
-      <ccd_47_tax_type>%</ccd_47_tax_type>
-      <ccd_47_sum>2756.71</ccd_47_sum>
-      <ccd_47_sp>01</ccd_47_sp>
-      <ccd_47_cur>UAH</ccd_47_cur>
-      <ccd_47_hidden>0</ccd_47_hidden>
-    </ccd_goods_pay>
-    <ccd_inv_pos>
-      <ccd_inv_pos>1</ccd_inv_pos>
-      <ccd_inv_name>Вироби зі скла для лабораторних цілей,
-флакон скляний для використання в
-лабораторному обладнанні ємністю 30мл з
-дозуючою піпеткою і кришкою, в
-разобанному вигляді на час
-транспортування</ccd_inv_name>
-      <ccd_inv_price>1.70000000</ccd_inv_price>
-      <ccd_inv_sum_cur>380.8000</ccd_inv_sum_cur>
-      <ccd_inv_qty>224.00000000</ccd_inv_qty>
-      <ccd_inv_unit>166</ccd_inv_unit>
-      <ccd_inv_tm>немає даних</ccd_inv_tm>
-      <ccd_inv_prod_name>SUZHOU ZHUOFANG IMP. &amp; EXP. CO., LTD.</ccd_inv_prod_name>
-      <ccd_inv_prod_cnt>CN</ccd_inv_prod_cnt>
-    </ccd_inv_pos>
-    <ccd_goods_pack>
-      <pk_id>1813372</pk_id>
-      <ccd_pk_code>CT</ccd_pk_code>
-      <ccd_pk_qty>1.000</ccd_pk_qty>
-    </ccd_goods_pack>
-  </ccd_goods>
-  <ccd_goods>
-    <ccd_32_01>6</ccd_32_01>
-    <ccd_31_01>1.Частини змійок-блискавок з
-недорогоцінного металу, бігунок. -195кг.
-Торговельна марка : немає даних
-Країна виробництва : CN
-Виробник : SUZHOU ZHUOFANG IMP. &amp; EXP.
-CO., LTD.</ccd_31_01>
-    <ccd_31_02>1</ccd_31_02>
-    <ccd_31_03>10</ccd_31_03>
-    <ccd_31_03p>0</ccd_31_03p>
-    <ccd_33_01>9607201000</ccd_33_01>
-    <ccd_33_03>0</ccd_33_03>
-    <ccd_34_01>CN</ccd_34_01>
-    <ccd_35_01>204.00000000</ccd_35_01>
-    <ccd_36_02>0</ccd_36_02>
-    <ccd_36_03>0</ccd_36_03>
-    <ccd_36_04>0</ccd_36_04>
-    <ccd_37_01>40</ccd_37_01>
-    <ccd_37_02>0</ccd_37_02>
-    <ccd_37_03>ZZ</ccd_37_03>
-    <ccd_37_04>00</ccd_37_04>
-    <ccd_38_01>195.00000000</ccd_38_01>
-    <ccd_42_01>331.5000</ccd_42_01>
-    <ccd_42_02>331.5000</ccd_42_02>
-    <ccd_43_01>6</ccd_43_01>
-    <ccd_45_01>14596.29</ccd_45_01>
-    <ccd_46_01>14.59629</ccd_46_01>
-    <ccd_dcc_method>6</ccd_dcc_method>
-    <ccd_goods_cont>
-      <ccd_cnt_type>221</ccd_cnt_type>
-      <ccd_cnt_name>WFHU5177050</ccd_cnt_name>
-      <ccd_cnt_ispart>2</ccd_cnt_ispart>
-    </ccd_goods_cont>
-    <ccd_goods_dcc>
-      <ccd_dcc_code>89</ccd_dcc_code>
-      <ccd_dcc_cur>840</ccd_dcc_cur>
-      <ccd_dcc_cur_rate>26.63800000</ccd_dcc_cur_rate>
-      <ccd_dcc_price>2.8100</ccd_dcc_price>
-      <ccd_dcc_quant>195.0000</ccd_dcc_quant>
-      <ccd_dcc_unit>166</ccd_dcc_unit>
-      <ccd_dcc_sum_cur>547.9500</ccd_dcc_sum_cur>
-      <ccd_dcc_sum>14596.2921</ccd_dcc_sum>
-    </ccd_goods_dcc>
-    <ccd_goods_prv>
-      <ccd_doc_code>1801</ccd_doc_code>
-      <ccd_doc_name>UA807000/2020/908884</ccd_doc_name>
-      <ccd_doc_date_beg>20200515</ccd_doc_date_beg>
-      <ccd_doc_goods>5</ccd_doc_goods>
-    </ccd_goods_prv>
-    <ccd_goods_pay>
-      <ccd_47_code>20</ccd_47_code>
-      <ccd_47_base>14596.290</ccd_47_base>
-      <ccd_47_base_type>UAH</ccd_47_base_type>
-      <ccd_47_tax>10.0000</ccd_47_tax>
-      <ccd_47_tax_type>%</ccd_47_tax_type>
-      <ccd_47_sum>1459.63</ccd_47_sum>
-      <ccd_47_sp>01</ccd_47_sp>
-      <ccd_47_cur>UAH</ccd_47_cur>
-      <ccd_47_hidden>0</ccd_47_hidden>
-    </ccd_goods_pay>
-    <ccd_goods_pay>
-      <ccd_47_code>28</ccd_47_code>
-      <ccd_47_base>16055.920</ccd_47_base>
-      <ccd_47_base_type>UAH</ccd_47_base_type>
-      <ccd_47_tax>20.0000</ccd_47_tax>
-      <ccd_47_tax_type>%</ccd_47_tax_type>
-      <ccd_47_sum>3211.18</ccd_47_sum>
-      <ccd_47_sp>01</ccd_47_sp>
-      <ccd_47_cur>UAH</ccd_47_cur>
-      <ccd_47_hidden>0</ccd_47_hidden>
-    </ccd_goods_pay>
-    <ccd_inv_pos>
-      <ccd_inv_pos>1</ccd_inv_pos>
-      <ccd_inv_name>Частини змійок-блискавок з недорогоцінного металу, бігунок.</ccd_inv_name>
-      <ccd_inv_price>1.70000000</ccd_inv_price>
-      <ccd_inv_sum_cur>331.5000</ccd_inv_sum_cur>
-      <ccd_inv_qty>195.00000000</ccd_inv_qty>
-      <ccd_inv_unit>166</ccd_inv_unit>
-      <ccd_inv_tm>немає даних</ccd_inv_tm>
-      <ccd_inv_prod_name>SUZHOU ZHUOFANG IMP. &amp; EXP. CO., LTD.</ccd_inv_prod_name>
-      <ccd_inv_prod_cnt>CN</ccd_inv_prod_cnt>
-    </ccd_inv_pos>
-    <ccd_goods_pack>
-      <pk_id>1813373</pk_id>
-      <ccd_pk_code>CT</ccd_pk_code>
-      <ccd_pk_qty>10.000</ccd_pk_qty>
-    </ccd_goods_pack>
-  </ccd_goods>
-  <ccd_goods>
-    <ccd_32_01>7</ccd_32_01>
-    <ccd_31_01>1.Полотно з поліестеру з пластиковими
-зубчиками для "застібок-блискавок" в
-рулонах без повзунків. -640кг.
-Торговельна марка : немає даних
-Країна виробництва : CN
-Виробник : SUZHOU ZHUOFANG IMP. &amp; EXP.
-CO., LTD.
-    </ccd_31_01>
-    <ccd_31_02>1</ccd_31_02>
-    <ccd_31_03>22</ccd_31_03>
-    <ccd_31_03p>0</ccd_31_03p>
-    <ccd_33_01>9607209000</ccd_33_01>
-    <ccd_33_03>0</ccd_33_03>
-    <ccd_34_01>CN</ccd_34_01>
-    <ccd_35_01>667.38000000</ccd_35_01>
-    <ccd_36_02>0</ccd_36_02>
-    <ccd_36_03>0</ccd_36_03>
-    <ccd_36_04>0</ccd_36_04>
-    <ccd_37_01>40</ccd_37_01>
-    <ccd_37_02>0</ccd_37_02>
-    <ccd_37_03>ZZ</ccd_37_03>
-    <ccd_37_04>00</ccd_37_04>
-    <ccd_38_01>640.00000000</ccd_38_01>
-    <ccd_42_01>1216.0000</ccd_42_01>
-    <ccd_42_02>1216.0000</ccd_42_02>
-    <ccd_43_01>6</ccd_43_01>
-    <ccd_45_01>47905.78</ccd_45_01>
-    <ccd_46_01>47.90578</ccd_46_01>
-    <ccd_dcc_method>6</ccd_dcc_method>
-    <ccd_goods_cont>
-      <ccd_cnt_type>221</ccd_cnt_type>
-      <ccd_cnt_name>WFHU5177050</ccd_cnt_name>
-      <ccd_cnt_ispart>2</ccd_cnt_ispart>
-    </ccd_goods_cont>
-    <ccd_goods_dcc>
-      <ccd_dcc_code>89</ccd_dcc_code>
-      <ccd_dcc_cur>840</ccd_dcc_cur>
-      <ccd_dcc_cur_rate>26.63800000</ccd_dcc_cur_rate>
-      <ccd_dcc_price>2.8100</ccd_dcc_price>
-      <ccd_dcc_quant>640.0000</ccd_dcc_quant>
-      <ccd_dcc_unit>166</ccd_dcc_unit>
-      <ccd_dcc_sum_cur>1798.4000</ccd_dcc_sum_cur>
-      <ccd_dcc_sum>47905.7792</ccd_dcc_sum>
-    </ccd_goods_dcc>
-    <ccd_goods_prv>
-      <ccd_doc_code>1801</ccd_doc_code>
-      <ccd_doc_name>UA807000/2020/908884</ccd_doc_name>
-      <ccd_doc_date_beg>20200515</ccd_doc_date_beg>
-      <ccd_doc_goods>5</ccd_doc_goods>
-    </ccd_goods_prv>
-    <ccd_goods_pay>
-      <ccd_47_code>20</ccd_47_code>
-      <ccd_47_base>47905.780</ccd_47_base>
-      <ccd_47_base_type>UAH</ccd_47_base_type>
-      <ccd_47_tax>10.0000</ccd_47_tax>
-      <ccd_47_tax_type>%</ccd_47_tax_type>
-      <ccd_47_sum>4790.58</ccd_47_sum>
-      <ccd_47_sp>01</ccd_47_sp>
-      <ccd_47_cur>UAH</ccd_47_cur>
-      <ccd_47_hidden>0</ccd_47_hidden>
-    </ccd_goods_pay>
-    <ccd_goods_pay>
-      <ccd_47_code>28</ccd_47_code>
-      <ccd_47_base>52696.360</ccd_47_base>
-      <ccd_47_base_type>UAH</ccd_47_base_type>
-      <ccd_47_tax>20.0000</ccd_47_tax>
-      <ccd_47_tax_type>%</ccd_47_tax_type>
-      <ccd_47_sum>10539.27</ccd_47_sum>
-      <ccd_47_sp>01</ccd_47_sp>
-      <ccd_47_cur>UAH</ccd_47_cur>
-      <ccd_47_hidden>0</ccd_47_hidden>
-    </ccd_goods_pay>
-    <ccd_inv_pos>
-      <ccd_inv_pos>1</ccd_inv_pos>
-      <ccd_inv_name>Полотно з поліестеру з пластиковими зубчиками для "застібок-блискавок" в рулонах без повзунків.</ccd_inv_name>
-      <ccd_inv_price>1.90000000</ccd_inv_price>
-      <ccd_inv_sum_cur>1216.0000</ccd_inv_sum_cur>
-      <ccd_inv_qty>640.00000000</ccd_inv_qty>
-      <ccd_inv_unit>166</ccd_inv_unit>
-      <ccd_inv_tm>немає даних</ccd_inv_tm>
-      <ccd_inv_prod_name>SUZHOU ZHUOFANG IMP. &amp; EXP. CO., LTD.</ccd_inv_prod_name>
-      <ccd_inv_prod_cnt>CN</ccd_inv_prod_cnt>
-    </ccd_inv_pos>
-    <ccd_goods_pack>
-      <pk_id>1813374</pk_id>
-      <ccd_pk_code>CT</ccd_pk_code>
-      <ccd_pk_qty>22.000</ccd_pk_qty>
-    </ccd_goods_pack>
-  </ccd_goods>
-  <ccd_cmn_doc>
-    <ccd_doc_code>0003</ccd_doc_code>
-    <ccd_doc_name>б/н</ccd_doc_name>
-    <ccd_doc_date_beg>20200406</ccd_doc_date_beg>
-  </ccd_cmn_doc>
-  <ccd_cmn_doc>
-    <ccd_doc_code>0380</ccd_doc_code>
-    <ccd_doc_name>ZF200604-Y</ccd_doc_name>
-    <ccd_doc_date_beg>20200406</ccd_doc_date_beg>
-  </ccd_cmn_doc>
-  <ccd_cmn_doc>
-    <ccd_doc_code>0380</ccd_doc_code>
-    <ccd_doc_name>ZF201805-Y-01</ccd_doc_name>
-    <ccd_doc_date_beg>20200518</ccd_doc_date_beg>
-  </ccd_cmn_doc>
-  <ccd_cmn_doc>
-    <ccd_doc_code>0705</ccd_doc_code>
-    <ccd_doc_name>SHWS220040343</ccd_doc_name>
-    <ccd_doc_date_beg>20200406</ccd_doc_date_beg>
-  </ccd_cmn_doc>
-  <ccd_cmn_doc>
-    <ccd_doc_code>0730</ccd_doc_code>
-    <ccd_doc_name>779</ccd_doc_name>
-    <ccd_doc_date_beg>20200515</ccd_doc_date_beg>
-  </ccd_cmn_doc>
-  <ccd_cmn_doc>
-    <ccd_doc_code>0862</ccd_doc_code>
-    <ccd_doc_name>ZF200604-Y</ccd_doc_name>
-    <ccd_doc_date_beg>20200406</ccd_doc_date_beg>
-  </ccd_cmn_doc>
-  <ccd_cmn_doc>
-    <ccd_doc_code>4104</ccd_doc_code>
-    <ccd_doc_name>ZF201805-Y</ccd_doc_name>
-    <ccd_doc_date_beg>20200518</ccd_doc_date_beg>
-  </ccd_cmn_doc>
-  <ccd_cmn_doc>
-    <ccd_doc_code>9000</ccd_doc_code>
-    <ccd_doc_name>Результати зважування №РК-25075076</ccd_doc_name>
-    <ccd_doc_date_beg>20200515</ccd_doc_date_beg>
-  </ccd_cmn_doc>
-  <ccd_cmn_doc>
-    <ccd_doc_code>9000</ccd_doc_code>
-    <ccd_doc_name>18-05-2020/1</ccd_doc_name>
-    <ccd_doc_date_beg>20200518</ccd_doc_date_beg>
-  </ccd_cmn_doc>
-  <ccd_cmn_doc>
-    <ccd_doc_code>9000</ccd_doc_code>
-    <ccd_doc_name>Лист №б/н</ccd_doc_name>
-    <ccd_doc_date_beg>20200518</ccd_doc_date_beg>
-  </ccd_cmn_doc>
-  <ccd_proc>
-    <pr_code>12</pr_code>
-    <pr_user>Kasich</pr_user>
-    <pr_pib>Касіч Юрій Олексійович</pr_pib>
-    <pr_cert>923815</pr_cert>
-    <pr_date>20200518T132031</pr_date>
-    <pr_srv_date>20200518T132335</pr_srv_date>
-    <proc_name>Реєстрація митної декларації</proc_name>
-    <pr_pib_ins>Касіч Юрій Олексійович</pr_pib_ins>
-    <pr_cert_ins>923815</pr_cert_ins>
-  </ccd_proc>
-  <ccd_proc>
-    <pr_code>9</pr_code>
-    <pr_user>Kasich</pr_user>
-    <pr_pib>Касіч Юрій Олексійович</pr_pib>
-    <pr_cert>923815</pr_cert>
-    <pr_date>20200518T132054</pr_date>
-    <pr_srv_date>20200518T132344</pr_srv_date>
-    <proc_name>Контроль із застосуванням системи управління ризиками</proc_name>
-    <pr_pib_ins>Касіч Юрій Олексійович</pr_pib_ins>
-    <pr_cert_ins>923815</pr_cert_ins>
-  </ccd_proc>
-  <ccd_proc>
-    <pr_code>1</pr_code>
-    <pr_user>Kasich</pr_user>
-    <pr_pib>Касіч Юрій Олексійович</pr_pib>
-    <pr_cert>923815</pr_cert>
-    <pr_date>20200518T132321</pr_date>
-    <pr_srv_date>20200518T132335</pr_srv_date>
-    <proc_name>Прийняття митної декларації до митного оформлення</proc_name>
-    <pr_pib_ins>Касіч Юрій Олексійович</pr_pib_ins>
-    <pr_cert_ins>923815</pr_cert_ins>
-  </ccd_proc>
-  <ccd_proc>
-    <pr_code>14</pr_code>
-    <pr_user>Kasich</pr_user>
-    <pr_pib>Касіч Юрій Олексійович</pr_pib>
-    <pr_cert>923815</pr_cert>
-    <pr_date>20200518T132336</pr_date>
-    <pr_srv_date>20200518T132627</pr_srv_date>
-    <proc_name>Повідомлення про необхідність пред’явлення товарів, додаткових документів та/або відомостей митному органу</proc_name>
-    <pr_pib_ins>Касіч Юрій Олексійович</pr_pib_ins>
-    <pr_cert_ins>923815</pr_cert_ins>
-  </ccd_proc>
-  <ccd_proc>
-    <pr_code>2</pr_code>
-    <pr_user>Kasich</pr_user>
-    <pr_pib>Касіч Юрій Олексійович</pr_pib>
-    <pr_cert>923815</pr_cert>
-    <pr_date>20200518T134925</pr_date>
-    <pr_srv_date>20200518T165058</pr_srv_date>
-    <proc_name>Перевірка правильності класифікації та кодування товарів</proc_name>
-    <pr_pib_ins>Касіч Юрій Олексійович</pr_pib_ins>
-    <pr_cert_ins>923815</pr_cert_ins>
-  </ccd_proc>
-  <ccd_proc>
-    <pr_code>11</pr_code>
-    <pr_user>Kasich</pr_user>
-    <pr_pib>Касіч Юрій Олексійович</pr_pib>
-    <pr_cert>923815</pr_cert>
-    <pr_date>20200518T135427</pr_date>
-    <pr_srv_date>20200518T165058</pr_srv_date>
-    <proc_name>Перевірка наявності задекларованих товарів у реєстрі товарів, що містять об’єкти інтелектуальної власності</proc_name>
-    <pr_pib_ins>Касіч Юрій Олексійович</pr_pib_ins>
-    <pr_cert_ins>923815</pr_cert_ins>
-  </ccd_proc>
-  <ccd_proc>
-    <pr_code>17</pr_code>
-    <pr_user>Kasich</pr_user>
-    <pr_pib>Касіч Юрій Олексійович</pr_pib>
-    <pr_cert>923815</pr_cert>
-    <pr_date>20200518T135930</pr_date>
-    <pr_srv_date>20200518T165058</pr_srv_date>
-    <proc_name>Перевірка правильності визначення країни походження товарів</proc_name>
-    <pr_pib_ins>Касіч Юрій Олексійович</pr_pib_ins>
-    <pr_cert_ins>923815</pr_cert_ins>
-  </ccd_proc>
-  <ccd_proc>
-    <pr_code>18</pr_code>
-    <pr_user>Kasich</pr_user>
-    <pr_pib>Касіч Юрій Олексійович</pr_pib>
-    <pr_cert>923815</pr_cert>
-    <pr_date>20200518T141531</pr_date>
-    <pr_srv_date>20200518T165058</pr_srv_date>
-    <proc_name>Перевірка дотримання встановлених до товарів заходів нетарифного регулювання</proc_name>
-    <pr_pib_ins>Касіч Юрій Олексійович</pr_pib_ins>
-    <pr_cert_ins>923815</pr_cert_ins>
-  </ccd_proc>
-  <ccd_proc>
-    <pr_code>19</pr_code>
-    <pr_user>Kasich</pr_user>
-    <pr_pib>Касіч Юрій Олексійович</pr_pib>
-    <pr_cert>923815</pr_cert>
-    <pr_date>20200518T142533</pr_date>
-    <pr_srv_date>20200518T165058</pr_srv_date>
-    <proc_name>Перевірка правильності застосування пільг в оподаткуванні</proc_name>
-    <pr_pib_ins>Касіч Юрій Олексійович</pr_pib_ins>
-    <pr_cert_ins>923815</pr_cert_ins>
-  </ccd_proc>
-  <ccd_proc>
-    <pr_code>3</pr_code>
-    <pr_user>Kasich</pr_user>
-    <pr_pib>Касіч Юрій Олексійович</pr_pib>
-    <pr_cert>923815</pr_cert>
-    <pr_date>20200518T143553</pr_date>
-    <pr_srv_date>20200518T165058</pr_srv_date>
-    <proc_name>Перевірка правильності визначення митної вартості товарів</proc_name>
-    <pr_pib_ins>Касіч Юрій Олексійович</pr_pib_ins>
-    <pr_cert_ins>923815</pr_cert_ins>
-  </ccd_proc>
-  <ccd_proc>
-    <pr_code>8</pr_code>
-    <pr_user>Kasich</pr_user>
-    <pr_pib>Касіч Юрій Олексійович</pr_pib>
-    <pr_cert>923815</pr_cert>
-    <pr_date>20200518T163534</pr_date>
-    <pr_srv_date>20200518T163825</pr_srv_date>
-    <proc_name>Проведення митного огляду товарів</proc_name>
-    <pr_pib_ins>Касіч Юрій Олексійович</pr_pib_ins>
-    <pr_cert_ins>923815</pr_cert_ins>
-  </ccd_proc>
-  <ccd_proc>
-    <pr_code>4</pr_code>
-    <pr_user>Kasich</pr_user>
-    <pr_pib>Касіч Юрій Олексійович</pr_pib>
-    <pr_cert>923815</pr_cert>
-    <pr_date>20200518T164255</pr_date>
-    <pr_srv_date>20200518T165058</pr_srv_date>
-    <proc_name>Перевірка правильності нарахування митних платежів</proc_name>
-    <pr_pib_ins>Касіч Юрій Олексійович</pr_pib_ins>
-    <pr_cert_ins>923815</pr_cert_ins>
-  </ccd_proc>
-  <ccd_proc>
-    <pr_code>10</pr_code>
-    <pr_user>Kasich</pr_user>
-    <pr_pib>Касіч Юрій Олексійович</pr_pib>
-    <pr_cert>923815</pr_cert>
-    <pr_date>20200518T164657</pr_date>
-    <pr_srv_date>20200518T165058</pr_srv_date>
-    <proc_name>Перевірка відомостей про виконання митних формальностей, сформованих за результатами оцінки ризику</proc_name>
-    <pr_pib_ins>Касіч Юрій Олексійович</pr_pib_ins>
-    <pr_cert_ins>923815</pr_cert_ins>
-  </ccd_proc>
-  <ccd_proc>
-    <pr_code>5</pr_code>
-    <pr_user>Kasich</pr_user>
-    <pr_pib>Касіч Юрій Олексійович</pr_pib>
-    <pr_cert>923815</pr_cert>
-    <pr_date>20200518T165310</pr_date>
-    <pr_srv_date>20200518T165351</pr_srv_date>
-    <proc_name>Завершення митного оформлення</proc_name>
-    <pr_pib_ins>Касіч Юрій Олексійович</pr_pib_ins>
-    <pr_cert_ins>923815</pr_cert_ins>
-  </ccd_proc>
-</ccd>
+транспортування</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A15">
+          <VALUE>224</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A16">
+          <VALUE>61.534</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A131">
+          <VALUE>7017900000</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A10">
+          <VALUE>13783.62</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="4" TAB="1" NAME="TAB1_A20">
+          <VALUE>2756.724</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="RECNO">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A1">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A13">
+          <VALUE>Частини змійок-блискавок з недорогоцінного металу, бігунок.</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A15">
+          <VALUE>195</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A16">
+          <VALUE>82.338</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A131">
+          <VALUE>9607201000</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A10">
+          <VALUE>16055.91</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="5" TAB="1" NAME="TAB1_A20">
+          <VALUE>3211.182</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="RECNO">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A1">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A13">
+          <VALUE>Полотно з поліестеру з пластиковими зубчиками для "застібок-блискавок" в рулонах без повзунків.</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A14">
+          <VALUE>кг</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A15">
+          <VALUE>640</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A16">
+          <VALUE>82.338</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A131">
+          <VALUE>9607209000</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A141">
+          <VALUE>0301</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A10">
+          <VALUE>52696.32</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A132">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="6" TAB="1" NAME="TAB1_A20">
+          <VALUE>10539.264</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
